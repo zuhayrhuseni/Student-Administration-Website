@@ -15,20 +15,18 @@ This repository contains the code for a student administration system designed t
    ```bash
    git clone https://github.com/zuhayrhuseni/Student-Administration-Website.git
    cd Student-Administration-Website
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-3. **Set up AWS credentials**:
+   
+2. **Set up AWS credentials**:
    Ensure you have your AWS credentials configured to allow access to DynamoDB.
    
-4. **Create DynamoDB tables**:
+3. **Create DynamoDB tables**:
    Run the `createtable-*.py` scripts to create necessary tables in DynamoDB.
    ```bash
    python createtable-courses.py
    python createtable-subjects.py
    python createtable-users.py
    
-5. **Populate initial data**:
+4. **Populate initial data**:
    Use the `starterPopulation.py` script to populate the tables with initial data.
    ```bash
    python starterPopulation.py

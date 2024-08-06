@@ -20,6 +20,7 @@ This repository contains the code for a student administration system designed t
    pip install -r requirements.txt
 3. **Set up AWS credentials**:
    Ensure you have your AWS credentials configured to allow access to DynamoDB.
+   
 4. **Create DynamoDB tables**:
    Run the `createtable-*.py` scripts to create necessary tables in DynamoDB.
    ```bash

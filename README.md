@@ -1,61 +1,40 @@
-Student Administration Website
-This repository contains the code for a student administration system designed to manage and streamline various administrative tasks for educational institutions.
+# Student Administration Website
 
-Features
-User Authentication
-Course Management
-Student Enrollment
-Data Management using DynamoDB
-RESTful API Endpoints
-Project Structure
+This repository contains the code for a student administration system designed to manage and streamline various administrative tasks for the University of Connecticut.
 
-.
-├── backend
-│   ├── lambdafunc
-│   └── setup
-│       ├── archive
-│       │   ├── coursebatch.py
-│       │   ├── courses.json
-│       │   ├── populate.py
-│       │   ├── populateold.py
-│       │   ├── userbatch.py
-│       │   ├── users.json
-│       ├── resources
-│           ├── EXsubj1234.json
-│           ├── EXsubjects.json
-│           ├── EXusers.json
-│           ├── subjects.json
-│           ├── users.json
-├── createtable-courses.py
-├── createtable-subjects.py
-├── createtable-users.py
-├── starterPopulation.py
-└── procedure.txt
+## Features
+- User Authentication
+- Course Management
+- Student Enrollment
+- Data Management using DynamoDB
+- RESTful API Endpoints
 
-Setup Instructions
+## Setup Instructions
 
-Clone the repository:
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/zuhayrhuseni/Student-Administration-Website.git
+   cd Student-Administration-Website
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+3. **Set up AWS credentials**:
+   Ensure you have your AWS credentials configured to allow access to DynamoDB.
+4. **Create DynamoDB tables**:
+   Run the `createtable-*.py` scripts to create necessary tables in DynamoDB.
+   ```bash
+   python createtable-courses.py
+   python createtable-subjects.py
+   python createtable-users.py
+   
+5. **Populate initial data**:
+   Use the `starterPopulation.py` script to populate the tables with initial data.
+   ```bash
+   python starterPopulation.py
 
-git clone https://github.com/zuhayrhuseni/Student-Administration-Website.git
-cd Student-Administration-Website
-Install dependencies:
+## Usage
 
-pip install -r requirements.txt
-Set up AWS credentials:
-Ensure you have your AWS credentials configured to allow access to DynamoDB.
-
-Create DynamoDB tables:
-Run the createtable-*.py scripts to create necessary tables in DynamoDB.
-
-python createtable-courses.py
-python createtable-subjects.py
-python createtable-users.py
-Populate initial data:
-Use the starterPopulation.py script to populate the tables with initial data.
-python starterPopulation.py
-Usage
-Running the backend:
-Deploy the backend on AWS Lambda or your preferred server.
-
-API Endpoints:
-Use the provided scripts and API endpoints to interact with the system.
+- **Running the backend**:
+  Deploy the backend on AWS Lambda or your preferred server.
+- **API Endpoints**:
+  Use the provided scripts and API endpoints to interact with the system.

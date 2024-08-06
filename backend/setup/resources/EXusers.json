@@ -1,0 +1,23 @@
+[
+{
+  "Type": "Teacher",
+  "UserID": "pro12004",
+  "Enrollment": [],
+  "Name": "Ben Teechin",
+  "Password": "uQWaTuVIIjqbQuF"
+},
+{
+  "Type": "Student",
+  "UserID": "std20001",
+  "Completed": ["CSE 1010"],
+  "Enrollment": [],
+  "Name": "Stew Dent",
+  "Password": "hFCmUpSiloHpkVs"
+},
+{
+  "Type": "Admin",
+  "UserID": "adi16007",
+  "Name": "Adam Inister",
+  "Password": "nqYiMAxfhMOiXXc"
+}
+]

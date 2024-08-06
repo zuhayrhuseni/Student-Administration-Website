@@ -1,0 +1,9 @@
+[
+{
+  "subject": "SUBJ",
+  "courseid": "SUBJ 1234",
+  "Description": "This is a template.",
+  "Name": "Generic",
+  "Prereqs": ["DDB 1001", "CSE 1010"]
+}
+]

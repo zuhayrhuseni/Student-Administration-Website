@@ -1,0 +1,36 @@
+1. Create a user base (admins, teachers, students)
+USER TABLE:
+    Partition key: type
+    Sort: userID
+    Attributes: password, taken, enrollment
+
+2. Admins (query subjects, add/delete/update subjects, query courseID, add/delete/update courses)
+            - Show SUBJECT TABLE (query) - give edit disclaimer
+                - option to add/edit (keep in mind impacts on COURSE TABLE)
+            - Create a subject (subject table)
+                - Add/remove classes from subject (adjust map)
+                - Edit classes - shared information in the subject table
+
+            SUBJECT TABLE:
+                Partition Key - subject
+                Attribute - Map {ID: [name, description, [prereqs]]}
+
+            Clicking on a course queries for "courseID" in COURSE TABLE
+                - brings up current sections (if there are any)
+                - option to add/delete sections
+                - when adding/updating sections, keep common information constant
+                    - give fields for new information ie section (count?), location, schedule, capacity, and teacher (adjust USER table)
+                    - look for time conflicts for the teacher
+                    - set enrollment and stulist to 0/empty
+
+            COURSE TABLE:
+                Partition key - courseID
+                Sort key - section (make this field automatic)
+                Attribute - shared info (map from subject table)
+                Attributes - location, capacity, teacher, schedule, enrollment, stulist
+
+3. Teachers (view schedule - query for courseid/section in course table to find schedule)
+4. Students (View schedule, query by subjects for course list (same as admin), enroll/drop courses (update USER table, COURSE table))
+
+5. After making the USER table and populating, make the SUBJECT and COURSE table with generic examples just to fill the attributes
+6. Procede to make the necessary lambda functions to access and manipulate the tables

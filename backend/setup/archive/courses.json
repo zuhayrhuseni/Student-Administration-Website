@@ -1,0 +1,6413 @@
+[
+  {
+    "CourseID": "FPQQ 4129",
+    "Section": 1,
+    "Capacity": 21,
+    "Description": "AFmLxzRxSGcwrAegjfKcvMJPHXgUUozKFaHlNLvOuSvynxZFcq",
+    "Enrollment": 0,
+    "Location": "CESV 354",
+    "Name": "MVMXDlvEFz",
+    "Prerequisites": [
+      "TNJ 4839"
+    ],
+    "Schedule": {
+      "Monday": "10:00-8:00",
+      "Tuesday": "12:00-12:00",
+      "Wednesday": "16:00-16:00",
+      "Thursday": "15:00-10:00",
+      "Friday": "9:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ezm19984"
+  },
+  {
+    "CourseID": "VNZ 4082",
+    "Section": 1,
+    "Capacity": 38,
+    "Description": "feeFLwqMQnSTNTukcyNgnAThkTHXJCFZhrVlHPCkZbVhRqbgZx",
+    "Enrollment": 0,
+    "Location": "OYNO 221",
+    "Name": "KpPuGlYpYy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "13:00-14:00",
+      "Tuesday": "9:00-13:00",
+      "Wednesday": "13:00-9:00",
+      "Thursday": "13:00-15:00",
+      "Friday": "10:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "vpu21183"
+  },
+  {
+    "CourseID": "VCH 1951",
+    "Section": 1,
+    "Capacity": 15,
+    "Description": "RZZZOWJbklTRhABtkMKvAMmIVmGeCNAcFEaVgegxKHViYFtRwO",
+    "Enrollment": 0,
+    "Location": "MCTL 355",
+    "Name": "RXlmaWlDoI",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "10:00-12:00",
+      "Tuesday": "9:00-16:00",
+      "Wednesday": "15:00-9:00",
+      "Thursday": "13:00-11:00",
+      "Friday": "10:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qzy14490"
+  },
+  {
+    "CourseID": "XRKK 3264",
+    "Section": 1,
+    "Capacity": 36,
+    "Description": "yRcESwSAjwfKVBcfZirlDjTEwsUDLYrQZrqHxzFbGgQpUEMGYz",
+    "Enrollment": 0,
+    "Location": "CYGK 16",
+    "Name": "iirbHcBuNj",
+    "Prerequisites": [
+      "QRZM 1680",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "13:00-11:00",
+      "Tuesday": "10:00-10:00",
+      "Wednesday": "13:00-13:00",
+      "Thursday": "13:00-12:00",
+      "Friday": "12:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ect10952"
+  },
+  {
+    "CourseID": "QJI 5187",
+    "Section": 1,
+    "Capacity": 48,
+    "Description": "bHWtXhYleXbfcbmMeCgFVbXiLpvjtWNkFdDciQvaHSFRhOOrUv",
+    "Enrollment": 0,
+    "Location": "KVBF 108",
+    "Name": "pvKDZyQEsY",
+    "Prerequisites": [
+      "FPQQ 4292",
+      "FPQQ 4292"
+    ],
+    "Schedule": {
+      "Monday": "14:00-8:00",
+      "Tuesday": "8:00-9:00",
+      "Wednesday": "15:00-16:00",
+      "Thursday": "12:00-12:00",
+      "Friday": "13:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "QRZM 2275",
+    "Section": 1,
+    "Capacity": 49,
+    "Description": "llyTRTiQnwzLJYYaaTgpBMHKcomMgmDBnfPBEpBXOfrtkoPVtW",
+    "Enrollment": 0,
+    "Location": "QEPV 342",
+    "Name": "eEgbOjXNld",
+    "Prerequisites": [
+      "TNJ 4839",
+      "TJG 4515",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "15:00-13:00",
+      "Tuesday": "13:00-8:00",
+      "Wednesday": "9:00-12:00",
+      "Thursday": "12:00-11:00",
+      "Friday": "16:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "TKXX 5785",
+    "Section": 1,
+    "Capacity": 44,
+    "Description": "TGWXDFLLMMiJytCsFTgAlXiCPbmmaMxYmAJluwAqhgWHoUfGxL",
+    "Enrollment": 0,
+    "Location": "CARU 85",
+    "Name": "gAvjhfjWjH",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "10:00-11:00",
+      "Tuesday": "12:00-16:00",
+      "Wednesday": "8:00-8:00",
+      "Thursday": "10:00-8:00",
+      "Friday": "11:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "neb13285"
+  },
+  {
+    "CourseID": "XRKK 3264",
+    "Section": 2,
+    "Capacity": 45,
+    "Description": "yRcESwSAjwfKVBcfZirlDjTEwsUDLYrQZrqHxzFbGgQpUEMGYz",
+    "Enrollment": 0,
+    "Location": "YGKD 191",
+    "Name": "iirbHcBuNj",
+    "Prerequisites": [
+      "QRZM 1680",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "11:00-9:00",
+      "Tuesday": "13:00-9:00",
+      "Wednesday": "12:00-11:00",
+      "Thursday": "15:00-14:00",
+      "Friday": "10:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "slx11145"
+  },
+  {
+    "CourseID": "UUL 4854",
+    "Section": 1,
+    "Capacity": 42,
+    "Description": "RrcUyVHiyqCeOAKmBpNmUfXLpAxQxInpMzgrfGQMaHmtRVxFeH",
+    "Enrollment": 0,
+    "Location": "YCDT 325",
+    "Name": "GNMxYCswFV",
+    "Prerequisites": [
+      "NDQT 6241",
+      "XRKK 4278"
+    ],
+    "Schedule": {
+      "Monday": "14:00-12:00",
+      "Tuesday": "13:00-8:00",
+      "Wednesday": "11:00-10:00",
+      "Thursday": "11:00-10:00",
+      "Friday": "13:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "wfz13846"
+  },
+  {
+    "CourseID": "TKXX 1404",
+    "Section": 1,
+    "Capacity": 23,
+    "Description": "mxTsMMaedMerYcPItqQEPRsaVQANUMIlookiolXvDcuNPmpzdI",
+    "Enrollment": 0,
+    "Location": "CRVZ 71",
+    "Name": "lJNFwKzJMv",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "12:00-16:00",
+      "Tuesday": "14:00-10:00",
+      "Wednesday": "16:00-12:00",
+      "Thursday": "8:00-11:00",
+      "Friday": "13:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tjk10823"
+  },
+  {
+    "CourseID": "ODBJ 3259",
+    "Section": 1,
+    "Capacity": 33,
+    "Description": "JbkFVBUYQvVEiVsixwockbjwAPARSWuRervyczrUeILzcjmhgO",
+    "Enrollment": 0,
+    "Location": "XHUA 204",
+    "Name": "jpmtjrtjaw",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "9:00-8:00",
+      "Tuesday": "8:00-8:00",
+      "Wednesday": "14:00-11:00",
+      "Thursday": "12:00-11:00",
+      "Friday": "15:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "skf15316"
+  },
+  {
+    "CourseID": "VCH 5449",
+    "Section": 1,
+    "Capacity": 18,
+    "Description": "lnhbgLEoNwQECTIGShELPRAMLVhUbwcQejHnvumMgJamNoyitL",
+    "Enrollment": 0,
+    "Location": "MZXP 228",
+    "Name": "sKxEClbcEL",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "13:00-12:00",
+      "Tuesday": "11:00-13:00",
+      "Wednesday": "12:00-8:00",
+      "Thursday": "16:00-10:00",
+      "Friday": "14:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "skf15316"
+  },
+  {
+    "CourseID": "QRZM 2275",
+    "Section": 2,
+    "Capacity": 29,
+    "Description": "llyTRTiQnwzLJYYaaTgpBMHKcomMgmDBnfPBEpBXOfrtkoPVtW",
+    "Enrollment": 0,
+    "Location": "IYIE 264",
+    "Name": "eEgbOjXNld",
+    "Prerequisites": [
+      "TNJ 4839",
+      "TJG 4515",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "16:00-9:00",
+      "Tuesday": "10:00-12:00",
+      "Wednesday": "12:00-14:00",
+      "Thursday": "11:00-15:00",
+      "Friday": "16:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "UGE 3934",
+    "Section": 1,
+    "Capacity": 19,
+    "Description": "GLMHPswqlWWlPEKxqvLLfFKNfrfgFPufFJfjVrAWMOLvVsrnYq",
+    "Enrollment": 0,
+    "Location": "UGWN 270",
+    "Name": "RAHIGhuGcj",
+    "Prerequisites": [
+      "QRZM 1680",
+      "TKXX 2236"
+    ],
+    "Schedule": {
+      "Monday": "10:00-13:00",
+      "Tuesday": "10:00-12:00",
+      "Wednesday": "12:00-16:00",
+      "Thursday": "16:00-9:00",
+      "Friday": "10:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "bby17849"
+  },
+  {
+    "CourseID": "RIX 4256",
+    "Section": 1,
+    "Capacity": 16,
+    "Description": "pjOuOdqgbjsxlKtmqiXJXBProfLMdaFZrpbYboXZWGsgggoxBp",
+    "Enrollment": 0,
+    "Location": "OZAS 323",
+    "Name": "tPeGHIVTIY",
+    "Prerequisites": [
+      "GAKX 3074",
+      "QJI 5544",
+      "DEWR 1132"
+    ],
+    "Schedule": {
+      "Monday": "13:00-15:00",
+      "Tuesday": "10:00-16:00",
+      "Wednesday": "15:00-16:00",
+      "Thursday": "16:00-12:00",
+      "Friday": "13:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "slx11145"
+  },
+  {
+    "CourseID": "UGE 4446",
+    "Section": 1,
+    "Capacity": 19,
+    "Description": "SWpRKENcBxmriFYLtaaSLadanXYyBmpUIYVJrlCVyVzpXwYnLk",
+    "Enrollment": 0,
+    "Location": "HOIM 162",
+    "Name": "JSzNgvSwKp",
+    "Prerequisites": [
+      "TKXX 3571",
+      "QRZM 2631",
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "9:00-13:00",
+      "Tuesday": "15:00-11:00",
+      "Wednesday": "16:00-11:00",
+      "Thursday": "15:00-15:00",
+      "Friday": "15:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rpl18685"
+  },
+  {
+    "CourseID": "FPQQ 1157",
+    "Section": 1,
+    "Capacity": 45,
+    "Description": "SQvowynOQaRSXnPYKrDnELjbySPTnLPQukhGbxQEqKjRfhdKdZ",
+    "Enrollment": 0,
+    "Location": "UQJV 10",
+    "Name": "qUQFAPsMUD",
+    "Prerequisites": [
+      "BMK 4852",
+      "XRKK 1632",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "10:00-9:00",
+      "Tuesday": "12:00-16:00",
+      "Wednesday": "12:00-11:00",
+      "Thursday": "15:00-13:00",
+      "Friday": "8:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ect10952"
+  },
+  {
+    "CourseID": "VNZ 5875",
+    "Section": 1,
+    "Capacity": 49,
+    "Description": "sAdPWfAGNQclqljaWfvuGAUFpeQqJxBJEsiIAmywJYEavpbCOx",
+    "Enrollment": 0,
+    "Location": "EPLH 243",
+    "Name": "rUjQtfeDbH",
+    "Prerequisites": [
+      "DEWR 1132",
+      "QRZM 2631",
+      "FPQQ 4292"
+    ],
+    "Schedule": {
+      "Monday": "16:00-8:00",
+      "Tuesday": "11:00-10:00",
+      "Wednesday": "14:00-14:00",
+      "Thursday": "14:00-13:00",
+      "Friday": "9:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "BMK 2409",
+    "Section": 1,
+    "Capacity": 24,
+    "Description": "xfnkqyjKfKFFxvjGsVwLOWyRkXqvpvCFLdYlYtEiLizKHMTlLJ",
+    "Enrollment": 0,
+    "Location": "JMIW 375",
+    "Name": "jckdWrADpy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "15:00-15:00",
+      "Tuesday": "10:00-15:00",
+      "Wednesday": "10:00-11:00",
+      "Thursday": "9:00-14:00",
+      "Friday": "16:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tfz19232"
+  },
+  {
+    "CourseID": "DEWR 5253",
+    "Section": 1,
+    "Capacity": 24,
+    "Description": "pCNHMjAlcECViUnYKEONflSlesaJnqxqemdWihGhvEvnVbumXB",
+    "Enrollment": 0,
+    "Location": "VBGW 213",
+    "Name": "GvgQyJLVMv",
+    "Prerequisites": [
+      "VNZ 2767",
+      "GAKX 3074"
+    ],
+    "Schedule": {
+      "Monday": "8:00-13:00",
+      "Tuesday": "10:00-16:00",
+      "Wednesday": "8:00-16:00",
+      "Thursday": "10:00-14:00",
+      "Friday": "13:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "UUL 4854",
+    "Section": 2,
+    "Capacity": 27,
+    "Description": "RrcUyVHiyqCeOAKmBpNmUfXLpAxQxInpMzgrfGQMaHmtRVxFeH",
+    "Enrollment": 0,
+    "Location": "XQDA 270",
+    "Name": "GNMxYCswFV",
+    "Prerequisites": [
+      "NDQT 6241",
+      "XRKK 4278"
+    ],
+    "Schedule": {
+      "Monday": "16:00-10:00",
+      "Tuesday": "16:00-9:00",
+      "Wednesday": "9:00-13:00",
+      "Thursday": "11:00-10:00",
+      "Friday": "14:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rft18609"
+  },
+  {
+    "CourseID": "TKXX 1404",
+    "Section": 2,
+    "Capacity": 45,
+    "Description": "mxTsMMaedMerYcPItqQEPRsaVQANUMIlookiolXvDcuNPmpzdI",
+    "Enrollment": 0,
+    "Location": "STZH 391",
+    "Name": "lJNFwKzJMv",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "8:00-13:00",
+      "Tuesday": "12:00-11:00",
+      "Wednesday": "14:00-13:00",
+      "Thursday": "14:00-15:00",
+      "Friday": "14:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tjk10823"
+  },
+  {
+    "CourseID": "UUL 3759",
+    "Section": 1,
+    "Capacity": 18,
+    "Description": "bHgooOycaZWjUOPhWCLIBvGeJUYZtRJGZIqxRPwxEsWQYhWtZK",
+    "Enrollment": 0,
+    "Location": "HPTI 353",
+    "Name": "dRGqJWxwxc",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "16:00-15:00",
+      "Tuesday": "16:00-10:00",
+      "Wednesday": "10:00-16:00",
+      "Thursday": "15:00-15:00",
+      "Friday": "13:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ezm19984"
+  },
+  {
+    "CourseID": "QJI 2616",
+    "Section": 1,
+    "Capacity": 47,
+    "Description": "MmSdWTTpPAvnfCebvFCEnyUZpbYjtqHoXBchHrQLPlJMhRoLOb",
+    "Enrollment": 0,
+    "Location": "ISDS 326",
+    "Name": "LAhuOmSGQM",
+    "Prerequisites": [
+      "BMK 4852",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "12:00-8:00",
+      "Tuesday": "10:00-16:00",
+      "Wednesday": "11:00-15:00",
+      "Thursday": "15:00-13:00",
+      "Friday": "15:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "DEWR 2064",
+    "Section": 1,
+    "Capacity": 39,
+    "Description": "lwJfGtmIjSnSByHxSJRbYXRedpFqwWgFYhLMebiEaTlIEPJYZe",
+    "Enrollment": 0,
+    "Location": "VTVV 352",
+    "Name": "ShndOqojsl",
+    "Prerequisites": [
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "10:00-13:00",
+      "Tuesday": "15:00-16:00",
+      "Wednesday": "16:00-15:00",
+      "Thursday": "9:00-9:00",
+      "Friday": "14:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kbv15423"
+  },
+  {
+    "CourseID": "FPQQ 2291",
+    "Section": 1,
+    "Capacity": 40,
+    "Description": "TBziwaJvZbVzJRjmqCfqcKrJomsMZgVCFFLaNhBlirgbSrfvmI",
+    "Enrollment": 0,
+    "Location": "UWKS 114",
+    "Name": "IMMJScDrhc",
+    "Prerequisites": [
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "9:00-8:00",
+      "Tuesday": "8:00-8:00",
+      "Wednesday": "16:00-15:00",
+      "Thursday": "13:00-14:00",
+      "Friday": "14:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rpl18685"
+  },
+  {
+    "CourseID": "XRKK 3712",
+    "Section": 1,
+    "Capacity": 30,
+    "Description": "WeqWgNOLudFXKnyQsttJgzhOEBQIddVuAoTVQTpwOCPedelxUL",
+    "Enrollment": 0,
+    "Location": "ZUBH 139",
+    "Name": "xEKcqDlAak",
+    "Prerequisites": [
+      "DEWR 1132"
+    ],
+    "Schedule": {
+      "Monday": "15:00-9:00",
+      "Tuesday": "10:00-9:00",
+      "Wednesday": "16:00-12:00",
+      "Thursday": "16:00-8:00",
+      "Friday": "14:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gcb19838"
+  },
+  {
+    "CourseID": "TNJ 2959",
+    "Section": 1,
+    "Capacity": 26,
+    "Description": "vIDtKQszQGTsEEuAQXMxYAEtNRcVaVMRBWjVPkLkjHUBgVvBLH",
+    "Enrollment": 0,
+    "Location": "EGXZ 79",
+    "Name": "ekpTufSyLt",
+    "Prerequisites": [
+      "QJI 6382",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "11:00-8:00",
+      "Tuesday": "10:00-15:00",
+      "Wednesday": "16:00-11:00",
+      "Thursday": "11:00-10:00",
+      "Friday": "16:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "neb13285"
+  },
+  {
+    "CourseID": "XRKK 4336",
+    "Section": 1,
+    "Capacity": 48,
+    "Description": "oozIdxuChjGBtgAZpgCtzoMUpZqRuKGUkiKirTSmnqODFQQLWR",
+    "Enrollment": 0,
+    "Location": "VIDO 200",
+    "Name": "nLASRslnak",
+    "Prerequisites": [
+      "DEWR 1132",
+      "FPQQ 4292",
+      "QJI 6382"
+    ],
+    "Schedule": {
+      "Monday": "12:00-10:00",
+      "Tuesday": "16:00-12:00",
+      "Wednesday": "12:00-10:00",
+      "Thursday": "16:00-15:00",
+      "Friday": "15:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uvp22680"
+  },
+  {
+    "CourseID": "FPQQ 1157",
+    "Section": 2,
+    "Capacity": 37,
+    "Description": "SQvowynOQaRSXnPYKrDnELjbySPTnLPQukhGbxQEqKjRfhdKdZ",
+    "Enrollment": 0,
+    "Location": "HVGU 331",
+    "Name": "qUQFAPsMUD",
+    "Prerequisites": [
+      "BMK 4852",
+      "XRKK 1632",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "16:00-12:00",
+      "Tuesday": "14:00-12:00",
+      "Wednesday": "14:00-15:00",
+      "Thursday": "11:00-14:00",
+      "Friday": "11:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rft18609"
+  },
+  {
+    "CourseID": "VCH 4740",
+    "Section": 1,
+    "Capacity": 39,
+    "Description": "moiwtxfCYgGdSKOSuRuggCjMFIkcVEMaNhAsvKhVZMXpOBhhLM",
+    "Enrollment": 0,
+    "Location": "CTOA 327",
+    "Name": "esQNNCKQrB",
+    "Prerequisites": [
+      "GAKX 3074",
+      "TKXX 3571",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "13:00-13:00",
+      "Tuesday": "9:00-13:00",
+      "Wednesday": "14:00-10:00",
+      "Thursday": "11:00-11:00",
+      "Friday": "15:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "TKXX 3325",
+    "Section": 1,
+    "Capacity": 16,
+    "Description": "XqKjvrFsNGPDhOlIDxuBSowOMFuactPwwTCqaRkmHGlcabpynT",
+    "Enrollment": 0,
+    "Location": "TXHA 229",
+    "Name": "yMIiJWkety",
+    "Prerequisites": [
+      "GAKX 3074",
+      "TNJ 4839"
+    ],
+    "Schedule": {
+      "Monday": "11:00-16:00",
+      "Tuesday": "13:00-10:00",
+      "Wednesday": "8:00-14:00",
+      "Thursday": "8:00-15:00",
+      "Friday": "13:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gcb19838"
+  },
+  {
+    "CourseID": "XRKK 4501",
+    "Section": 1,
+    "Capacity": 31,
+    "Description": "SIrtPEpaojwCamvWOgShECeSJXNTymlboQxlfMuTRcgQwdWNkY",
+    "Enrollment": 0,
+    "Location": "NGLR 69",
+    "Name": "UOsKiwFnlc",
+    "Prerequisites": [
+      "QJI 5544"
+    ],
+    "Schedule": {
+      "Monday": "11:00-13:00",
+      "Tuesday": "11:00-14:00",
+      "Wednesday": "16:00-8:00",
+      "Thursday": "13:00-16:00",
+      "Friday": "15:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gen21626"
+  },
+  {
+    "CourseID": "ODBJ 5605",
+    "Section": 1,
+    "Capacity": 17,
+    "Description": "hxDmBydgKBjOcKICrTzEXFshjiMLTKkhoqHehVRnriPYQTayYs",
+    "Enrollment": 0,
+    "Location": "DYEC 287",
+    "Name": "eCQwcymDto",
+    "Prerequisites": [
+      "VNZ 2767",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "15:00-14:00",
+      "Tuesday": "9:00-11:00",
+      "Wednesday": "16:00-15:00",
+      "Thursday": "8:00-11:00",
+      "Friday": "15:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ect10952"
+  },
+  {
+    "CourseID": "QRZM 3394",
+    "Section": 1,
+    "Capacity": 25,
+    "Description": "QULRuqndbIdzOufASfenouJYqHCowYATzRuLmuGBVHauccdMIc",
+    "Enrollment": 0,
+    "Location": "VNQW 329",
+    "Name": "zXPjUfdPOL",
+    "Prerequisites": [
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "13:00-11:00",
+      "Tuesday": "15:00-13:00",
+      "Wednesday": "9:00-10:00",
+      "Thursday": "16:00-9:00",
+      "Friday": "14:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "zed12366"
+  },
+  {
+    "CourseID": "BEH 1085",
+    "Section": 1,
+    "Capacity": 27,
+    "Description": "lNFlTNoDfjsNdSPyDcGHKsjfNmDsfrrhkXcLatbizMyKjNcsqf",
+    "Enrollment": 0,
+    "Location": "WMJV 328",
+    "Name": "zqzWvBYDsG",
+    "Prerequisites": [
+      "TNJ 4839",
+      "XRKK 1632",
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "13:00-13:00",
+      "Tuesday": "16:00-10:00",
+      "Wednesday": "11:00-13:00",
+      "Thursday": "16:00-16:00",
+      "Friday": "8:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "dvy14166"
+  },
+  {
+    "CourseID": "DEWR 2064",
+    "Section": 2,
+    "Capacity": 38,
+    "Description": "lwJfGtmIjSnSByHxSJRbYXRedpFqwWgFYhLMebiEaTlIEPJYZe",
+    "Enrollment": 0,
+    "Location": "EWLJ 4",
+    "Name": "ShndOqojsl",
+    "Prerequisites": [
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "12:00-14:00",
+      "Tuesday": "10:00-11:00",
+      "Wednesday": "9:00-10:00",
+      "Thursday": "8:00-12:00",
+      "Friday": "16:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "vpu21183"
+  },
+  {
+    "CourseID": "ODBJ 3224",
+    "Section": 1,
+    "Capacity": 46,
+    "Description": "HNYAoLxOShaSaNTonpkQhlCAAKAHrZSnIRwdQetxZriLwvSFJi",
+    "Enrollment": 0,
+    "Location": "GYIL 44",
+    "Name": "tyJEVAxhty",
+    "Prerequisites": [
+      "QJI 5544",
+      "VNZ 2767",
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "9:00-16:00",
+      "Tuesday": "11:00-8:00",
+      "Wednesday": "13:00-14:00",
+      "Thursday": "9:00-12:00",
+      "Friday": "10:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "llw18745"
+  },
+  {
+    "CourseID": "BEH 6046",
+    "Section": 1,
+    "Capacity": 44,
+    "Description": "ITrLHtUBiIKWAdUmaNkpLdoonsVsfLYKhEJerCgkYqRdCkuikP",
+    "Enrollment": 0,
+    "Location": "SZVL 278",
+    "Name": "aVGsmEKqJx",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "15:00-8:00",
+      "Tuesday": "8:00-8:00",
+      "Wednesday": "10:00-15:00",
+      "Thursday": "13:00-12:00",
+      "Friday": "11:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gcb19838"
+  },
+  {
+    "CourseID": "RIX 4820",
+    "Section": 1,
+    "Capacity": 42,
+    "Description": "BQlzUcdnvMhBmvvjRbxemitiTsKGYbDUJhJWDOWurRDZiVmdHA",
+    "Enrollment": 0,
+    "Location": "PKZW 1",
+    "Name": "XwIcDuaubL",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "9:00-11:00",
+      "Tuesday": "13:00-16:00",
+      "Wednesday": "9:00-14:00",
+      "Thursday": "15:00-15:00",
+      "Friday": "10:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uey10120"
+  },
+  {
+    "CourseID": "BMK 6363",
+    "Section": 1,
+    "Capacity": 24,
+    "Description": "XKaflRaHQOuDlAvzaiJAFHupYJJYtwkZSuIKqAibMmPrgjdLNI",
+    "Enrollment": 0,
+    "Location": "UJBR 291",
+    "Name": "LdddZTfxiF",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "9:00-10:00",
+      "Tuesday": "15:00-15:00",
+      "Wednesday": "14:00-11:00",
+      "Thursday": "9:00-15:00",
+      "Friday": "13:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "TNJ 3124",
+    "Section": 1,
+    "Capacity": 18,
+    "Description": "qYnSJATBpLEyVPRYhvCdSxkDZSGQKKqmiiLucrAGsIQNwBEPIC",
+    "Enrollment": 0,
+    "Location": "RIQA 7",
+    "Name": "VYuelKQmSm",
+    "Prerequisites": [
+      "DEWR 2544",
+      "TNJ 4839",
+      "GAKX 3074"
+    ],
+    "Schedule": {
+      "Monday": "9:00-12:00",
+      "Tuesday": "10:00-8:00",
+      "Wednesday": "10:00-12:00",
+      "Thursday": "12:00-10:00",
+      "Friday": "16:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rft18609"
+  },
+  {
+    "CourseID": "BMK 6363",
+    "Section": 2,
+    "Capacity": 33,
+    "Description": "XKaflRaHQOuDlAvzaiJAFHupYJJYtwkZSuIKqAibMmPrgjdLNI",
+    "Enrollment": 0,
+    "Location": "ERDD 105",
+    "Name": "LdddZTfxiF",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "8:00-14:00",
+      "Tuesday": "9:00-8:00",
+      "Wednesday": "11:00-9:00",
+      "Thursday": "13:00-12:00",
+      "Friday": "9:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uvp22680"
+  },
+  {
+    "CourseID": "VNZ 4082",
+    "Section": 2,
+    "Capacity": 47,
+    "Description": "feeFLwqMQnSTNTukcyNgnAThkTHXJCFZhrVlHPCkZbVhRqbgZx",
+    "Enrollment": 0,
+    "Location": "WGRT 68",
+    "Name": "KpPuGlYpYy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "12:00-11:00",
+      "Tuesday": "15:00-14:00",
+      "Wednesday": "13:00-14:00",
+      "Thursday": "11:00-16:00",
+      "Friday": "11:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "epe12741"
+  },
+  {
+    "CourseID": "UGE 3934",
+    "Section": 2,
+    "Capacity": 37,
+    "Description": "GLMHPswqlWWlPEKxqvLLfFKNfrfgFPufFJfjVrAWMOLvVsrnYq",
+    "Enrollment": 0,
+    "Location": "YOBA 143",
+    "Name": "RAHIGhuGcj",
+    "Prerequisites": [
+      "QRZM 1680",
+      "TKXX 2236"
+    ],
+    "Schedule": {
+      "Monday": "12:00-11:00",
+      "Tuesday": "13:00-9:00",
+      "Wednesday": "10:00-12:00",
+      "Thursday": "16:00-16:00",
+      "Friday": "8:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tfz19232"
+  },
+  {
+    "CourseID": "GAKX 6292",
+    "Section": 1,
+    "Capacity": 49,
+    "Description": "QCKkdQVzYMEpkpxbKnmsAwNthhkvlnXVWFsitcfiOKxUDZFZaq",
+    "Enrollment": 0,
+    "Location": "PBKQ 31",
+    "Name": "PAfazjsTuw",
+    "Prerequisites": [
+      "DEWR 5532",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "12:00-9:00",
+      "Tuesday": "12:00-12:00",
+      "Wednesday": "14:00-16:00",
+      "Thursday": "13:00-14:00",
+      "Friday": "10:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "bby17849"
+  },
+  {
+    "CourseID": "TJG 2355",
+    "Section": 1,
+    "Capacity": 21,
+    "Description": "bWJarjaBJGJnPIEBHaoMPWDiiaIkoQRbpfLnpIcyHtOQCWMKdY",
+    "Enrollment": 0,
+    "Location": "MEVG 180",
+    "Name": "SRnoYqwthd",
+    "Prerequisites": [
+      "TJG 4515",
+      "GAKX 3074"
+    ],
+    "Schedule": {
+      "Monday": "14:00-13:00",
+      "Tuesday": "10:00-14:00",
+      "Wednesday": "15:00-8:00",
+      "Thursday": "15:00-10:00",
+      "Friday": "9:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kka17086"
+  },
+  {
+    "CourseID": "RIX 4923",
+    "Section": 1,
+    "Capacity": 43,
+    "Description": "ufriYpVnqHnDScYCmNZgTDDZRLzrSrHZevXVDJhYOEhSuhLjsE",
+    "Enrollment": 0,
+    "Location": "CSAZ 133",
+    "Name": "AigpVxGIwr",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "15:00-9:00",
+      "Tuesday": "16:00-11:00",
+      "Wednesday": "11:00-10:00",
+      "Thursday": "11:00-9:00",
+      "Friday": "15:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "QJI 1221",
+    "Section": 1,
+    "Capacity": 47,
+    "Description": "KFAQjRnVoeRYjkNGLEETihtDUjbdYcHnhtsnYlWtDBNCBWuclQ",
+    "Enrollment": 0,
+    "Location": "GVDK 242",
+    "Name": "rpFLAOtedV",
+    "Prerequisites": [
+      "XRKK 1632"
+    ],
+    "Schedule": {
+      "Monday": "15:00-16:00",
+      "Tuesday": "9:00-15:00",
+      "Wednesday": "16:00-14:00",
+      "Thursday": "8:00-10:00",
+      "Friday": "9:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uvp22680"
+  },
+  {
+    "CourseID": "VCH 4740",
+    "Section": 2,
+    "Capacity": 44,
+    "Description": "moiwtxfCYgGdSKOSuRuggCjMFIkcVEMaNhAsvKhVZMXpOBhhLM",
+    "Enrollment": 0,
+    "Location": "IPDX 196",
+    "Name": "esQNNCKQrB",
+    "Prerequisites": [
+      "GAKX 3074",
+      "TKXX 3571",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "12:00-10:00",
+      "Tuesday": "8:00-14:00",
+      "Wednesday": "12:00-15:00",
+      "Thursday": "10:00-12:00",
+      "Friday": "13:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uey10120"
+  },
+  {
+    "CourseID": "QRZM 5948",
+    "Section": 1,
+    "Capacity": 42,
+    "Description": "HtpzzVwJKQATmZUZBrHVToZPqSDZnReIzWoWQVMcLzdnzKwHzg",
+    "Enrollment": 0,
+    "Location": "ANPJ 87",
+    "Name": "ISJJLYjRAH",
+    "Prerequisites": [
+      "QJI 6382",
+      "DEWR 1132",
+      "QJI 5544"
+    ],
+    "Schedule": {
+      "Monday": "15:00-9:00",
+      "Tuesday": "15:00-9:00",
+      "Wednesday": "15:00-16:00",
+      "Thursday": "16:00-9:00",
+      "Friday": "16:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qiu10722"
+  },
+  {
+    "CourseID": "BMK 6363",
+    "Section": 3,
+    "Capacity": 43,
+    "Description": "XKaflRaHQOuDlAvzaiJAFHupYJJYtwkZSuIKqAibMmPrgjdLNI",
+    "Enrollment": 0,
+    "Location": "BXPT 71",
+    "Name": "LdddZTfxiF",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "15:00-8:00",
+      "Tuesday": "16:00-14:00",
+      "Wednesday": "13:00-15:00",
+      "Thursday": "12:00-10:00",
+      "Friday": "13:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "slx11145"
+  },
+  {
+    "CourseID": "VCH 5394",
+    "Section": 1,
+    "Capacity": 26,
+    "Description": "OsHJligRbvvWKNucbVeHAAoMqFLUFzlNwCyLcttXkWRvApXvQN",
+    "Enrollment": 0,
+    "Location": "AJPK 283",
+    "Name": "SvbTEBFimQ",
+    "Prerequisites": [
+      "TJG 4515",
+      "QJI 5544",
+      "TKXX 3571"
+    ],
+    "Schedule": {
+      "Monday": "14:00-13:00",
+      "Tuesday": "12:00-10:00",
+      "Wednesday": "14:00-12:00",
+      "Thursday": "8:00-11:00",
+      "Friday": "11:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "RIX 4256",
+    "Section": 2,
+    "Capacity": 42,
+    "Description": "pjOuOdqgbjsxlKtmqiXJXBProfLMdaFZrpbYboXZWGsgggoxBp",
+    "Enrollment": 0,
+    "Location": "EKDU 356",
+    "Name": "tPeGHIVTIY",
+    "Prerequisites": [
+      "GAKX 3074",
+      "QJI 5544",
+      "DEWR 1132"
+    ],
+    "Schedule": {
+      "Monday": "11:00-10:00",
+      "Tuesday": "8:00-11:00",
+      "Wednesday": "11:00-12:00",
+      "Thursday": "16:00-10:00",
+      "Friday": "10:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kbv15423"
+  },
+  {
+    "CourseID": "FPQQ 3422",
+    "Section": 1,
+    "Capacity": 29,
+    "Description": "WSsMXIBSjRymbKSPiBPoFrqtIDyUdsbiKCGrRDrHLvkbjKWhes",
+    "Enrollment": 0,
+    "Location": "SZPX 221",
+    "Name": "LbBlbpPFIw",
+    "Prerequisites": [
+      "QRZM 2631",
+      "RIX 4894",
+      "QJI 6382"
+    ],
+    "Schedule": {
+      "Monday": "15:00-15:00",
+      "Tuesday": "15:00-10:00",
+      "Wednesday": "14:00-14:00",
+      "Thursday": "16:00-16:00",
+      "Friday": "12:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "UGE 4935",
+    "Section": 1,
+    "Capacity": 15,
+    "Description": "GxbttUevHEfiNtWhfDinWKhHxmVvXxhpyIsGZrBprvECmzBobZ",
+    "Enrollment": 0,
+    "Location": "ENDB 275",
+    "Name": "lCmaqWuxDn",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "12:00-15:00",
+      "Tuesday": "8:00-12:00",
+      "Wednesday": "10:00-12:00",
+      "Thursday": "15:00-14:00",
+      "Friday": "16:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tmn14851"
+  },
+  {
+    "CourseID": "QRZM 3543",
+    "Section": 1,
+    "Capacity": 44,
+    "Description": "NvNAxhifhhruWVNOrMdpxGwYduvlJGfmcbBwNdCyVKvpNvkAOc",
+    "Enrollment": 0,
+    "Location": "XBEZ 146",
+    "Name": "PtZSqMGEUX",
+    "Prerequisites": [
+      "QRZM 1680",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "12:00-13:00",
+      "Tuesday": "9:00-9:00",
+      "Wednesday": "14:00-11:00",
+      "Thursday": "11:00-9:00",
+      "Friday": "12:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kka17086"
+  },
+  {
+    "CourseID": "QRZM 1880",
+    "Section": 1,
+    "Capacity": 35,
+    "Description": "VSufLtXqTIWlSidNqOfYmsrHMUfxjqWWAODKFJkFclwSTxsieb",
+    "Enrollment": 0,
+    "Location": "UTEK 40",
+    "Name": "oIRobTawLl",
+    "Prerequisites": [
+      "TJG 4515",
+      "QRZM 2631"
+    ],
+    "Schedule": {
+      "Monday": "10:00-15:00",
+      "Tuesday": "15:00-16:00",
+      "Wednesday": "15:00-13:00",
+      "Thursday": "14:00-8:00",
+      "Friday": "14:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "aqd20441"
+  },
+  {
+    "CourseID": "XRKK 4336",
+    "Section": 2,
+    "Capacity": 50,
+    "Description": "oozIdxuChjGBtgAZpgCtzoMUpZqRuKGUkiKirTSmnqODFQQLWR",
+    "Enrollment": 0,
+    "Location": "NDQQ 213",
+    "Name": "nLASRslnak",
+    "Prerequisites": [
+      "DEWR 1132",
+      "FPQQ 4292",
+      "QJI 6382"
+    ],
+    "Schedule": {
+      "Monday": "8:00-11:00",
+      "Tuesday": "12:00-11:00",
+      "Wednesday": "13:00-8:00",
+      "Thursday": "14:00-8:00",
+      "Friday": "8:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "RIX 4256",
+    "Section": 3,
+    "Capacity": 32,
+    "Description": "pjOuOdqgbjsxlKtmqiXJXBProfLMdaFZrpbYboXZWGsgggoxBp",
+    "Enrollment": 0,
+    "Location": "WZMU 219",
+    "Name": "tPeGHIVTIY",
+    "Prerequisites": [
+      "GAKX 3074",
+      "QJI 5544",
+      "DEWR 1132"
+    ],
+    "Schedule": {
+      "Monday": "8:00-9:00",
+      "Tuesday": "8:00-9:00",
+      "Wednesday": "9:00-16:00",
+      "Thursday": "14:00-13:00",
+      "Friday": "15:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "slx11145"
+  },
+  {
+    "CourseID": "TKXX 5785",
+    "Section": 2,
+    "Capacity": 46,
+    "Description": "TGWXDFLLMMiJytCsFTgAlXiCPbmmaMxYmAJluwAqhgWHoUfGxL",
+    "Enrollment": 0,
+    "Location": "QUIA 146",
+    "Name": "gAvjhfjWjH",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "14:00-16:00",
+      "Tuesday": "15:00-11:00",
+      "Wednesday": "9:00-9:00",
+      "Thursday": "14:00-12:00",
+      "Friday": "8:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tpu17750"
+  },
+  {
+    "CourseID": "BEH 1085",
+    "Section": 2,
+    "Capacity": 42,
+    "Description": "lNFlTNoDfjsNdSPyDcGHKsjfNmDsfrrhkXcLatbizMyKjNcsqf",
+    "Enrollment": 0,
+    "Location": "OPIZ 202",
+    "Name": "zqzWvBYDsG",
+    "Prerequisites": [
+      "TNJ 4839",
+      "XRKK 1632",
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "10:00-14:00",
+      "Tuesday": "15:00-8:00",
+      "Wednesday": "15:00-8:00",
+      "Thursday": "13:00-11:00",
+      "Friday": "8:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "mil18680"
+  },
+  {
+    "CourseID": "QRZM 5399",
+    "Section": 1,
+    "Capacity": 48,
+    "Description": "xXllBTvLZEaDBHKHfpjNNVOcHJlZNpdCfdxHYTvPuGjMXInxsY",
+    "Enrollment": 0,
+    "Location": "NJKD 104",
+    "Name": "YRUywsdDaV",
+    "Prerequisites": [
+      "TKXX 2236",
+      "DEWR 2544",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "14:00-9:00",
+      "Tuesday": "15:00-16:00",
+      "Wednesday": "14:00-10:00",
+      "Thursday": "15:00-11:00",
+      "Friday": "10:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ezm19984"
+  },
+  {
+    "CourseID": "UGE 4935",
+    "Section": 2,
+    "Capacity": 23,
+    "Description": "GxbttUevHEfiNtWhfDinWKhHxmVvXxhpyIsGZrBprvECmzBobZ",
+    "Enrollment": 0,
+    "Location": "IGIY 13",
+    "Name": "lCmaqWuxDn",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "8:00-10:00",
+      "Tuesday": "15:00-14:00",
+      "Wednesday": "11:00-10:00",
+      "Thursday": "13:00-9:00",
+      "Friday": "13:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "VNZ 5875",
+    "Section": 2,
+    "Capacity": 18,
+    "Description": "sAdPWfAGNQclqljaWfvuGAUFpeQqJxBJEsiIAmywJYEavpbCOx",
+    "Enrollment": 0,
+    "Location": "MBAB 221",
+    "Name": "rUjQtfeDbH",
+    "Prerequisites": [
+      "DEWR 1132",
+      "QRZM 2631",
+      "FPQQ 4292"
+    ],
+    "Schedule": {
+      "Monday": "15:00-14:00",
+      "Tuesday": "14:00-15:00",
+      "Wednesday": "10:00-11:00",
+      "Thursday": "12:00-9:00",
+      "Friday": "9:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "vpu21183"
+  },
+  {
+    "CourseID": "FPQQ 2291",
+    "Section": 2,
+    "Capacity": 40,
+    "Description": "TBziwaJvZbVzJRjmqCfqcKrJomsMZgVCFFLaNhBlirgbSrfvmI",
+    "Enrollment": 0,
+    "Location": "DIKF 218",
+    "Name": "IMMJScDrhc",
+    "Prerequisites": [
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "8:00-8:00",
+      "Tuesday": "13:00-11:00",
+      "Wednesday": "13:00-15:00",
+      "Thursday": "11:00-8:00",
+      "Friday": "13:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qiu10722"
+  },
+  {
+    "CourseID": "UUL 6100",
+    "Section": 1,
+    "Capacity": 43,
+    "Description": "yeuoCVQPflLHMWMzpIJgXritSvqDFfNkBwgWabIMbVMaJlDUFF",
+    "Enrollment": 0,
+    "Location": "WCBU 0",
+    "Name": "hFcjueoLwm",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "13:00-8:00",
+      "Tuesday": "11:00-16:00",
+      "Wednesday": "12:00-10:00",
+      "Thursday": "15:00-9:00",
+      "Friday": "9:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "oju15852"
+  },
+  {
+    "CourseID": "BEH 2749",
+    "Section": 1,
+    "Capacity": 25,
+    "Description": "GRASxKgtrXZmOMXPSmNbfGXpBBAtDxXgEJOvTYMgoLZBsgseHE",
+    "Enrollment": 0,
+    "Location": "LLBW 130",
+    "Name": "rHbvPBkdYu",
+    "Prerequisites": [
+      "GAKX 3074",
+      "QJI 5544",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "11:00-12:00",
+      "Tuesday": "8:00-16:00",
+      "Wednesday": "13:00-14:00",
+      "Thursday": "8:00-15:00",
+      "Friday": "12:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "dvy14166"
+  },
+  {
+    "CourseID": "VCH 4072",
+    "Section": 1,
+    "Capacity": 38,
+    "Description": "LhfIiuEJUYQFGPbeuyvZVwMrhiiZYRHGDpomVDfMhGpwHRqwsv",
+    "Enrollment": 0,
+    "Location": "IFGJ 289",
+    "Name": "GQGJnzhvHN",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "13:00-8:00",
+      "Tuesday": "10:00-12:00",
+      "Wednesday": "9:00-9:00",
+      "Thursday": "11:00-9:00",
+      "Friday": "16:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "bby17849"
+  },
+  {
+    "CourseID": "VNZ 4082",
+    "Section": 3,
+    "Capacity": 41,
+    "Description": "feeFLwqMQnSTNTukcyNgnAThkTHXJCFZhrVlHPCkZbVhRqbgZx",
+    "Enrollment": 0,
+    "Location": "LUDI 81",
+    "Name": "KpPuGlYpYy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "13:00-10:00",
+      "Tuesday": "10:00-11:00",
+      "Wednesday": "13:00-16:00",
+      "Thursday": "8:00-10:00",
+      "Friday": "16:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "vpu21183"
+  },
+  {
+    "CourseID": "QRZM 4510",
+    "Section": 1,
+    "Capacity": 30,
+    "Description": "HrccdLiPphwuDapBQuaXwAVVXgRqOSXzksujYYHbeGBYXCdaHH",
+    "Enrollment": 0,
+    "Location": "BHII 270",
+    "Name": "KTfgLLgmUq",
+    "Prerequisites": [
+      "BMK 4852",
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "14:00-14:00",
+      "Tuesday": "15:00-12:00",
+      "Wednesday": "8:00-15:00",
+      "Thursday": "12:00-10:00",
+      "Friday": "13:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "zed12366"
+  },
+  {
+    "CourseID": "UGE 4446",
+    "Section": 2,
+    "Capacity": 41,
+    "Description": "SWpRKENcBxmriFYLtaaSLadanXYyBmpUIYVJrlCVyVzpXwYnLk",
+    "Enrollment": 0,
+    "Location": "OWZC 389",
+    "Name": "JSzNgvSwKp",
+    "Prerequisites": [
+      "TKXX 3571",
+      "QRZM 2631",
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "16:00-13:00",
+      "Tuesday": "14:00-12:00",
+      "Wednesday": "12:00-16:00",
+      "Thursday": "10:00-11:00",
+      "Friday": "11:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rpl18685"
+  },
+  {
+    "CourseID": "UGE 4446",
+    "Section": 3,
+    "Capacity": 26,
+    "Description": "SWpRKENcBxmriFYLtaaSLadanXYyBmpUIYVJrlCVyVzpXwYnLk",
+    "Enrollment": 0,
+    "Location": "HFSD 93",
+    "Name": "JSzNgvSwKp",
+    "Prerequisites": [
+      "TKXX 3571",
+      "QRZM 2631",
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "14:00-14:00",
+      "Tuesday": "12:00-16:00",
+      "Wednesday": "16:00-14:00",
+      "Thursday": "16:00-14:00",
+      "Friday": "11:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kka17086"
+  },
+  {
+    "CourseID": "QRZM 3394",
+    "Section": 2,
+    "Capacity": 35,
+    "Description": "QULRuqndbIdzOufASfenouJYqHCowYATzRuLmuGBVHauccdMIc",
+    "Enrollment": 0,
+    "Location": "RGND 10",
+    "Name": "zXPjUfdPOL",
+    "Prerequisites": [
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "15:00-14:00",
+      "Tuesday": "10:00-13:00",
+      "Wednesday": "16:00-13:00",
+      "Thursday": "8:00-8:00",
+      "Friday": "13:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "zed12366"
+  },
+  {
+    "CourseID": "ODBJ 2875",
+    "Section": 1,
+    "Capacity": 17,
+    "Description": "sKnTQQyGeiUjufSeXZprunxNWwXssqOXgVlXfUQCTmvhbqrRMk",
+    "Enrollment": 0,
+    "Location": "AERY 70",
+    "Name": "zvLntnPbjR",
+    "Prerequisites": [
+      "DEWR 1132"
+    ],
+    "Schedule": {
+      "Monday": "16:00-14:00",
+      "Tuesday": "15:00-13:00",
+      "Wednesday": "9:00-11:00",
+      "Thursday": "12:00-9:00",
+      "Friday": "10:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tmn14851"
+  },
+  {
+    "CourseID": "VCH 5717",
+    "Section": 1,
+    "Capacity": 22,
+    "Description": "wXQokoqUqFGBhLfIKeNRlVqNFKeUjRVmVgjvwXDXfydbwMzZiJ",
+    "Enrollment": 0,
+    "Location": "GJGP 255",
+    "Name": "KiBJziOGJX",
+    "Prerequisites": [
+      "QJI 6382",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "14:00-16:00",
+      "Tuesday": "10:00-9:00",
+      "Wednesday": "11:00-14:00",
+      "Thursday": "8:00-13:00",
+      "Friday": "15:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kbv15423"
+  },
+  {
+    "CourseID": "RIX 4256",
+    "Section": 4,
+    "Capacity": 38,
+    "Description": "pjOuOdqgbjsxlKtmqiXJXBProfLMdaFZrpbYboXZWGsgggoxBp",
+    "Enrollment": 0,
+    "Location": "NCVG 61",
+    "Name": "tPeGHIVTIY",
+    "Prerequisites": [
+      "GAKX 3074",
+      "QJI 5544",
+      "DEWR 1132"
+    ],
+    "Schedule": {
+      "Monday": "11:00-8:00",
+      "Tuesday": "9:00-12:00",
+      "Wednesday": "12:00-9:00",
+      "Thursday": "11:00-12:00",
+      "Friday": "16:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kbv15423"
+  },
+  {
+    "CourseID": "QRZM 5399",
+    "Section": 2,
+    "Capacity": 31,
+    "Description": "xXllBTvLZEaDBHKHfpjNNVOcHJlZNpdCfdxHYTvPuGjMXInxsY",
+    "Enrollment": 0,
+    "Location": "BJCM 57",
+    "Name": "YRUywsdDaV",
+    "Prerequisites": [
+      "TKXX 2236",
+      "DEWR 2544",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "12:00-13:00",
+      "Tuesday": "10:00-15:00",
+      "Wednesday": "15:00-8:00",
+      "Thursday": "11:00-12:00",
+      "Friday": "12:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rft18609"
+  },
+  {
+    "CourseID": "VCH 5717",
+    "Section": 2,
+    "Capacity": 26,
+    "Description": "wXQokoqUqFGBhLfIKeNRlVqNFKeUjRVmVgjvwXDXfydbwMzZiJ",
+    "Enrollment": 0,
+    "Location": "LQMK 328",
+    "Name": "KiBJziOGJX",
+    "Prerequisites": [
+      "QJI 6382",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "10:00-16:00",
+      "Tuesday": "15:00-12:00",
+      "Wednesday": "15:00-12:00",
+      "Thursday": "15:00-11:00",
+      "Friday": "12:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kbv15423"
+  },
+  {
+    "CourseID": "BEH 2749",
+    "Section": 2,
+    "Capacity": 47,
+    "Description": "GRASxKgtrXZmOMXPSmNbfGXpBBAtDxXgEJOvTYMgoLZBsgseHE",
+    "Enrollment": 0,
+    "Location": "UAXT 374",
+    "Name": "rHbvPBkdYu",
+    "Prerequisites": [
+      "GAKX 3074",
+      "QJI 5544",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "10:00-11:00",
+      "Tuesday": "16:00-13:00",
+      "Wednesday": "12:00-13:00",
+      "Thursday": "9:00-14:00",
+      "Friday": "12:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ztd13317"
+  },
+  {
+    "CourseID": "QRZM 4510",
+    "Section": 2,
+    "Capacity": 44,
+    "Description": "HrccdLiPphwuDapBQuaXwAVVXgRqOSXzksujYYHbeGBYXCdaHH",
+    "Enrollment": 0,
+    "Location": "RIOQ 114",
+    "Name": "KTfgLLgmUq",
+    "Prerequisites": [
+      "BMK 4852",
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "16:00-15:00",
+      "Tuesday": "12:00-12:00",
+      "Wednesday": "10:00-10:00",
+      "Thursday": "14:00-11:00",
+      "Friday": "16:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "zed12366"
+  },
+  {
+    "CourseID": "QRZM 5399",
+    "Section": 3,
+    "Capacity": 21,
+    "Description": "xXllBTvLZEaDBHKHfpjNNVOcHJlZNpdCfdxHYTvPuGjMXInxsY",
+    "Enrollment": 0,
+    "Location": "UPOM 214",
+    "Name": "YRUywsdDaV",
+    "Prerequisites": [
+      "TKXX 2236",
+      "DEWR 2544",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "16:00-16:00",
+      "Tuesday": "10:00-15:00",
+      "Wednesday": "16:00-12:00",
+      "Thursday": "16:00-12:00",
+      "Friday": "15:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rft18609"
+  },
+  {
+    "CourseID": "QRZM 5948",
+    "Section": 2,
+    "Capacity": 49,
+    "Description": "HtpzzVwJKQATmZUZBrHVToZPqSDZnReIzWoWQVMcLzdnzKwHzg",
+    "Enrollment": 0,
+    "Location": "AGUW 341",
+    "Name": "ISJJLYjRAH",
+    "Prerequisites": [
+      "QJI 6382",
+      "DEWR 1132",
+      "QJI 5544"
+    ],
+    "Schedule": {
+      "Monday": "8:00-14:00",
+      "Tuesday": "11:00-10:00",
+      "Wednesday": "15:00-10:00",
+      "Thursday": "13:00-8:00",
+      "Friday": "11:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qiu10722"
+  },
+  {
+    "CourseID": "QJI 1221",
+    "Section": 2,
+    "Capacity": 17,
+    "Description": "KFAQjRnVoeRYjkNGLEETihtDUjbdYcHnhtsnYlWtDBNCBWuclQ",
+    "Enrollment": 0,
+    "Location": "ACZQ 122",
+    "Name": "rpFLAOtedV",
+    "Prerequisites": [
+      "XRKK 1632"
+    ],
+    "Schedule": {
+      "Monday": "13:00-14:00",
+      "Tuesday": "16:00-11:00",
+      "Wednesday": "9:00-13:00",
+      "Thursday": "14:00-16:00",
+      "Friday": "11:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uvp22680"
+  },
+  {
+    "CourseID": "NDQT 2396",
+    "Section": 1,
+    "Capacity": 32,
+    "Description": "LofDQBlLRyDdWCXmoYCDTtJkUjdtZuNWIMtFIEpEIqGjJJHMRy",
+    "Enrollment": 0,
+    "Location": "TOII 364",
+    "Name": "sokZfNUuCr",
+    "Prerequisites": [
+      "FPQQ 4292",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "10:00-11:00",
+      "Tuesday": "8:00-15:00",
+      "Wednesday": "12:00-11:00",
+      "Thursday": "16:00-8:00",
+      "Friday": "11:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gen21626"
+  },
+  {
+    "CourseID": "UUL 3759",
+    "Section": 2,
+    "Capacity": 19,
+    "Description": "bHgooOycaZWjUOPhWCLIBvGeJUYZtRJGZIqxRPwxEsWQYhWtZK",
+    "Enrollment": 0,
+    "Location": "QIUQ 156",
+    "Name": "dRGqJWxwxc",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "16:00-11:00",
+      "Tuesday": "13:00-13:00",
+      "Wednesday": "9:00-14:00",
+      "Thursday": "14:00-8:00",
+      "Friday": "12:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "llw18745"
+  },
+  {
+    "CourseID": "QRZM 1880",
+    "Section": 2,
+    "Capacity": 27,
+    "Description": "VSufLtXqTIWlSidNqOfYmsrHMUfxjqWWAODKFJkFclwSTxsieb",
+    "Enrollment": 0,
+    "Location": "WGIS 227",
+    "Name": "oIRobTawLl",
+    "Prerequisites": [
+      "TJG 4515",
+      "QRZM 2631"
+    ],
+    "Schedule": {
+      "Monday": "11:00-16:00",
+      "Tuesday": "10:00-9:00",
+      "Wednesday": "16:00-15:00",
+      "Thursday": "10:00-10:00",
+      "Friday": "14:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "aqd20441"
+  },
+  {
+    "CourseID": "YNN 2509",
+    "Section": 1,
+    "Capacity": 49,
+    "Description": "ivkyijQRrkkpljNjsqbpshCiQktIFiNBABYWmVuKQyLyNEKIQO",
+    "Enrollment": 0,
+    "Location": "ROMI 20",
+    "Name": "CWsGtTmJsb",
+    "Prerequisites": [
+      "GAKX 3074",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "13:00-11:00",
+      "Tuesday": "11:00-14:00",
+      "Wednesday": "12:00-16:00",
+      "Thursday": "12:00-16:00",
+      "Friday": "10:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qzy14490"
+  },
+  {
+    "CourseID": "FPQQ 4129",
+    "Section": 2,
+    "Capacity": 31,
+    "Description": "AFmLxzRxSGcwrAegjfKcvMJPHXgUUozKFaHlNLvOuSvynxZFcq",
+    "Enrollment": 0,
+    "Location": "RRCB 144",
+    "Name": "MVMXDlvEFz",
+    "Prerequisites": [
+      "TNJ 4839"
+    ],
+    "Schedule": {
+      "Monday": "16:00-11:00",
+      "Tuesday": "9:00-10:00",
+      "Wednesday": "11:00-16:00",
+      "Thursday": "11:00-9:00",
+      "Friday": "12:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ezm19984"
+  },
+  {
+    "CourseID": "ODBJ 3259",
+    "Section": 2,
+    "Capacity": 45,
+    "Description": "JbkFVBUYQvVEiVsixwockbjwAPARSWuRervyczrUeILzcjmhgO",
+    "Enrollment": 0,
+    "Location": "VSYJ 89",
+    "Name": "jpmtjrtjaw",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "9:00-15:00",
+      "Tuesday": "13:00-13:00",
+      "Wednesday": "16:00-14:00",
+      "Thursday": "16:00-9:00",
+      "Friday": "14:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uvp22680"
+  },
+  {
+    "CourseID": "BEH 2749",
+    "Section": 3,
+    "Capacity": 38,
+    "Description": "GRASxKgtrXZmOMXPSmNbfGXpBBAtDxXgEJOvTYMgoLZBsgseHE",
+    "Enrollment": 0,
+    "Location": "XZPN 341",
+    "Name": "rHbvPBkdYu",
+    "Prerequisites": [
+      "GAKX 3074",
+      "QJI 5544",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "12:00-16:00",
+      "Tuesday": "16:00-14:00",
+      "Wednesday": "12:00-16:00",
+      "Thursday": "14:00-9:00",
+      "Friday": "12:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ztd13317"
+  },
+  {
+    "CourseID": "XRKK 3712",
+    "Section": 2,
+    "Capacity": 21,
+    "Description": "WeqWgNOLudFXKnyQsttJgzhOEBQIddVuAoTVQTpwOCPedelxUL",
+    "Enrollment": 0,
+    "Location": "MNRK 139",
+    "Name": "xEKcqDlAak",
+    "Prerequisites": [
+      "DEWR 1132"
+    ],
+    "Schedule": {
+      "Monday": "8:00-8:00",
+      "Tuesday": "10:00-12:00",
+      "Wednesday": "13:00-9:00",
+      "Thursday": "10:00-9:00",
+      "Friday": "16:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gcb19838"
+  },
+  {
+    "CourseID": "QRZM 5948",
+    "Section": 3,
+    "Capacity": 44,
+    "Description": "HtpzzVwJKQATmZUZBrHVToZPqSDZnReIzWoWQVMcLzdnzKwHzg",
+    "Enrollment": 0,
+    "Location": "UXOX 335",
+    "Name": "ISJJLYjRAH",
+    "Prerequisites": [
+      "QJI 6382",
+      "DEWR 1132",
+      "QJI 5544"
+    ],
+    "Schedule": {
+      "Monday": "14:00-13:00",
+      "Tuesday": "15:00-13:00",
+      "Wednesday": "15:00-13:00",
+      "Thursday": "11:00-9:00",
+      "Friday": "9:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "skf15316"
+  },
+  {
+    "CourseID": "QJI 1221",
+    "Section": 3,
+    "Capacity": 33,
+    "Description": "KFAQjRnVoeRYjkNGLEETihtDUjbdYcHnhtsnYlWtDBNCBWuclQ",
+    "Enrollment": 0,
+    "Location": "HRTT 275",
+    "Name": "rpFLAOtedV",
+    "Prerequisites": [
+      "XRKK 1632"
+    ],
+    "Schedule": {
+      "Monday": "10:00-11:00",
+      "Tuesday": "14:00-10:00",
+      "Wednesday": "10:00-12:00",
+      "Thursday": "8:00-11:00",
+      "Friday": "11:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uvp22680"
+  },
+  {
+    "CourseID": "TJG 2355",
+    "Section": 2,
+    "Capacity": 35,
+    "Description": "bWJarjaBJGJnPIEBHaoMPWDiiaIkoQRbpfLnpIcyHtOQCWMKdY",
+    "Enrollment": 0,
+    "Location": "RZLA 173",
+    "Name": "SRnoYqwthd",
+    "Prerequisites": [
+      "TJG 4515",
+      "GAKX 3074"
+    ],
+    "Schedule": {
+      "Monday": "15:00-9:00",
+      "Tuesday": "8:00-15:00",
+      "Wednesday": "10:00-14:00",
+      "Thursday": "11:00-10:00",
+      "Friday": "9:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "QRZM 3543",
+    "Section": 2,
+    "Capacity": 42,
+    "Description": "NvNAxhifhhruWVNOrMdpxGwYduvlJGfmcbBwNdCyVKvpNvkAOc",
+    "Enrollment": 0,
+    "Location": "TKIA 324",
+    "Name": "PtZSqMGEUX",
+    "Prerequisites": [
+      "QRZM 1680",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "14:00-13:00",
+      "Tuesday": "15:00-14:00",
+      "Wednesday": "11:00-12:00",
+      "Thursday": "12:00-14:00",
+      "Friday": "13:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "oju15852"
+  },
+  {
+    "CourseID": "FPQQ 6372",
+    "Section": 1,
+    "Capacity": 33,
+    "Description": "mzKsypAdzgVHASZjaTIJHSbVIquBHwfLTJwgbBRjDwKkYOYgAX",
+    "Enrollment": 0,
+    "Location": "AAND 286",
+    "Name": "CmCOFkTyAw",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "8:00-8:00",
+      "Tuesday": "12:00-11:00",
+      "Wednesday": "8:00-16:00",
+      "Thursday": "11:00-10:00",
+      "Friday": "11:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qiu10722"
+  },
+  {
+    "CourseID": "XRKK 4336",
+    "Section": 3,
+    "Capacity": 31,
+    "Description": "oozIdxuChjGBtgAZpgCtzoMUpZqRuKGUkiKirTSmnqODFQQLWR",
+    "Enrollment": 0,
+    "Location": "EAYS 299",
+    "Name": "nLASRslnak",
+    "Prerequisites": [
+      "DEWR 1132",
+      "FPQQ 4292",
+      "QJI 6382"
+    ],
+    "Schedule": {
+      "Monday": "12:00-12:00",
+      "Tuesday": "8:00-11:00",
+      "Wednesday": "13:00-13:00",
+      "Thursday": "12:00-14:00",
+      "Friday": "8:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "UGE 3934",
+    "Section": 3,
+    "Capacity": 19,
+    "Description": "GLMHPswqlWWlPEKxqvLLfFKNfrfgFPufFJfjVrAWMOLvVsrnYq",
+    "Enrollment": 0,
+    "Location": "AKPV 185",
+    "Name": "RAHIGhuGcj",
+    "Prerequisites": [
+      "QRZM 1680",
+      "TKXX 2236"
+    ],
+    "Schedule": {
+      "Monday": "14:00-11:00",
+      "Tuesday": "11:00-14:00",
+      "Wednesday": "9:00-16:00",
+      "Thursday": "9:00-16:00",
+      "Friday": "14:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "bby17849"
+  },
+  {
+    "CourseID": "ODBJ 3259",
+    "Section": 3,
+    "Capacity": 25,
+    "Description": "JbkFVBUYQvVEiVsixwockbjwAPARSWuRervyczrUeILzcjmhgO",
+    "Enrollment": 0,
+    "Location": "EMZE 141",
+    "Name": "jpmtjrtjaw",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "9:00-13:00",
+      "Tuesday": "14:00-9:00",
+      "Wednesday": "14:00-12:00",
+      "Thursday": "9:00-10:00",
+      "Friday": "15:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "mil18680"
+  },
+  {
+    "CourseID": "UGE 3934",
+    "Section": 4,
+    "Capacity": 31,
+    "Description": "GLMHPswqlWWlPEKxqvLLfFKNfrfgFPufFJfjVrAWMOLvVsrnYq",
+    "Enrollment": 0,
+    "Location": "KIZO 374",
+    "Name": "RAHIGhuGcj",
+    "Prerequisites": [
+      "QRZM 1680",
+      "TKXX 2236"
+    ],
+    "Schedule": {
+      "Monday": "13:00-12:00",
+      "Tuesday": "13:00-14:00",
+      "Wednesday": "8:00-15:00",
+      "Thursday": "10:00-11:00",
+      "Friday": "11:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tfz19232"
+  },
+  {
+    "CourseID": "RIX 4923",
+    "Section": 2,
+    "Capacity": 45,
+    "Description": "ufriYpVnqHnDScYCmNZgTDDZRLzrSrHZevXVDJhYOEhSuhLjsE",
+    "Enrollment": 0,
+    "Location": "IQST 142",
+    "Name": "AigpVxGIwr",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "15:00-14:00",
+      "Tuesday": "13:00-14:00",
+      "Wednesday": "15:00-12:00",
+      "Thursday": "13:00-10:00",
+      "Friday": "9:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "asi16285"
+  },
+  {
+    "CourseID": "BMK 2409",
+    "Section": 2,
+    "Capacity": 34,
+    "Description": "xfnkqyjKfKFFxvjGsVwLOWyRkXqvpvCFLdYlYtEiLizKHMTlLJ",
+    "Enrollment": 0,
+    "Location": "MSGQ 94",
+    "Name": "jckdWrADpy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "13:00-10:00",
+      "Tuesday": "14:00-10:00",
+      "Wednesday": "16:00-14:00",
+      "Thursday": "13:00-13:00",
+      "Friday": "12:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tfz19232"
+  },
+  {
+    "CourseID": "ODBJ 3224",
+    "Section": 2,
+    "Capacity": 45,
+    "Description": "HNYAoLxOShaSaNTonpkQhlCAAKAHrZSnIRwdQetxZriLwvSFJi",
+    "Enrollment": 0,
+    "Location": "MFRC 359",
+    "Name": "tyJEVAxhty",
+    "Prerequisites": [
+      "QJI 5544",
+      "VNZ 2767",
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "8:00-10:00",
+      "Tuesday": "16:00-11:00",
+      "Wednesday": "14:00-10:00",
+      "Thursday": "13:00-11:00",
+      "Friday": "15:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "llw18745"
+  },
+  {
+    "CourseID": "TJG 3691",
+    "Section": 1,
+    "Capacity": 21,
+    "Description": "QWyxTpKCxqtNJlAFjLsXGTZzgOlyRqoqMahNTUznZJPSoZLnan",
+    "Enrollment": 0,
+    "Location": "PRCU 137",
+    "Name": "aVZDGPTWwZ",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "13:00-15:00",
+      "Tuesday": "13:00-12:00",
+      "Wednesday": "9:00-13:00",
+      "Thursday": "9:00-16:00",
+      "Friday": "10:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uey10120"
+  },
+  {
+    "CourseID": "XRKK 3712",
+    "Section": 3,
+    "Capacity": 20,
+    "Description": "WeqWgNOLudFXKnyQsttJgzhOEBQIddVuAoTVQTpwOCPedelxUL",
+    "Enrollment": 0,
+    "Location": "YCPQ 374",
+    "Name": "xEKcqDlAak",
+    "Prerequisites": [
+      "DEWR 1132"
+    ],
+    "Schedule": {
+      "Monday": "10:00-16:00",
+      "Tuesday": "16:00-16:00",
+      "Wednesday": "10:00-15:00",
+      "Thursday": "15:00-15:00",
+      "Friday": "13:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "slx11145"
+  },
+  {
+    "CourseID": "TKXX 5785",
+    "Section": 3,
+    "Capacity": 31,
+    "Description": "TGWXDFLLMMiJytCsFTgAlXiCPbmmaMxYmAJluwAqhgWHoUfGxL",
+    "Enrollment": 0,
+    "Location": "LTQD 204",
+    "Name": "gAvjhfjWjH",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "14:00-13:00",
+      "Tuesday": "8:00-13:00",
+      "Wednesday": "11:00-9:00",
+      "Thursday": "13:00-9:00",
+      "Friday": "15:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "neb13285"
+  },
+  {
+    "CourseID": "QRZM 3543",
+    "Section": 3,
+    "Capacity": 48,
+    "Description": "NvNAxhifhhruWVNOrMdpxGwYduvlJGfmcbBwNdCyVKvpNvkAOc",
+    "Enrollment": 0,
+    "Location": "CQRO 81",
+    "Name": "PtZSqMGEUX",
+    "Prerequisites": [
+      "QRZM 1680",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "13:00-10:00",
+      "Tuesday": "11:00-16:00",
+      "Wednesday": "8:00-14:00",
+      "Thursday": "13:00-13:00",
+      "Friday": "14:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "oju15852"
+  },
+  {
+    "CourseID": "DEWR 5253",
+    "Section": 2,
+    "Capacity": 20,
+    "Description": "pCNHMjAlcECViUnYKEONflSlesaJnqxqemdWihGhvEvnVbumXB",
+    "Enrollment": 0,
+    "Location": "BIUB 190",
+    "Name": "GvgQyJLVMv",
+    "Prerequisites": [
+      "VNZ 2767",
+      "GAKX 3074"
+    ],
+    "Schedule": {
+      "Monday": "8:00-15:00",
+      "Tuesday": "16:00-13:00",
+      "Wednesday": "14:00-10:00",
+      "Thursday": "16:00-10:00",
+      "Friday": "15:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "skf15316"
+  },
+  {
+    "CourseID": "FPQQ 6372",
+    "Section": 2,
+    "Capacity": 36,
+    "Description": "mzKsypAdzgVHASZjaTIJHSbVIquBHwfLTJwgbBRjDwKkYOYgAX",
+    "Enrollment": 0,
+    "Location": "HKKK 68",
+    "Name": "CmCOFkTyAw",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "10:00-13:00",
+      "Tuesday": "10:00-12:00",
+      "Wednesday": "16:00-13:00",
+      "Thursday": "13:00-10:00",
+      "Friday": "15:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qiu10722"
+  },
+  {
+    "CourseID": "UGE 2494",
+    "Section": 1,
+    "Capacity": 33,
+    "Description": "uuddVQaOfRKwkrcnjEqRtAANjymvJtygsAVdrzbUSKwAvwmGVr",
+    "Enrollment": 0,
+    "Location": "UHQP 295",
+    "Name": "sueEDQOWff",
+    "Prerequisites": [
+      "TNJ 4839",
+      "VNZ 2767",
+      "QRZM 2631"
+    ],
+    "Schedule": {
+      "Monday": "12:00-14:00",
+      "Tuesday": "8:00-10:00",
+      "Wednesday": "9:00-16:00",
+      "Thursday": "15:00-14:00",
+      "Friday": "11:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "VCH 5717",
+    "Section": 3,
+    "Capacity": 30,
+    "Description": "wXQokoqUqFGBhLfIKeNRlVqNFKeUjRVmVgjvwXDXfydbwMzZiJ",
+    "Enrollment": 0,
+    "Location": "VZCX 260",
+    "Name": "KiBJziOGJX",
+    "Prerequisites": [
+      "QJI 6382",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "14:00-16:00",
+      "Tuesday": "14:00-12:00",
+      "Wednesday": "15:00-14:00",
+      "Thursday": "10:00-13:00",
+      "Friday": "15:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "GAKX 6292",
+    "Section": 2,
+    "Capacity": 49,
+    "Description": "QCKkdQVzYMEpkpxbKnmsAwNthhkvlnXVWFsitcfiOKxUDZFZaq",
+    "Enrollment": 0,
+    "Location": "RWWS 219",
+    "Name": "PAfazjsTuw",
+    "Prerequisites": [
+      "DEWR 5532",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "16:00-11:00",
+      "Tuesday": "9:00-14:00",
+      "Wednesday": "16:00-8:00",
+      "Thursday": "14:00-14:00",
+      "Friday": "13:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "mor11274"
+  },
+  {
+    "CourseID": "RIX 1994",
+    "Section": 1,
+    "Capacity": 27,
+    "Description": "QHSLHoKpxvOCCtARFqeZmkJbsoHiZnzyPiPRVKzkLDjOzOmRqf",
+    "Enrollment": 0,
+    "Location": "MDXZ 197",
+    "Name": "WaSbIEaZRv",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "15:00-9:00",
+      "Tuesday": "12:00-13:00",
+      "Wednesday": "10:00-11:00",
+      "Thursday": "13:00-13:00",
+      "Friday": "11:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "llw18745"
+  },
+  {
+    "CourseID": "UUL 4854",
+    "Section": 3,
+    "Capacity": 40,
+    "Description": "RrcUyVHiyqCeOAKmBpNmUfXLpAxQxInpMzgrfGQMaHmtRVxFeH",
+    "Enrollment": 0,
+    "Location": "NPQE 370",
+    "Name": "GNMxYCswFV",
+    "Prerequisites": [
+      "NDQT 6241",
+      "XRKK 4278"
+    ],
+    "Schedule": {
+      "Monday": "8:00-12:00",
+      "Tuesday": "14:00-11:00",
+      "Wednesday": "13:00-9:00",
+      "Thursday": "12:00-15:00",
+      "Friday": "8:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "wfz13846"
+  },
+  {
+    "CourseID": "EAHL 1017",
+    "Section": 1,
+    "Capacity": 31,
+    "Description": "JdKUjZqSyDvyRrTNhnUaGyhcITwWNNGOlWzHatAvdDBFAJjRxt",
+    "Enrollment": 0,
+    "Location": "BCSQ 97",
+    "Name": "rDERAQUNnM",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "9:00-15:00",
+      "Tuesday": "9:00-13:00",
+      "Wednesday": "16:00-9:00",
+      "Thursday": "13:00-13:00",
+      "Friday": "9:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "bby17849"
+  },
+  {
+    "CourseID": "RIX 1740",
+    "Section": 1,
+    "Capacity": 18,
+    "Description": "KAZpKrGVvNiYwpInXqCSwcwipYQoPRftKFNBqlGoRwiUsgNIKN",
+    "Enrollment": 0,
+    "Location": "YDMY 296",
+    "Name": "XcClUBIhQA",
+    "Prerequisites": [
+      "TNJ 4839",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "10:00-10:00",
+      "Tuesday": "11:00-14:00",
+      "Wednesday": "12:00-16:00",
+      "Thursday": "13:00-14:00",
+      "Friday": "14:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "BMK 6363",
+    "Section": 4,
+    "Capacity": 35,
+    "Description": "XKaflRaHQOuDlAvzaiJAFHupYJJYtwkZSuIKqAibMmPrgjdLNI",
+    "Enrollment": 0,
+    "Location": "JABR 393",
+    "Name": "LdddZTfxiF",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "15:00-8:00",
+      "Tuesday": "16:00-10:00",
+      "Wednesday": "12:00-9:00",
+      "Thursday": "9:00-11:00",
+      "Friday": "15:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "XRKK 3712",
+    "Section": 4,
+    "Capacity": 21,
+    "Description": "WeqWgNOLudFXKnyQsttJgzhOEBQIddVuAoTVQTpwOCPedelxUL",
+    "Enrollment": 0,
+    "Location": "AJGJ 103",
+    "Name": "xEKcqDlAak",
+    "Prerequisites": [
+      "DEWR 1132"
+    ],
+    "Schedule": {
+      "Monday": "16:00-10:00",
+      "Tuesday": "9:00-13:00",
+      "Wednesday": "11:00-11:00",
+      "Thursday": "8:00-9:00",
+      "Friday": "10:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "slx11145"
+  },
+  {
+    "CourseID": "QJI 2616",
+    "Section": 2,
+    "Capacity": 40,
+    "Description": "MmSdWTTpPAvnfCebvFCEnyUZpbYjtqHoXBchHrQLPlJMhRoLOb",
+    "Enrollment": 0,
+    "Location": "IDQR 97",
+    "Name": "LAhuOmSGQM",
+    "Prerequisites": [
+      "BMK 4852",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "12:00-8:00",
+      "Tuesday": "12:00-16:00",
+      "Wednesday": "10:00-10:00",
+      "Thursday": "9:00-13:00",
+      "Friday": "12:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "VNZ 5875",
+    "Section": 3,
+    "Capacity": 46,
+    "Description": "sAdPWfAGNQclqljaWfvuGAUFpeQqJxBJEsiIAmywJYEavpbCOx",
+    "Enrollment": 0,
+    "Location": "KAHN 86",
+    "Name": "rUjQtfeDbH",
+    "Prerequisites": [
+      "DEWR 1132",
+      "QRZM 2631",
+      "FPQQ 4292"
+    ],
+    "Schedule": {
+      "Monday": "10:00-14:00",
+      "Tuesday": "12:00-12:00",
+      "Wednesday": "8:00-13:00",
+      "Thursday": "9:00-13:00",
+      "Friday": "12:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "FPQQ 2291",
+    "Section": 3,
+    "Capacity": 39,
+    "Description": "TBziwaJvZbVzJRjmqCfqcKrJomsMZgVCFFLaNhBlirgbSrfvmI",
+    "Enrollment": 0,
+    "Location": "BQUT 317",
+    "Name": "IMMJScDrhc",
+    "Prerequisites": [
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "14:00-9:00",
+      "Tuesday": "11:00-16:00",
+      "Wednesday": "11:00-9:00",
+      "Thursday": "10:00-16:00",
+      "Friday": "10:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qiu10722"
+  },
+  {
+    "CourseID": "QRZM 5399",
+    "Section": 4,
+    "Capacity": 39,
+    "Description": "xXllBTvLZEaDBHKHfpjNNVOcHJlZNpdCfdxHYTvPuGjMXInxsY",
+    "Enrollment": 0,
+    "Location": "EUPY 51",
+    "Name": "YRUywsdDaV",
+    "Prerequisites": [
+      "TKXX 2236",
+      "DEWR 2544",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "14:00-8:00",
+      "Tuesday": "8:00-16:00",
+      "Wednesday": "10:00-13:00",
+      "Thursday": "11:00-14:00",
+      "Friday": "8:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ezm19984"
+  },
+  {
+    "CourseID": "XRKK 3712",
+    "Section": 5,
+    "Capacity": 30,
+    "Description": "WeqWgNOLudFXKnyQsttJgzhOEBQIddVuAoTVQTpwOCPedelxUL",
+    "Enrollment": 0,
+    "Location": "OCGX 30",
+    "Name": "xEKcqDlAak",
+    "Prerequisites": [
+      "DEWR 1132"
+    ],
+    "Schedule": {
+      "Monday": "14:00-9:00",
+      "Tuesday": "13:00-16:00",
+      "Wednesday": "9:00-9:00",
+      "Thursday": "9:00-12:00",
+      "Friday": "16:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "mor11274"
+  },
+  {
+    "CourseID": "UGE 2494",
+    "Section": 2,
+    "Capacity": 22,
+    "Description": "uuddVQaOfRKwkrcnjEqRtAANjymvJtygsAVdrzbUSKwAvwmGVr",
+    "Enrollment": 0,
+    "Location": "GLVC 177",
+    "Name": "sueEDQOWff",
+    "Prerequisites": [
+      "TNJ 4839",
+      "VNZ 2767",
+      "QRZM 2631"
+    ],
+    "Schedule": {
+      "Monday": "10:00-12:00",
+      "Tuesday": "14:00-10:00",
+      "Wednesday": "11:00-15:00",
+      "Thursday": "16:00-14:00",
+      "Friday": "15:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "QRZM 4510",
+    "Section": 3,
+    "Capacity": 16,
+    "Description": "HrccdLiPphwuDapBQuaXwAVVXgRqOSXzksujYYHbeGBYXCdaHH",
+    "Enrollment": 0,
+    "Location": "LEDH 66",
+    "Name": "KTfgLLgmUq",
+    "Prerequisites": [
+      "BMK 4852",
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "12:00-8:00",
+      "Tuesday": "14:00-13:00",
+      "Wednesday": "15:00-16:00",
+      "Thursday": "9:00-14:00",
+      "Friday": "12:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qzy14490"
+  },
+  {
+    "CourseID": "EAHL 1017",
+    "Section": 2,
+    "Capacity": 45,
+    "Description": "JdKUjZqSyDvyRrTNhnUaGyhcITwWNNGOlWzHatAvdDBFAJjRxt",
+    "Enrollment": 0,
+    "Location": "CKQH 189",
+    "Name": "rDERAQUNnM",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "15:00-9:00",
+      "Tuesday": "16:00-16:00",
+      "Wednesday": "8:00-14:00",
+      "Thursday": "15:00-13:00",
+      "Friday": "9:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ztd13317"
+  },
+  {
+    "CourseID": "FPQQ 3422",
+    "Section": 2,
+    "Capacity": 47,
+    "Description": "WSsMXIBSjRymbKSPiBPoFrqtIDyUdsbiKCGrRDrHLvkbjKWhes",
+    "Enrollment": 0,
+    "Location": "UWKM 216",
+    "Name": "LbBlbpPFIw",
+    "Prerequisites": [
+      "QRZM 2631",
+      "RIX 4894",
+      "QJI 6382"
+    ],
+    "Schedule": {
+      "Monday": "13:00-15:00",
+      "Tuesday": "12:00-10:00",
+      "Wednesday": "10:00-10:00",
+      "Thursday": "16:00-13:00",
+      "Friday": "12:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "FPQQ 2291",
+    "Section": 4,
+    "Capacity": 38,
+    "Description": "TBziwaJvZbVzJRjmqCfqcKrJomsMZgVCFFLaNhBlirgbSrfvmI",
+    "Enrollment": 0,
+    "Location": "UZHU 31",
+    "Name": "IMMJScDrhc",
+    "Prerequisites": [
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "13:00-16:00",
+      "Tuesday": "12:00-15:00",
+      "Wednesday": "8:00-9:00",
+      "Thursday": "10:00-9:00",
+      "Friday": "10:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rpl18685"
+  },
+  {
+    "CourseID": "QJI 5730",
+    "Section": 1,
+    "Capacity": 26,
+    "Description": "pGsXRkgCIboEpxyDUdHyGGXgmAuDSCMeVbJUSgbbGlEJOPUpza",
+    "Enrollment": 0,
+    "Location": "HBYY 361",
+    "Name": "YHPOGbAOwY",
+    "Prerequisites": [
+      "QJI 4864",
+      "VNZ 2767",
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "16:00-16:00",
+      "Tuesday": "9:00-12:00",
+      "Wednesday": "10:00-10:00",
+      "Thursday": "11:00-10:00",
+      "Friday": "15:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rpl18685"
+  },
+  {
+    "CourseID": "UUL 3759",
+    "Section": 3,
+    "Capacity": 35,
+    "Description": "bHgooOycaZWjUOPhWCLIBvGeJUYZtRJGZIqxRPwxEsWQYhWtZK",
+    "Enrollment": 0,
+    "Location": "EWYS 105",
+    "Name": "dRGqJWxwxc",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "10:00-8:00",
+      "Tuesday": "16:00-11:00",
+      "Wednesday": "16:00-9:00",
+      "Thursday": "13:00-12:00",
+      "Friday": "16:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "llw18745"
+  },
+  {
+    "CourseID": "BEH 1085",
+    "Section": 3,
+    "Capacity": 37,
+    "Description": "lNFlTNoDfjsNdSPyDcGHKsjfNmDsfrrhkXcLatbizMyKjNcsqf",
+    "Enrollment": 0,
+    "Location": "ANGC 139",
+    "Name": "zqzWvBYDsG",
+    "Prerequisites": [
+      "TNJ 4839",
+      "XRKK 1632",
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "11:00-15:00",
+      "Tuesday": "16:00-13:00",
+      "Wednesday": "16:00-14:00",
+      "Thursday": "14:00-11:00",
+      "Friday": "13:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "DEWR 5253",
+    "Section": 3,
+    "Capacity": 16,
+    "Description": "pCNHMjAlcECViUnYKEONflSlesaJnqxqemdWihGhvEvnVbumXB",
+    "Enrollment": 0,
+    "Location": "GZYX 292",
+    "Name": "GvgQyJLVMv",
+    "Prerequisites": [
+      "VNZ 2767",
+      "GAKX 3074"
+    ],
+    "Schedule": {
+      "Monday": "14:00-10:00",
+      "Tuesday": "10:00-11:00",
+      "Wednesday": "10:00-14:00",
+      "Thursday": "12:00-12:00",
+      "Friday": "16:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "vpu21183"
+  },
+  {
+    "CourseID": "QRZM 4510",
+    "Section": 4,
+    "Capacity": 26,
+    "Description": "HrccdLiPphwuDapBQuaXwAVVXgRqOSXzksujYYHbeGBYXCdaHH",
+    "Enrollment": 0,
+    "Location": "HTJT 201",
+    "Name": "KTfgLLgmUq",
+    "Prerequisites": [
+      "BMK 4852",
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "10:00-16:00",
+      "Tuesday": "15:00-14:00",
+      "Wednesday": "16:00-10:00",
+      "Thursday": "8:00-14:00",
+      "Friday": "15:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "zed12366"
+  },
+  {
+    "CourseID": "TKXX 3325",
+    "Section": 2,
+    "Capacity": 36,
+    "Description": "XqKjvrFsNGPDhOlIDxuBSowOMFuactPwwTCqaRkmHGlcabpynT",
+    "Enrollment": 0,
+    "Location": "ZBNU 221",
+    "Name": "yMIiJWkety",
+    "Prerequisites": [
+      "GAKX 3074",
+      "TNJ 4839"
+    ],
+    "Schedule": {
+      "Monday": "15:00-13:00",
+      "Tuesday": "9:00-14:00",
+      "Wednesday": "16:00-16:00",
+      "Thursday": "16:00-11:00",
+      "Friday": "10:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fvh11273"
+  },
+  {
+    "CourseID": "RIX 1740",
+    "Section": 2,
+    "Capacity": 18,
+    "Description": "KAZpKrGVvNiYwpInXqCSwcwipYQoPRftKFNBqlGoRwiUsgNIKN",
+    "Enrollment": 0,
+    "Location": "RTRK 265",
+    "Name": "XcClUBIhQA",
+    "Prerequisites": [
+      "TNJ 4839",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "11:00-13:00",
+      "Tuesday": "13:00-10:00",
+      "Wednesday": "10:00-9:00",
+      "Thursday": "11:00-14:00",
+      "Friday": "13:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tpu17750"
+  },
+  {
+    "CourseID": "NDQT 2396",
+    "Section": 2,
+    "Capacity": 39,
+    "Description": "LofDQBlLRyDdWCXmoYCDTtJkUjdtZuNWIMtFIEpEIqGjJJHMRy",
+    "Enrollment": 0,
+    "Location": "RCCD 45",
+    "Name": "sokZfNUuCr",
+    "Prerequisites": [
+      "FPQQ 4292",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "14:00-14:00",
+      "Tuesday": "11:00-16:00",
+      "Wednesday": "13:00-15:00",
+      "Thursday": "10:00-15:00",
+      "Friday": "8:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tfz19232"
+  },
+  {
+    "CourseID": "ODBJ 3984",
+    "Section": 1,
+    "Capacity": 25,
+    "Description": "DQpVmJjreeoufulUTBeTVGTdlNdiOSGTGingqKvXRzWPlIbqYU",
+    "Enrollment": 0,
+    "Location": "PPRR 48",
+    "Name": "bzENeFIwEU",
+    "Prerequisites": [
+      "DEWR 2544",
+      "GAKX 3074",
+      "QJI 5544"
+    ],
+    "Schedule": {
+      "Monday": "12:00-8:00",
+      "Tuesday": "16:00-14:00",
+      "Wednesday": "13:00-16:00",
+      "Thursday": "11:00-14:00",
+      "Friday": "14:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gcb19838"
+  },
+  {
+    "CourseID": "UUL 6100",
+    "Section": 2,
+    "Capacity": 35,
+    "Description": "yeuoCVQPflLHMWMzpIJgXritSvqDFfNkBwgWabIMbVMaJlDUFF",
+    "Enrollment": 0,
+    "Location": "OLUA 190",
+    "Name": "hFcjueoLwm",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "14:00-8:00",
+      "Tuesday": "14:00-8:00",
+      "Wednesday": "16:00-13:00",
+      "Thursday": "9:00-16:00",
+      "Friday": "14:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "oju15852"
+  },
+  {
+    "CourseID": "UUL 4854",
+    "Section": 4,
+    "Capacity": 27,
+    "Description": "RrcUyVHiyqCeOAKmBpNmUfXLpAxQxInpMzgrfGQMaHmtRVxFeH",
+    "Enrollment": 0,
+    "Location": "ZDSZ 65",
+    "Name": "GNMxYCswFV",
+    "Prerequisites": [
+      "NDQT 6241",
+      "XRKK 4278"
+    ],
+    "Schedule": {
+      "Monday": "8:00-14:00",
+      "Tuesday": "9:00-13:00",
+      "Wednesday": "12:00-10:00",
+      "Thursday": "15:00-15:00",
+      "Friday": "13:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "wfz13846"
+  },
+  {
+    "CourseID": "EAHL 5760",
+    "Section": 1,
+    "Capacity": 42,
+    "Description": "kummbKDLAJMtlwljKaeIMXwIIalXljCIRTVAhZVJqagrIJwvXG",
+    "Enrollment": 0,
+    "Location": "WRSL 188",
+    "Name": "Gzsstrcmin",
+    "Prerequisites": [
+      "QRZM 2631"
+    ],
+    "Schedule": {
+      "Monday": "11:00-8:00",
+      "Tuesday": "14:00-14:00",
+      "Wednesday": "13:00-9:00",
+      "Thursday": "9:00-8:00",
+      "Friday": "14:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fvh11273"
+  },
+  {
+    "CourseID": "VNZ 4082",
+    "Section": 4,
+    "Capacity": 41,
+    "Description": "feeFLwqMQnSTNTukcyNgnAThkTHXJCFZhrVlHPCkZbVhRqbgZx",
+    "Enrollment": 0,
+    "Location": "FVTA 249",
+    "Name": "KpPuGlYpYy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "10:00-11:00",
+      "Tuesday": "8:00-8:00",
+      "Wednesday": "12:00-9:00",
+      "Thursday": "13:00-16:00",
+      "Friday": "11:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "vpu21183"
+  },
+  {
+    "CourseID": "TNJ 3124",
+    "Section": 2,
+    "Capacity": 29,
+    "Description": "qYnSJATBpLEyVPRYhvCdSxkDZSGQKKqmiiLucrAGsIQNwBEPIC",
+    "Enrollment": 0,
+    "Location": "DGSV 241",
+    "Name": "VYuelKQmSm",
+    "Prerequisites": [
+      "DEWR 2544",
+      "TNJ 4839",
+      "GAKX 3074"
+    ],
+    "Schedule": {
+      "Monday": "15:00-16:00",
+      "Tuesday": "13:00-15:00",
+      "Wednesday": "12:00-16:00",
+      "Thursday": "12:00-15:00",
+      "Friday": "9:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "skf15316"
+  },
+  {
+    "CourseID": "XRKK 4336",
+    "Section": 4,
+    "Capacity": 39,
+    "Description": "oozIdxuChjGBtgAZpgCtzoMUpZqRuKGUkiKirTSmnqODFQQLWR",
+    "Enrollment": 0,
+    "Location": "PSRQ 335",
+    "Name": "nLASRslnak",
+    "Prerequisites": [
+      "DEWR 1132",
+      "FPQQ 4292",
+      "QJI 6382"
+    ],
+    "Schedule": {
+      "Monday": "8:00-15:00",
+      "Tuesday": "11:00-13:00",
+      "Wednesday": "12:00-15:00",
+      "Thursday": "12:00-13:00",
+      "Friday": "15:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uvp22680"
+  },
+  {
+    "CourseID": "QRZM 4510",
+    "Section": 5,
+    "Capacity": 29,
+    "Description": "HrccdLiPphwuDapBQuaXwAVVXgRqOSXzksujYYHbeGBYXCdaHH",
+    "Enrollment": 0,
+    "Location": "UUGJ 230",
+    "Name": "KTfgLLgmUq",
+    "Prerequisites": [
+      "BMK 4852",
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "10:00-10:00",
+      "Tuesday": "14:00-10:00",
+      "Wednesday": "11:00-8:00",
+      "Thursday": "12:00-14:00",
+      "Friday": "9:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gcb19838"
+  },
+  {
+    "CourseID": "BEH 2749",
+    "Section": 4,
+    "Capacity": 39,
+    "Description": "GRASxKgtrXZmOMXPSmNbfGXpBBAtDxXgEJOvTYMgoLZBsgseHE",
+    "Enrollment": 0,
+    "Location": "DVBX 35",
+    "Name": "rHbvPBkdYu",
+    "Prerequisites": [
+      "GAKX 3074",
+      "QJI 5544",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "12:00-16:00",
+      "Tuesday": "12:00-13:00",
+      "Wednesday": "10:00-11:00",
+      "Thursday": "12:00-15:00",
+      "Friday": "14:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "dvy14166"
+  },
+  {
+    "CourseID": "FPQQ 3422",
+    "Section": 3,
+    "Capacity": 21,
+    "Description": "WSsMXIBSjRymbKSPiBPoFrqtIDyUdsbiKCGrRDrHLvkbjKWhes",
+    "Enrollment": 0,
+    "Location": "LKVB 5",
+    "Name": "LbBlbpPFIw",
+    "Prerequisites": [
+      "QRZM 2631",
+      "RIX 4894",
+      "QJI 6382"
+    ],
+    "Schedule": {
+      "Monday": "14:00-8:00",
+      "Tuesday": "10:00-13:00",
+      "Wednesday": "14:00-16:00",
+      "Thursday": "15:00-16:00",
+      "Friday": "12:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "wfz13846"
+  },
+  {
+    "CourseID": "QRZM 3394",
+    "Section": 3,
+    "Capacity": 28,
+    "Description": "QULRuqndbIdzOufASfenouJYqHCowYATzRuLmuGBVHauccdMIc",
+    "Enrollment": 0,
+    "Location": "BRLA 281",
+    "Name": "zXPjUfdPOL",
+    "Prerequisites": [
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "8:00-13:00",
+      "Tuesday": "10:00-8:00",
+      "Wednesday": "10:00-13:00",
+      "Thursday": "14:00-10:00",
+      "Friday": "8:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gen21626"
+  },
+  {
+    "CourseID": "QJI 5730",
+    "Section": 2,
+    "Capacity": 48,
+    "Description": "pGsXRkgCIboEpxyDUdHyGGXgmAuDSCMeVbJUSgbbGlEJOPUpza",
+    "Enrollment": 0,
+    "Location": "KEFP 61",
+    "Name": "YHPOGbAOwY",
+    "Prerequisites": [
+      "QJI 4864",
+      "VNZ 2767",
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "9:00-10:00",
+      "Tuesday": "13:00-8:00",
+      "Wednesday": "13:00-16:00",
+      "Thursday": "13:00-14:00",
+      "Friday": "10:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "VCH 4740",
+    "Section": 3,
+    "Capacity": 34,
+    "Description": "moiwtxfCYgGdSKOSuRuggCjMFIkcVEMaNhAsvKhVZMXpOBhhLM",
+    "Enrollment": 0,
+    "Location": "EXUB 258",
+    "Name": "esQNNCKQrB",
+    "Prerequisites": [
+      "GAKX 3074",
+      "TKXX 3571",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "16:00-10:00",
+      "Tuesday": "11:00-14:00",
+      "Wednesday": "10:00-9:00",
+      "Thursday": "15:00-14:00",
+      "Friday": "12:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uey10120"
+  },
+  {
+    "CourseID": "XRKK 4051",
+    "Section": 1,
+    "Capacity": 20,
+    "Description": "crzRevNBzfCZfyZccPQvmWoaqcbrujsbNNDjvyGLpDQOqqbyHC",
+    "Enrollment": 0,
+    "Location": "RCPE 44",
+    "Name": "SSSndDiZWt",
+    "Prerequisites": [
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "12:00-10:00",
+      "Tuesday": "16:00-9:00",
+      "Wednesday": "8:00-15:00",
+      "Thursday": "14:00-12:00",
+      "Friday": "10:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ezm19984"
+  },
+  {
+    "CourseID": "ODBJ 5605",
+    "Section": 2,
+    "Capacity": 33,
+    "Description": "hxDmBydgKBjOcKICrTzEXFshjiMLTKkhoqHehVRnriPYQTayYs",
+    "Enrollment": 0,
+    "Location": "OAPR 376",
+    "Name": "eCQwcymDto",
+    "Prerequisites": [
+      "VNZ 2767",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "13:00-13:00",
+      "Tuesday": "11:00-11:00",
+      "Wednesday": "14:00-8:00",
+      "Thursday": "15:00-9:00",
+      "Friday": "16:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ect10952"
+  },
+  {
+    "CourseID": "GAKX 6292",
+    "Section": 3,
+    "Capacity": 21,
+    "Description": "QCKkdQVzYMEpkpxbKnmsAwNthhkvlnXVWFsitcfiOKxUDZFZaq",
+    "Enrollment": 0,
+    "Location": "UBIP 73",
+    "Name": "PAfazjsTuw",
+    "Prerequisites": [
+      "DEWR 5532",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "12:00-11:00",
+      "Tuesday": "9:00-11:00",
+      "Wednesday": "15:00-13:00",
+      "Thursday": "12:00-11:00",
+      "Friday": "13:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "mor11274"
+  },
+  {
+    "CourseID": "UUL 4854",
+    "Section": 5,
+    "Capacity": 33,
+    "Description": "RrcUyVHiyqCeOAKmBpNmUfXLpAxQxInpMzgrfGQMaHmtRVxFeH",
+    "Enrollment": 0,
+    "Location": "CSDN 285",
+    "Name": "GNMxYCswFV",
+    "Prerequisites": [
+      "NDQT 6241",
+      "XRKK 4278"
+    ],
+    "Schedule": {
+      "Monday": "13:00-10:00",
+      "Tuesday": "12:00-15:00",
+      "Wednesday": "10:00-14:00",
+      "Thursday": "8:00-16:00",
+      "Friday": "10:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "wfz13846"
+  },
+  {
+    "CourseID": "QJI 5730",
+    "Section": 3,
+    "Capacity": 27,
+    "Description": "pGsXRkgCIboEpxyDUdHyGGXgmAuDSCMeVbJUSgbbGlEJOPUpza",
+    "Enrollment": 0,
+    "Location": "VKVX 262",
+    "Name": "YHPOGbAOwY",
+    "Prerequisites": [
+      "QJI 4864",
+      "VNZ 2767",
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "14:00-16:00",
+      "Tuesday": "14:00-15:00",
+      "Wednesday": "12:00-14:00",
+      "Thursday": "16:00-13:00",
+      "Friday": "8:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "TJG 3691",
+    "Section": 2,
+    "Capacity": 42,
+    "Description": "QWyxTpKCxqtNJlAFjLsXGTZzgOlyRqoqMahNTUznZJPSoZLnan",
+    "Enrollment": 0,
+    "Location": "CILX 138",
+    "Name": "aVZDGPTWwZ",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "11:00-13:00",
+      "Tuesday": "15:00-11:00",
+      "Wednesday": "16:00-14:00",
+      "Thursday": "9:00-11:00",
+      "Friday": "13:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uey10120"
+  },
+  {
+    "CourseID": "TKXX 5785",
+    "Section": 4,
+    "Capacity": 28,
+    "Description": "TGWXDFLLMMiJytCsFTgAlXiCPbmmaMxYmAJluwAqhgWHoUfGxL",
+    "Enrollment": 0,
+    "Location": "MUKW 3",
+    "Name": "gAvjhfjWjH",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "10:00-14:00",
+      "Tuesday": "8:00-10:00",
+      "Wednesday": "10:00-9:00",
+      "Thursday": "16:00-12:00",
+      "Friday": "13:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "zed12366"
+  },
+  {
+    "CourseID": "QJI 5187",
+    "Section": 2,
+    "Capacity": 46,
+    "Description": "bHWtXhYleXbfcbmMeCgFVbXiLpvjtWNkFdDciQvaHSFRhOOrUv",
+    "Enrollment": 0,
+    "Location": "TAOB 93",
+    "Name": "pvKDZyQEsY",
+    "Prerequisites": [
+      "FPQQ 4292",
+      "FPQQ 4292"
+    ],
+    "Schedule": {
+      "Monday": "15:00-9:00",
+      "Tuesday": "14:00-16:00",
+      "Wednesday": "14:00-15:00",
+      "Thursday": "10:00-13:00",
+      "Friday": "13:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "llw18745"
+  },
+  {
+    "CourseID": "DEWR 5253",
+    "Section": 4,
+    "Capacity": 25,
+    "Description": "pCNHMjAlcECViUnYKEONflSlesaJnqxqemdWihGhvEvnVbumXB",
+    "Enrollment": 0,
+    "Location": "EVJP 21",
+    "Name": "GvgQyJLVMv",
+    "Prerequisites": [
+      "VNZ 2767",
+      "GAKX 3074"
+    ],
+    "Schedule": {
+      "Monday": "16:00-15:00",
+      "Tuesday": "9:00-9:00",
+      "Wednesday": "10:00-9:00",
+      "Thursday": "10:00-12:00",
+      "Friday": "12:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "QRZM 4510",
+    "Section": 6,
+    "Capacity": 22,
+    "Description": "HrccdLiPphwuDapBQuaXwAVVXgRqOSXzksujYYHbeGBYXCdaHH",
+    "Enrollment": 0,
+    "Location": "HAHP 279",
+    "Name": "KTfgLLgmUq",
+    "Prerequisites": [
+      "BMK 4852",
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "12:00-13:00",
+      "Tuesday": "15:00-9:00",
+      "Wednesday": "14:00-14:00",
+      "Thursday": "10:00-8:00",
+      "Friday": "12:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gcb19838"
+  },
+  {
+    "CourseID": "BMK 6363",
+    "Section": 5,
+    "Capacity": 46,
+    "Description": "XKaflRaHQOuDlAvzaiJAFHupYJJYtwkZSuIKqAibMmPrgjdLNI",
+    "Enrollment": 0,
+    "Location": "RQFO 348",
+    "Name": "LdddZTfxiF",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "9:00-13:00",
+      "Tuesday": "16:00-15:00",
+      "Wednesday": "12:00-13:00",
+      "Thursday": "16:00-12:00",
+      "Friday": "10:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "slx11145"
+  },
+  {
+    "CourseID": "FPQQ 6372",
+    "Section": 3,
+    "Capacity": 47,
+    "Description": "mzKsypAdzgVHASZjaTIJHSbVIquBHwfLTJwgbBRjDwKkYOYgAX",
+    "Enrollment": 0,
+    "Location": "URQX 105",
+    "Name": "CmCOFkTyAw",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "8:00-12:00",
+      "Tuesday": "13:00-8:00",
+      "Wednesday": "9:00-11:00",
+      "Thursday": "16:00-13:00",
+      "Friday": "10:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "UGE 3934",
+    "Section": 5,
+    "Capacity": 38,
+    "Description": "GLMHPswqlWWlPEKxqvLLfFKNfrfgFPufFJfjVrAWMOLvVsrnYq",
+    "Enrollment": 0,
+    "Location": "ZTJK 169",
+    "Name": "RAHIGhuGcj",
+    "Prerequisites": [
+      "QRZM 1680",
+      "TKXX 2236"
+    ],
+    "Schedule": {
+      "Monday": "15:00-14:00",
+      "Tuesday": "12:00-16:00",
+      "Wednesday": "10:00-9:00",
+      "Thursday": "14:00-12:00",
+      "Friday": "8:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tfz19232"
+  },
+  {
+    "CourseID": "EAHL 5760",
+    "Section": 2,
+    "Capacity": 26,
+    "Description": "kummbKDLAJMtlwljKaeIMXwIIalXljCIRTVAhZVJqagrIJwvXG",
+    "Enrollment": 0,
+    "Location": "YLTY 49",
+    "Name": "Gzsstrcmin",
+    "Prerequisites": [
+      "QRZM 2631"
+    ],
+    "Schedule": {
+      "Monday": "10:00-14:00",
+      "Tuesday": "14:00-10:00",
+      "Wednesday": "12:00-14:00",
+      "Thursday": "14:00-14:00",
+      "Friday": "16:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tmn14851"
+  },
+  {
+    "CourseID": "FPQQ 2291",
+    "Section": 5,
+    "Capacity": 49,
+    "Description": "TBziwaJvZbVzJRjmqCfqcKrJomsMZgVCFFLaNhBlirgbSrfvmI",
+    "Enrollment": 0,
+    "Location": "BKTV 42",
+    "Name": "IMMJScDrhc",
+    "Prerequisites": [
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "10:00-11:00",
+      "Tuesday": "9:00-11:00",
+      "Wednesday": "12:00-8:00",
+      "Thursday": "9:00-16:00",
+      "Friday": "9:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qiu10722"
+  },
+  {
+    "CourseID": "EAHL 2931",
+    "Section": 1,
+    "Capacity": 32,
+    "Description": "EsBlKnkIQtJzTnwxFboBLxqdBqRRQiHMVsOgWiVQIdEjNGclaq",
+    "Enrollment": 0,
+    "Location": "AVBH 343",
+    "Name": "RZJsqEraty",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "14:00-12:00",
+      "Tuesday": "14:00-11:00",
+      "Wednesday": "8:00-14:00",
+      "Thursday": "12:00-11:00",
+      "Friday": "12:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qzy14490"
+  },
+  {
+    "CourseID": "VCH 5717",
+    "Section": 4,
+    "Capacity": 33,
+    "Description": "wXQokoqUqFGBhLfIKeNRlVqNFKeUjRVmVgjvwXDXfydbwMzZiJ",
+    "Enrollment": 0,
+    "Location": "POKO 27",
+    "Name": "KiBJziOGJX",
+    "Prerequisites": [
+      "QJI 6382",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "9:00-14:00",
+      "Tuesday": "8:00-15:00",
+      "Wednesday": "10:00-16:00",
+      "Thursday": "15:00-14:00",
+      "Friday": "8:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "UGE 4935",
+    "Section": 3,
+    "Capacity": 32,
+    "Description": "GxbttUevHEfiNtWhfDinWKhHxmVvXxhpyIsGZrBprvECmzBobZ",
+    "Enrollment": 0,
+    "Location": "SWHL 61",
+    "Name": "lCmaqWuxDn",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "8:00-10:00",
+      "Tuesday": "10:00-8:00",
+      "Wednesday": "12:00-10:00",
+      "Thursday": "11:00-11:00",
+      "Friday": "12:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "UGE 4446",
+    "Section": 4,
+    "Capacity": 18,
+    "Description": "SWpRKENcBxmriFYLtaaSLadanXYyBmpUIYVJrlCVyVzpXwYnLk",
+    "Enrollment": 0,
+    "Location": "MWTT 61",
+    "Name": "JSzNgvSwKp",
+    "Prerequisites": [
+      "TKXX 3571",
+      "QRZM 2631",
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "10:00-15:00",
+      "Tuesday": "14:00-8:00",
+      "Wednesday": "8:00-14:00",
+      "Thursday": "9:00-14:00",
+      "Friday": "13:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kka17086"
+  },
+  {
+    "CourseID": "QJI 5730",
+    "Section": 4,
+    "Capacity": 40,
+    "Description": "pGsXRkgCIboEpxyDUdHyGGXgmAuDSCMeVbJUSgbbGlEJOPUpza",
+    "Enrollment": 0,
+    "Location": "GCAN 36",
+    "Name": "YHPOGbAOwY",
+    "Prerequisites": [
+      "QJI 4864",
+      "VNZ 2767",
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "12:00-13:00",
+      "Tuesday": "10:00-11:00",
+      "Wednesday": "16:00-11:00",
+      "Thursday": "14:00-10:00",
+      "Friday": "15:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "VCH 4740",
+    "Section": 4,
+    "Capacity": 43,
+    "Description": "moiwtxfCYgGdSKOSuRuggCjMFIkcVEMaNhAsvKhVZMXpOBhhLM",
+    "Enrollment": 0,
+    "Location": "NYQR 148",
+    "Name": "esQNNCKQrB",
+    "Prerequisites": [
+      "GAKX 3074",
+      "TKXX 3571",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "10:00-9:00",
+      "Tuesday": "15:00-13:00",
+      "Wednesday": "16:00-15:00",
+      "Thursday": "14:00-12:00",
+      "Friday": "16:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "XRKK 3264",
+    "Section": 3,
+    "Capacity": 38,
+    "Description": "yRcESwSAjwfKVBcfZirlDjTEwsUDLYrQZrqHxzFbGgQpUEMGYz",
+    "Enrollment": 0,
+    "Location": "EHUA 47",
+    "Name": "iirbHcBuNj",
+    "Prerequisites": [
+      "QRZM 1680",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "12:00-9:00",
+      "Tuesday": "15:00-16:00",
+      "Wednesday": "12:00-10:00",
+      "Thursday": "10:00-13:00",
+      "Friday": "14:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ect10952"
+  },
+  {
+    "CourseID": "XRKK 4336",
+    "Section": 5,
+    "Capacity": 47,
+    "Description": "oozIdxuChjGBtgAZpgCtzoMUpZqRuKGUkiKirTSmnqODFQQLWR",
+    "Enrollment": 0,
+    "Location": "PXAB 121",
+    "Name": "nLASRslnak",
+    "Prerequisites": [
+      "DEWR 1132",
+      "FPQQ 4292",
+      "QJI 6382"
+    ],
+    "Schedule": {
+      "Monday": "11:00-15:00",
+      "Tuesday": "8:00-13:00",
+      "Wednesday": "10:00-11:00",
+      "Thursday": "10:00-16:00",
+      "Friday": "8:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uvp22680"
+  },
+  {
+    "CourseID": "XRKK 3712",
+    "Section": 6,
+    "Capacity": 33,
+    "Description": "WeqWgNOLudFXKnyQsttJgzhOEBQIddVuAoTVQTpwOCPedelxUL",
+    "Enrollment": 0,
+    "Location": "RQCL 80",
+    "Name": "xEKcqDlAak",
+    "Prerequisites": [
+      "DEWR 1132"
+    ],
+    "Schedule": {
+      "Monday": "10:00-15:00",
+      "Tuesday": "12:00-14:00",
+      "Wednesday": "9:00-14:00",
+      "Thursday": "15:00-11:00",
+      "Friday": "15:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "slx11145"
+  },
+  {
+    "CourseID": "TJG 3691",
+    "Section": 3,
+    "Capacity": 33,
+    "Description": "QWyxTpKCxqtNJlAFjLsXGTZzgOlyRqoqMahNTUznZJPSoZLnan",
+    "Enrollment": 0,
+    "Location": "RZNR 235",
+    "Name": "aVZDGPTWwZ",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "15:00-8:00",
+      "Tuesday": "12:00-9:00",
+      "Wednesday": "12:00-9:00",
+      "Thursday": "15:00-12:00",
+      "Friday": "9:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tjk10823"
+  },
+  {
+    "CourseID": "VCH 4072",
+    "Section": 2,
+    "Capacity": 43,
+    "Description": "LhfIiuEJUYQFGPbeuyvZVwMrhiiZYRHGDpomVDfMhGpwHRqwsv",
+    "Enrollment": 0,
+    "Location": "OBTF 155",
+    "Name": "GQGJnzhvHN",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "9:00-12:00",
+      "Tuesday": "12:00-8:00",
+      "Wednesday": "11:00-11:00",
+      "Thursday": "12:00-15:00",
+      "Friday": "10:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ore18999"
+  },
+  {
+    "CourseID": "TJG 3691",
+    "Section": 4,
+    "Capacity": 38,
+    "Description": "QWyxTpKCxqtNJlAFjLsXGTZzgOlyRqoqMahNTUznZJPSoZLnan",
+    "Enrollment": 0,
+    "Location": "ZFTH 242",
+    "Name": "aVZDGPTWwZ",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "16:00-14:00",
+      "Tuesday": "13:00-14:00",
+      "Wednesday": "9:00-11:00",
+      "Thursday": "15:00-8:00",
+      "Friday": "11:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tjk10823"
+  },
+  {
+    "CourseID": "UGE 3934",
+    "Section": 6,
+    "Capacity": 40,
+    "Description": "GLMHPswqlWWlPEKxqvLLfFKNfrfgFPufFJfjVrAWMOLvVsrnYq",
+    "Enrollment": 0,
+    "Location": "JMNY 4",
+    "Name": "RAHIGhuGcj",
+    "Prerequisites": [
+      "QRZM 1680",
+      "TKXX 2236"
+    ],
+    "Schedule": {
+      "Monday": "16:00-10:00",
+      "Tuesday": "11:00-15:00",
+      "Wednesday": "16:00-13:00",
+      "Thursday": "16:00-16:00",
+      "Friday": "11:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "bby17849"
+  },
+  {
+    "CourseID": "VCH 1951",
+    "Section": 2,
+    "Capacity": 22,
+    "Description": "RZZZOWJbklTRhABtkMKvAMmIVmGeCNAcFEaVgegxKHViYFtRwO",
+    "Enrollment": 0,
+    "Location": "AIHD 237",
+    "Name": "RXlmaWlDoI",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "10:00-13:00",
+      "Tuesday": "15:00-16:00",
+      "Wednesday": "11:00-16:00",
+      "Thursday": "11:00-10:00",
+      "Friday": "16:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kka17086"
+  },
+  {
+    "CourseID": "RIX 4923",
+    "Section": 3,
+    "Capacity": 25,
+    "Description": "ufriYpVnqHnDScYCmNZgTDDZRLzrSrHZevXVDJhYOEhSuhLjsE",
+    "Enrollment": 0,
+    "Location": "SOXN 240",
+    "Name": "AigpVxGIwr",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "13:00-16:00",
+      "Tuesday": "8:00-15:00",
+      "Wednesday": "9:00-14:00",
+      "Thursday": "10:00-11:00",
+      "Friday": "16:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "asi16285"
+  },
+  {
+    "CourseID": "QRZM 5399",
+    "Section": 5,
+    "Capacity": 45,
+    "Description": "xXllBTvLZEaDBHKHfpjNNVOcHJlZNpdCfdxHYTvPuGjMXInxsY",
+    "Enrollment": 0,
+    "Location": "LDYU 305",
+    "Name": "YRUywsdDaV",
+    "Prerequisites": [
+      "TKXX 2236",
+      "DEWR 2544",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "11:00-14:00",
+      "Tuesday": "11:00-12:00",
+      "Wednesday": "11:00-13:00",
+      "Thursday": "14:00-14:00",
+      "Friday": "13:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rft18609"
+  },
+  {
+    "CourseID": "RIX 4820",
+    "Section": 2,
+    "Capacity": 33,
+    "Description": "BQlzUcdnvMhBmvvjRbxemitiTsKGYbDUJhJWDOWurRDZiVmdHA",
+    "Enrollment": 0,
+    "Location": "UISU 307",
+    "Name": "XwIcDuaubL",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "16:00-8:00",
+      "Tuesday": "16:00-11:00",
+      "Wednesday": "11:00-14:00",
+      "Thursday": "11:00-9:00",
+      "Friday": "8:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uey10120"
+  },
+  {
+    "CourseID": "UGE 3934",
+    "Section": 7,
+    "Capacity": 48,
+    "Description": "GLMHPswqlWWlPEKxqvLLfFKNfrfgFPufFJfjVrAWMOLvVsrnYq",
+    "Enrollment": 0,
+    "Location": "AOAC 131",
+    "Name": "RAHIGhuGcj",
+    "Prerequisites": [
+      "QRZM 1680",
+      "TKXX 2236"
+    ],
+    "Schedule": {
+      "Monday": "12:00-16:00",
+      "Tuesday": "9:00-10:00",
+      "Wednesday": "11:00-9:00",
+      "Thursday": "13:00-10:00",
+      "Friday": "15:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tfz19232"
+  },
+  {
+    "CourseID": "QJI 1221",
+    "Section": 4,
+    "Capacity": 36,
+    "Description": "KFAQjRnVoeRYjkNGLEETihtDUjbdYcHnhtsnYlWtDBNCBWuclQ",
+    "Enrollment": 0,
+    "Location": "PBCO 262",
+    "Name": "rpFLAOtedV",
+    "Prerequisites": [
+      "XRKK 1632"
+    ],
+    "Schedule": {
+      "Monday": "14:00-9:00",
+      "Tuesday": "13:00-10:00",
+      "Wednesday": "9:00-15:00",
+      "Thursday": "11:00-8:00",
+      "Friday": "13:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "VNZ 4082",
+    "Section": 5,
+    "Capacity": 35,
+    "Description": "feeFLwqMQnSTNTukcyNgnAThkTHXJCFZhrVlHPCkZbVhRqbgZx",
+    "Enrollment": 0,
+    "Location": "HDBK 382",
+    "Name": "KpPuGlYpYy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "14:00-11:00",
+      "Tuesday": "10:00-9:00",
+      "Wednesday": "13:00-16:00",
+      "Thursday": "16:00-13:00",
+      "Friday": "16:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "epe12741"
+  },
+  {
+    "CourseID": "QRZM 2275",
+    "Section": 3,
+    "Capacity": 34,
+    "Description": "llyTRTiQnwzLJYYaaTgpBMHKcomMgmDBnfPBEpBXOfrtkoPVtW",
+    "Enrollment": 0,
+    "Location": "ITCF 268",
+    "Name": "eEgbOjXNld",
+    "Prerequisites": [
+      "TNJ 4839",
+      "TJG 4515",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "15:00-11:00",
+      "Tuesday": "16:00-12:00",
+      "Wednesday": "9:00-10:00",
+      "Thursday": "14:00-10:00",
+      "Friday": "12:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "aqd20441"
+  },
+  {
+    "CourseID": "BEH 4807",
+    "Section": 1,
+    "Capacity": 23,
+    "Description": "SAxKYOGnzbwlqbDtHQAkFAQgWyWPzKpHhvpIhpFTtHjPYDCYnX",
+    "Enrollment": 0,
+    "Location": "OUHU 386",
+    "Name": "mzTHnDmQOO",
+    "Prerequisites": [
+      "BMK 4852",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "12:00-9:00",
+      "Tuesday": "15:00-16:00",
+      "Wednesday": "14:00-9:00",
+      "Thursday": "14:00-15:00",
+      "Friday": "9:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "skf15316"
+  },
+  {
+    "CourseID": "RIX 1994",
+    "Section": 2,
+    "Capacity": 48,
+    "Description": "QHSLHoKpxvOCCtARFqeZmkJbsoHiZnzyPiPRVKzkLDjOzOmRqf",
+    "Enrollment": 0,
+    "Location": "JRGL 38",
+    "Name": "WaSbIEaZRv",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "14:00-14:00",
+      "Tuesday": "15:00-8:00",
+      "Wednesday": "16:00-15:00",
+      "Thursday": "12:00-8:00",
+      "Friday": "14:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qiu10722"
+  },
+  {
+    "CourseID": "VCH 4740",
+    "Section": 5,
+    "Capacity": 38,
+    "Description": "moiwtxfCYgGdSKOSuRuggCjMFIkcVEMaNhAsvKhVZMXpOBhhLM",
+    "Enrollment": 0,
+    "Location": "PKIQ 148",
+    "Name": "esQNNCKQrB",
+    "Prerequisites": [
+      "GAKX 3074",
+      "TKXX 3571",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "8:00-15:00",
+      "Tuesday": "14:00-14:00",
+      "Wednesday": "13:00-12:00",
+      "Thursday": "14:00-8:00",
+      "Friday": "12:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "ODBJ 3224",
+    "Section": 3,
+    "Capacity": 20,
+    "Description": "HNYAoLxOShaSaNTonpkQhlCAAKAHrZSnIRwdQetxZriLwvSFJi",
+    "Enrollment": 0,
+    "Location": "SKZY 53",
+    "Name": "tyJEVAxhty",
+    "Prerequisites": [
+      "QJI 5544",
+      "VNZ 2767",
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "8:00-13:00",
+      "Tuesday": "15:00-10:00",
+      "Wednesday": "10:00-13:00",
+      "Thursday": "14:00-16:00",
+      "Friday": "9:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "llw18745"
+  },
+  {
+    "CourseID": "XRKK 4051",
+    "Section": 2,
+    "Capacity": 18,
+    "Description": "crzRevNBzfCZfyZccPQvmWoaqcbrujsbNNDjvyGLpDQOqqbyHC",
+    "Enrollment": 0,
+    "Location": "RHPB 387",
+    "Name": "SSSndDiZWt",
+    "Prerequisites": [
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "8:00-8:00",
+      "Tuesday": "10:00-12:00",
+      "Wednesday": "15:00-13:00",
+      "Thursday": "8:00-12:00",
+      "Friday": "16:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ezm19984"
+  },
+  {
+    "CourseID": "XRKK 3712",
+    "Section": 7,
+    "Capacity": 16,
+    "Description": "WeqWgNOLudFXKnyQsttJgzhOEBQIddVuAoTVQTpwOCPedelxUL",
+    "Enrollment": 0,
+    "Location": "VIAF 221",
+    "Name": "xEKcqDlAak",
+    "Prerequisites": [
+      "DEWR 1132"
+    ],
+    "Schedule": {
+      "Monday": "8:00-13:00",
+      "Tuesday": "13:00-12:00",
+      "Wednesday": "15:00-15:00",
+      "Thursday": "11:00-8:00",
+      "Friday": "16:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "slx11145"
+  },
+  {
+    "CourseID": "ODBJ 5605",
+    "Section": 3,
+    "Capacity": 25,
+    "Description": "hxDmBydgKBjOcKICrTzEXFshjiMLTKkhoqHehVRnriPYQTayYs",
+    "Enrollment": 0,
+    "Location": "WXBI 209",
+    "Name": "eCQwcymDto",
+    "Prerequisites": [
+      "VNZ 2767",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "15:00-14:00",
+      "Tuesday": "12:00-12:00",
+      "Wednesday": "10:00-14:00",
+      "Thursday": "13:00-8:00",
+      "Friday": "8:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ect10952"
+  },
+  {
+    "CourseID": "EAHL 2931",
+    "Section": 2,
+    "Capacity": 27,
+    "Description": "EsBlKnkIQtJzTnwxFboBLxqdBqRRQiHMVsOgWiVQIdEjNGclaq",
+    "Enrollment": 0,
+    "Location": "RQRQ 275",
+    "Name": "RZJsqEraty",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "13:00-8:00",
+      "Tuesday": "9:00-15:00",
+      "Wednesday": "13:00-15:00",
+      "Thursday": "8:00-15:00",
+      "Friday": "11:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tjk10823"
+  },
+  {
+    "CourseID": "FPQQ 6372",
+    "Section": 4,
+    "Capacity": 23,
+    "Description": "mzKsypAdzgVHASZjaTIJHSbVIquBHwfLTJwgbBRjDwKkYOYgAX",
+    "Enrollment": 0,
+    "Location": "VWRL 167",
+    "Name": "CmCOFkTyAw",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "10:00-16:00",
+      "Tuesday": "11:00-16:00",
+      "Wednesday": "9:00-15:00",
+      "Thursday": "9:00-16:00",
+      "Friday": "11:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "QRZM 3543",
+    "Section": 4,
+    "Capacity": 41,
+    "Description": "NvNAxhifhhruWVNOrMdpxGwYduvlJGfmcbBwNdCyVKvpNvkAOc",
+    "Enrollment": 0,
+    "Location": "VBQO 166",
+    "Name": "PtZSqMGEUX",
+    "Prerequisites": [
+      "QRZM 1680",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "15:00-15:00",
+      "Tuesday": "16:00-14:00",
+      "Wednesday": "12:00-13:00",
+      "Thursday": "14:00-8:00",
+      "Friday": "11:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "skf15316"
+  },
+  {
+    "CourseID": "BMK 2409",
+    "Section": 3,
+    "Capacity": 49,
+    "Description": "xfnkqyjKfKFFxvjGsVwLOWyRkXqvpvCFLdYlYtEiLizKHMTlLJ",
+    "Enrollment": 0,
+    "Location": "YONY 10",
+    "Name": "jckdWrADpy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "8:00-8:00",
+      "Tuesday": "14:00-9:00",
+      "Wednesday": "16:00-15:00",
+      "Thursday": "14:00-13:00",
+      "Friday": "15:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tfz19232"
+  },
+  {
+    "CourseID": "QRZM 5399",
+    "Section": 6,
+    "Capacity": 23,
+    "Description": "xXllBTvLZEaDBHKHfpjNNVOcHJlZNpdCfdxHYTvPuGjMXInxsY",
+    "Enrollment": 0,
+    "Location": "PBYY 46",
+    "Name": "YRUywsdDaV",
+    "Prerequisites": [
+      "TKXX 2236",
+      "DEWR 2544",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "14:00-13:00",
+      "Tuesday": "14:00-11:00",
+      "Wednesday": "15:00-15:00",
+      "Thursday": "11:00-15:00",
+      "Friday": "8:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rft18609"
+  },
+  {
+    "CourseID": "NDQT 1172",
+    "Section": 1,
+    "Capacity": 39,
+    "Description": "pJrWtUsjNJKeZfhllKSzhcnCUBGYuqgryudQVNSdeuCGxzNdfF",
+    "Enrollment": 0,
+    "Location": "SSXC 161",
+    "Name": "BwTxzHCYuu",
+    "Prerequisites": [
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "14:00-9:00",
+      "Tuesday": "15:00-8:00",
+      "Wednesday": "9:00-10:00",
+      "Thursday": "11:00-10:00",
+      "Friday": "15:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fvh11273"
+  },
+  {
+    "CourseID": "XRKK 4051",
+    "Section": 3,
+    "Capacity": 27,
+    "Description": "crzRevNBzfCZfyZccPQvmWoaqcbrujsbNNDjvyGLpDQOqqbyHC",
+    "Enrollment": 0,
+    "Location": "LANB 366",
+    "Name": "SSSndDiZWt",
+    "Prerequisites": [
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "13:00-13:00",
+      "Tuesday": "13:00-11:00",
+      "Wednesday": "15:00-14:00",
+      "Thursday": "14:00-16:00",
+      "Friday": "11:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ezm19984"
+  },
+  {
+    "CourseID": "TNJ 2959",
+    "Section": 2,
+    "Capacity": 36,
+    "Description": "vIDtKQszQGTsEEuAQXMxYAEtNRcVaVMRBWjVPkLkjHUBgVvBLH",
+    "Enrollment": 0,
+    "Location": "CQPY 41",
+    "Name": "ekpTufSyLt",
+    "Prerequisites": [
+      "QJI 6382",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "16:00-10:00",
+      "Tuesday": "9:00-11:00",
+      "Wednesday": "11:00-15:00",
+      "Thursday": "10:00-16:00",
+      "Friday": "15:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "vpu21183"
+  },
+  {
+    "CourseID": "QJI 1221",
+    "Section": 5,
+    "Capacity": 27,
+    "Description": "KFAQjRnVoeRYjkNGLEETihtDUjbdYcHnhtsnYlWtDBNCBWuclQ",
+    "Enrollment": 0,
+    "Location": "FBXO 61",
+    "Name": "rpFLAOtedV",
+    "Prerequisites": [
+      "XRKK 1632"
+    ],
+    "Schedule": {
+      "Monday": "11:00-16:00",
+      "Tuesday": "8:00-14:00",
+      "Wednesday": "9:00-16:00",
+      "Thursday": "10:00-8:00",
+      "Friday": "14:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "vpu21183"
+  },
+  {
+    "CourseID": "TNJ 2959",
+    "Section": 3,
+    "Capacity": 20,
+    "Description": "vIDtKQszQGTsEEuAQXMxYAEtNRcVaVMRBWjVPkLkjHUBgVvBLH",
+    "Enrollment": 0,
+    "Location": "OCZJ 252",
+    "Name": "ekpTufSyLt",
+    "Prerequisites": [
+      "QJI 6382",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "15:00-11:00",
+      "Tuesday": "10:00-9:00",
+      "Wednesday": "13:00-9:00",
+      "Thursday": "11:00-8:00",
+      "Friday": "13:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "dvy14166"
+  },
+  {
+    "CourseID": "RIX 1740",
+    "Section": 3,
+    "Capacity": 24,
+    "Description": "KAZpKrGVvNiYwpInXqCSwcwipYQoPRftKFNBqlGoRwiUsgNIKN",
+    "Enrollment": 0,
+    "Location": "WYIA 282",
+    "Name": "XcClUBIhQA",
+    "Prerequisites": [
+      "TNJ 4839",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "11:00-10:00",
+      "Tuesday": "9:00-11:00",
+      "Wednesday": "16:00-15:00",
+      "Thursday": "11:00-11:00",
+      "Friday": "12:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "XRKK 4051",
+    "Section": 4,
+    "Capacity": 16,
+    "Description": "crzRevNBzfCZfyZccPQvmWoaqcbrujsbNNDjvyGLpDQOqqbyHC",
+    "Enrollment": 0,
+    "Location": "VKII 334",
+    "Name": "SSSndDiZWt",
+    "Prerequisites": [
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "14:00-15:00",
+      "Tuesday": "11:00-8:00",
+      "Wednesday": "11:00-11:00",
+      "Thursday": "11:00-13:00",
+      "Friday": "12:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ezm19984"
+  },
+  {
+    "CourseID": "TNJ 2959",
+    "Section": 4,
+    "Capacity": 27,
+    "Description": "vIDtKQszQGTsEEuAQXMxYAEtNRcVaVMRBWjVPkLkjHUBgVvBLH",
+    "Enrollment": 0,
+    "Location": "OCYP 24",
+    "Name": "ekpTufSyLt",
+    "Prerequisites": [
+      "QJI 6382",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "8:00-10:00",
+      "Tuesday": "8:00-10:00",
+      "Wednesday": "15:00-13:00",
+      "Thursday": "15:00-13:00",
+      "Friday": "13:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "vpu21183"
+  },
+  {
+    "CourseID": "EAHL 5760",
+    "Section": 3,
+    "Capacity": 20,
+    "Description": "kummbKDLAJMtlwljKaeIMXwIIalXljCIRTVAhZVJqagrIJwvXG",
+    "Enrollment": 0,
+    "Location": "DMNX 391",
+    "Name": "Gzsstrcmin",
+    "Prerequisites": [
+      "QRZM 2631"
+    ],
+    "Schedule": {
+      "Monday": "16:00-9:00",
+      "Tuesday": "15:00-13:00",
+      "Wednesday": "15:00-14:00",
+      "Thursday": "12:00-8:00",
+      "Friday": "16:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fvh11273"
+  },
+  {
+    "CourseID": "UGE 2494",
+    "Section": 3,
+    "Capacity": 33,
+    "Description": "uuddVQaOfRKwkrcnjEqRtAANjymvJtygsAVdrzbUSKwAvwmGVr",
+    "Enrollment": 0,
+    "Location": "IJXC 311",
+    "Name": "sueEDQOWff",
+    "Prerequisites": [
+      "TNJ 4839",
+      "VNZ 2767",
+      "QRZM 2631"
+    ],
+    "Schedule": {
+      "Monday": "10:00-15:00",
+      "Tuesday": "12:00-16:00",
+      "Wednesday": "12:00-10:00",
+      "Thursday": "11:00-15:00",
+      "Friday": "8:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "zed12366"
+  },
+  {
+    "CourseID": "ODBJ 3224",
+    "Section": 4,
+    "Capacity": 16,
+    "Description": "HNYAoLxOShaSaNTonpkQhlCAAKAHrZSnIRwdQetxZriLwvSFJi",
+    "Enrollment": 0,
+    "Location": "VEZC 54",
+    "Name": "tyJEVAxhty",
+    "Prerequisites": [
+      "QJI 5544",
+      "VNZ 2767",
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "14:00-11:00",
+      "Tuesday": "8:00-14:00",
+      "Wednesday": "14:00-8:00",
+      "Thursday": "8:00-11:00",
+      "Friday": "10:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "zed12366"
+  },
+  {
+    "CourseID": "QRZM 3394",
+    "Section": 4,
+    "Capacity": 38,
+    "Description": "QULRuqndbIdzOufASfenouJYqHCowYATzRuLmuGBVHauccdMIc",
+    "Enrollment": 0,
+    "Location": "UQQW 231",
+    "Name": "zXPjUfdPOL",
+    "Prerequisites": [
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "13:00-11:00",
+      "Tuesday": "15:00-11:00",
+      "Wednesday": "14:00-10:00",
+      "Thursday": "15:00-8:00",
+      "Friday": "10:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gen21626"
+  },
+  {
+    "CourseID": "QRZM 1880",
+    "Section": 3,
+    "Capacity": 16,
+    "Description": "VSufLtXqTIWlSidNqOfYmsrHMUfxjqWWAODKFJkFclwSTxsieb",
+    "Enrollment": 0,
+    "Location": "WVST 340",
+    "Name": "oIRobTawLl",
+    "Prerequisites": [
+      "TJG 4515",
+      "QRZM 2631"
+    ],
+    "Schedule": {
+      "Monday": "15:00-8:00",
+      "Tuesday": "9:00-12:00",
+      "Wednesday": "14:00-10:00",
+      "Thursday": "15:00-8:00",
+      "Friday": "8:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "slx11145"
+  },
+  {
+    "CourseID": "QJI 5187",
+    "Section": 3,
+    "Capacity": 23,
+    "Description": "bHWtXhYleXbfcbmMeCgFVbXiLpvjtWNkFdDciQvaHSFRhOOrUv",
+    "Enrollment": 0,
+    "Location": "IHCW 11",
+    "Name": "pvKDZyQEsY",
+    "Prerequisites": [
+      "FPQQ 4292",
+      "FPQQ 4292"
+    ],
+    "Schedule": {
+      "Monday": "16:00-13:00",
+      "Tuesday": "12:00-12:00",
+      "Wednesday": "13:00-11:00",
+      "Thursday": "11:00-9:00",
+      "Friday": "15:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "NDQT 2396",
+    "Section": 3,
+    "Capacity": 31,
+    "Description": "LofDQBlLRyDdWCXmoYCDTtJkUjdtZuNWIMtFIEpEIqGjJJHMRy",
+    "Enrollment": 0,
+    "Location": "OWUO 181",
+    "Name": "sokZfNUuCr",
+    "Prerequisites": [
+      "FPQQ 4292",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "11:00-13:00",
+      "Tuesday": "15:00-9:00",
+      "Wednesday": "12:00-9:00",
+      "Thursday": "12:00-11:00",
+      "Friday": "15:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gen21626"
+  },
+  {
+    "CourseID": "RIX 1994",
+    "Section": 3,
+    "Capacity": 25,
+    "Description": "QHSLHoKpxvOCCtARFqeZmkJbsoHiZnzyPiPRVKzkLDjOzOmRqf",
+    "Enrollment": 0,
+    "Location": "MCYN 346",
+    "Name": "WaSbIEaZRv",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "8:00-12:00",
+      "Tuesday": "10:00-15:00",
+      "Wednesday": "16:00-8:00",
+      "Thursday": "13:00-16:00",
+      "Friday": "8:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "epe12741"
+  },
+  {
+    "CourseID": "RIX 4923",
+    "Section": 4,
+    "Capacity": 20,
+    "Description": "ufriYpVnqHnDScYCmNZgTDDZRLzrSrHZevXVDJhYOEhSuhLjsE",
+    "Enrollment": 0,
+    "Location": "SBZD 152",
+    "Name": "AigpVxGIwr",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "10:00-16:00",
+      "Tuesday": "14:00-12:00",
+      "Wednesday": "15:00-16:00",
+      "Thursday": "13:00-12:00",
+      "Friday": "11:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "asi16285"
+  },
+  {
+    "CourseID": "BMK 2409",
+    "Section": 4,
+    "Capacity": 41,
+    "Description": "xfnkqyjKfKFFxvjGsVwLOWyRkXqvpvCFLdYlYtEiLizKHMTlLJ",
+    "Enrollment": 0,
+    "Location": "SKAR 92",
+    "Name": "jckdWrADpy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "11:00-10:00",
+      "Tuesday": "15:00-8:00",
+      "Wednesday": "8:00-15:00",
+      "Thursday": "14:00-14:00",
+      "Friday": "12:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tfz19232"
+  },
+  {
+    "CourseID": "XRKK 4051",
+    "Section": 5,
+    "Capacity": 35,
+    "Description": "crzRevNBzfCZfyZccPQvmWoaqcbrujsbNNDjvyGLpDQOqqbyHC",
+    "Enrollment": 0,
+    "Location": "ZMIQ 53",
+    "Name": "SSSndDiZWt",
+    "Prerequisites": [
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "13:00-11:00",
+      "Tuesday": "15:00-16:00",
+      "Wednesday": "8:00-14:00",
+      "Thursday": "8:00-16:00",
+      "Friday": "14:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fvh11273"
+  },
+  {
+    "CourseID": "BMK 2409",
+    "Section": 5,
+    "Capacity": 47,
+    "Description": "xfnkqyjKfKFFxvjGsVwLOWyRkXqvpvCFLdYlYtEiLizKHMTlLJ",
+    "Enrollment": 0,
+    "Location": "PNDZ 201",
+    "Name": "jckdWrADpy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "14:00-14:00",
+      "Tuesday": "13:00-11:00",
+      "Wednesday": "9:00-15:00",
+      "Thursday": "10:00-10:00",
+      "Friday": "14:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tfz19232"
+  },
+  {
+    "CourseID": "VCH 5717",
+    "Section": 5,
+    "Capacity": 16,
+    "Description": "wXQokoqUqFGBhLfIKeNRlVqNFKeUjRVmVgjvwXDXfydbwMzZiJ",
+    "Enrollment": 0,
+    "Location": "SOEP 368",
+    "Name": "KiBJziOGJX",
+    "Prerequisites": [
+      "QJI 6382",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "13:00-8:00",
+      "Tuesday": "12:00-14:00",
+      "Wednesday": "9:00-12:00",
+      "Thursday": "9:00-14:00",
+      "Friday": "10:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "BMK 2409",
+    "Section": 6,
+    "Capacity": 20,
+    "Description": "xfnkqyjKfKFFxvjGsVwLOWyRkXqvpvCFLdYlYtEiLizKHMTlLJ",
+    "Enrollment": 0,
+    "Location": "MZWI 394",
+    "Name": "jckdWrADpy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "14:00-15:00",
+      "Tuesday": "15:00-11:00",
+      "Wednesday": "9:00-15:00",
+      "Thursday": "9:00-11:00",
+      "Friday": "15:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tmn14851"
+  },
+  {
+    "CourseID": "UGE 2494",
+    "Section": 4,
+    "Capacity": 32,
+    "Description": "uuddVQaOfRKwkrcnjEqRtAANjymvJtygsAVdrzbUSKwAvwmGVr",
+    "Enrollment": 0,
+    "Location": "EPOU 250",
+    "Name": "sueEDQOWff",
+    "Prerequisites": [
+      "TNJ 4839",
+      "VNZ 2767",
+      "QRZM 2631"
+    ],
+    "Schedule": {
+      "Monday": "13:00-8:00",
+      "Tuesday": "9:00-12:00",
+      "Wednesday": "9:00-14:00",
+      "Thursday": "12:00-8:00",
+      "Friday": "13:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "BEH 6046",
+    "Section": 2,
+    "Capacity": 20,
+    "Description": "ITrLHtUBiIKWAdUmaNkpLdoonsVsfLYKhEJerCgkYqRdCkuikP",
+    "Enrollment": 0,
+    "Location": "UPWK 27",
+    "Name": "aVGsmEKqJx",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "13:00-13:00",
+      "Tuesday": "10:00-12:00",
+      "Wednesday": "14:00-11:00",
+      "Thursday": "16:00-10:00",
+      "Friday": "15:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gcb19838"
+  },
+  {
+    "CourseID": "UGE 3934",
+    "Section": 8,
+    "Capacity": 17,
+    "Description": "GLMHPswqlWWlPEKxqvLLfFKNfrfgFPufFJfjVrAWMOLvVsrnYq",
+    "Enrollment": 0,
+    "Location": "OEGF 235",
+    "Name": "RAHIGhuGcj",
+    "Prerequisites": [
+      "QRZM 1680",
+      "TKXX 2236"
+    ],
+    "Schedule": {
+      "Monday": "14:00-9:00",
+      "Tuesday": "13:00-13:00",
+      "Wednesday": "15:00-14:00",
+      "Thursday": "13:00-13:00",
+      "Friday": "14:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tfz19232"
+  },
+  {
+    "CourseID": "EAHL 3423",
+    "Section": 1,
+    "Capacity": 36,
+    "Description": "QfxRrCBAzvdrTevWIDoSNvabpDStQvVfdfDnfdGhOlsEFLaVrM",
+    "Enrollment": 0,
+    "Location": "BTZY 201",
+    "Name": "JMDoorqvlA",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "12:00-15:00",
+      "Tuesday": "10:00-13:00",
+      "Wednesday": "12:00-12:00",
+      "Thursday": "8:00-15:00",
+      "Friday": "10:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tjk10823"
+  },
+  {
+    "CourseID": "TJG 5053",
+    "Section": 1,
+    "Capacity": 33,
+    "Description": "dRzheSjjkHZWUPJkQFlnWcARhXcrrqZpOneZlXIRQaPBLCLLVi",
+    "Enrollment": 0,
+    "Location": "SBJT 23",
+    "Name": "PLMUQxLisN",
+    "Prerequisites": [
+      "TKXX 2236"
+    ],
+    "Schedule": {
+      "Monday": "10:00-15:00",
+      "Tuesday": "9:00-11:00",
+      "Wednesday": "12:00-14:00",
+      "Thursday": "8:00-8:00",
+      "Friday": "14:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "xtp22734"
+  },
+  {
+    "CourseID": "TJG 3691",
+    "Section": 5,
+    "Capacity": 29,
+    "Description": "QWyxTpKCxqtNJlAFjLsXGTZzgOlyRqoqMahNTUznZJPSoZLnan",
+    "Enrollment": 0,
+    "Location": "VPRU 393",
+    "Name": "aVZDGPTWwZ",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "8:00-16:00",
+      "Tuesday": "12:00-15:00",
+      "Wednesday": "12:00-11:00",
+      "Thursday": "14:00-11:00",
+      "Friday": "10:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uey10120"
+  },
+  {
+    "CourseID": "YNN 2509",
+    "Section": 2,
+    "Capacity": 35,
+    "Description": "ivkyijQRrkkpljNjsqbpshCiQktIFiNBABYWmVuKQyLyNEKIQO",
+    "Enrollment": 0,
+    "Location": "NRUL 84",
+    "Name": "CWsGtTmJsb",
+    "Prerequisites": [
+      "GAKX 3074",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "12:00-12:00",
+      "Tuesday": "14:00-12:00",
+      "Wednesday": "11:00-12:00",
+      "Thursday": "13:00-11:00",
+      "Friday": "9:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qzy14490"
+  },
+  {
+    "CourseID": "BEH 4547",
+    "Section": 1,
+    "Capacity": 33,
+    "Description": "SMWoPrxXObcwPlBYrFdOJbfyaHZzphJBtxZxNhIUQYbarzbdly",
+    "Enrollment": 0,
+    "Location": "FUVV 197",
+    "Name": "xKBruzFxAM",
+    "Prerequisites": [
+      "DEWR 1132",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "13:00-13:00",
+      "Tuesday": "9:00-11:00",
+      "Wednesday": "15:00-15:00",
+      "Thursday": "10:00-11:00",
+      "Friday": "9:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nsa22917"
+  },
+  {
+    "CourseID": "EAHL 5760",
+    "Section": 4,
+    "Capacity": 46,
+    "Description": "kummbKDLAJMtlwljKaeIMXwIIalXljCIRTVAhZVJqagrIJwvXG",
+    "Enrollment": 0,
+    "Location": "NQZW 387",
+    "Name": "Gzsstrcmin",
+    "Prerequisites": [
+      "QRZM 2631"
+    ],
+    "Schedule": {
+      "Monday": "10:00-8:00",
+      "Tuesday": "12:00-9:00",
+      "Wednesday": "13:00-10:00",
+      "Thursday": "8:00-15:00",
+      "Friday": "15:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fvh11273"
+  },
+  {
+    "CourseID": "TJG 5053",
+    "Section": 2,
+    "Capacity": 26,
+    "Description": "dRzheSjjkHZWUPJkQFlnWcARhXcrrqZpOneZlXIRQaPBLCLLVi",
+    "Enrollment": 0,
+    "Location": "ZASM 395",
+    "Name": "PLMUQxLisN",
+    "Prerequisites": [
+      "TKXX 2236"
+    ],
+    "Schedule": {
+      "Monday": "16:00-16:00",
+      "Tuesday": "15:00-11:00",
+      "Wednesday": "14:00-10:00",
+      "Thursday": "13:00-13:00",
+      "Friday": "10:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "xtp22734"
+  },
+  {
+    "CourseID": "FPQQ 3422",
+    "Section": 4,
+    "Capacity": 23,
+    "Description": "WSsMXIBSjRymbKSPiBPoFrqtIDyUdsbiKCGrRDrHLvkbjKWhes",
+    "Enrollment": 0,
+    "Location": "FHBE 342",
+    "Name": "LbBlbpPFIw",
+    "Prerequisites": [
+      "QRZM 2631",
+      "RIX 4894",
+      "QJI 6382"
+    ],
+    "Schedule": {
+      "Monday": "12:00-13:00",
+      "Tuesday": "11:00-13:00",
+      "Wednesday": "14:00-15:00",
+      "Thursday": "8:00-13:00",
+      "Friday": "12:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "wfz13846"
+  },
+  {
+    "CourseID": "TJG 3299",
+    "Section": 1,
+    "Capacity": 28,
+    "Description": "KUAVSvqLwhlFpoaVFGQPHulFbRXNxYSmvrwLPjmJVPWdmNDpjo",
+    "Enrollment": 0,
+    "Location": "PIVD 85",
+    "Name": "iOKGWaGkLf",
+    "Prerequisites": [
+      "TKXX 2236"
+    ],
+    "Schedule": {
+      "Monday": "14:00-13:00",
+      "Tuesday": "10:00-8:00",
+      "Wednesday": "10:00-13:00",
+      "Thursday": "9:00-13:00",
+      "Friday": "13:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "xtp22734"
+  },
+  {
+    "CourseID": "VNZ 5875",
+    "Section": 4,
+    "Capacity": 20,
+    "Description": "sAdPWfAGNQclqljaWfvuGAUFpeQqJxBJEsiIAmywJYEavpbCOx",
+    "Enrollment": 0,
+    "Location": "KWDG 335",
+    "Name": "rUjQtfeDbH",
+    "Prerequisites": [
+      "DEWR 1132",
+      "QRZM 2631",
+      "FPQQ 4292"
+    ],
+    "Schedule": {
+      "Monday": "8:00-10:00",
+      "Tuesday": "13:00-9:00",
+      "Wednesday": "8:00-13:00",
+      "Thursday": "14:00-15:00",
+      "Friday": "13:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "bby17849"
+  },
+  {
+    "CourseID": "UUL 3759",
+    "Section": 4,
+    "Capacity": 30,
+    "Description": "bHgooOycaZWjUOPhWCLIBvGeJUYZtRJGZIqxRPwxEsWQYhWtZK",
+    "Enrollment": 0,
+    "Location": "LIDO 183",
+    "Name": "dRGqJWxwxc",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "15:00-8:00",
+      "Tuesday": "14:00-9:00",
+      "Wednesday": "9:00-15:00",
+      "Thursday": "9:00-16:00",
+      "Friday": "16:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ezm19984"
+  },
+  {
+    "CourseID": "VCH 5394",
+    "Section": 2,
+    "Capacity": 25,
+    "Description": "OsHJligRbvvWKNucbVeHAAoMqFLUFzlNwCyLcttXkWRvApXvQN",
+    "Enrollment": 0,
+    "Location": "FMXD 111",
+    "Name": "SvbTEBFimQ",
+    "Prerequisites": [
+      "TJG 4515",
+      "QJI 5544",
+      "TKXX 3571"
+    ],
+    "Schedule": {
+      "Monday": "8:00-16:00",
+      "Tuesday": "8:00-8:00",
+      "Wednesday": "16:00-11:00",
+      "Thursday": "10:00-13:00",
+      "Friday": "16:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qiu10722"
+  },
+  {
+    "CourseID": "TJG 5053",
+    "Section": 3,
+    "Capacity": 44,
+    "Description": "dRzheSjjkHZWUPJkQFlnWcARhXcrrqZpOneZlXIRQaPBLCLLVi",
+    "Enrollment": 0,
+    "Location": "JSKC 234",
+    "Name": "PLMUQxLisN",
+    "Prerequisites": [
+      "TKXX 2236"
+    ],
+    "Schedule": {
+      "Monday": "12:00-11:00",
+      "Tuesday": "16:00-10:00",
+      "Wednesday": "12:00-13:00",
+      "Thursday": "10:00-13:00",
+      "Friday": "14:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "asi16285"
+  },
+  {
+    "CourseID": "UUL 4854",
+    "Section": 6,
+    "Capacity": 35,
+    "Description": "RrcUyVHiyqCeOAKmBpNmUfXLpAxQxInpMzgrfGQMaHmtRVxFeH",
+    "Enrollment": 0,
+    "Location": "QOEH 373",
+    "Name": "GNMxYCswFV",
+    "Prerequisites": [
+      "NDQT 6241",
+      "XRKK 4278"
+    ],
+    "Schedule": {
+      "Monday": "8:00-9:00",
+      "Tuesday": "11:00-16:00",
+      "Wednesday": "15:00-12:00",
+      "Thursday": "9:00-9:00",
+      "Friday": "13:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "wfz13846"
+  },
+  {
+    "CourseID": "ODBJ 3259",
+    "Section": 4,
+    "Capacity": 32,
+    "Description": "JbkFVBUYQvVEiVsixwockbjwAPARSWuRervyczrUeILzcjmhgO",
+    "Enrollment": 0,
+    "Location": "CCJT 248",
+    "Name": "jpmtjrtjaw",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "13:00-10:00",
+      "Tuesday": "11:00-10:00",
+      "Wednesday": "13:00-9:00",
+      "Thursday": "9:00-14:00",
+      "Friday": "13:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "skf15316"
+  },
+  {
+    "CourseID": "TJG 3691",
+    "Section": 6,
+    "Capacity": 24,
+    "Description": "QWyxTpKCxqtNJlAFjLsXGTZzgOlyRqoqMahNTUznZJPSoZLnan",
+    "Enrollment": 0,
+    "Location": "TPJQ 109",
+    "Name": "aVZDGPTWwZ",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "8:00-9:00",
+      "Tuesday": "12:00-15:00",
+      "Wednesday": "14:00-11:00",
+      "Thursday": "13:00-8:00",
+      "Friday": "10:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tjk10823"
+  },
+  {
+    "CourseID": "XRKK 4051",
+    "Section": 6,
+    "Capacity": 20,
+    "Description": "crzRevNBzfCZfyZccPQvmWoaqcbrujsbNNDjvyGLpDQOqqbyHC",
+    "Enrollment": 0,
+    "Location": "EYGO 207",
+    "Name": "SSSndDiZWt",
+    "Prerequisites": [
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "13:00-13:00",
+      "Tuesday": "8:00-14:00",
+      "Wednesday": "13:00-10:00",
+      "Thursday": "8:00-14:00",
+      "Friday": "13:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fvh11273"
+  },
+  {
+    "CourseID": "BMK 2409",
+    "Section": 7,
+    "Capacity": 47,
+    "Description": "xfnkqyjKfKFFxvjGsVwLOWyRkXqvpvCFLdYlYtEiLizKHMTlLJ",
+    "Enrollment": 0,
+    "Location": "WRHH 73",
+    "Name": "jckdWrADpy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "9:00-10:00",
+      "Tuesday": "12:00-16:00",
+      "Wednesday": "11:00-13:00",
+      "Thursday": "13:00-15:00",
+      "Friday": "8:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tfz19232"
+  },
+  {
+    "CourseID": "VCH 1951",
+    "Section": 3,
+    "Capacity": 29,
+    "Description": "RZZZOWJbklTRhABtkMKvAMmIVmGeCNAcFEaVgegxKHViYFtRwO",
+    "Enrollment": 0,
+    "Location": "GEPE 189",
+    "Name": "RXlmaWlDoI",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "9:00-11:00",
+      "Tuesday": "15:00-12:00",
+      "Wednesday": "8:00-13:00",
+      "Thursday": "13:00-16:00",
+      "Friday": "10:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kka17086"
+  },
+  {
+    "CourseID": "TKXX 1404",
+    "Section": 3,
+    "Capacity": 23,
+    "Description": "mxTsMMaedMerYcPItqQEPRsaVQANUMIlookiolXvDcuNPmpzdI",
+    "Enrollment": 0,
+    "Location": "NWSB 182",
+    "Name": "lJNFwKzJMv",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "10:00-14:00",
+      "Tuesday": "12:00-15:00",
+      "Wednesday": "15:00-10:00",
+      "Thursday": "13:00-10:00",
+      "Friday": "9:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uey10120"
+  },
+  {
+    "CourseID": "FPQQ 3422",
+    "Section": 5,
+    "Capacity": 50,
+    "Description": "WSsMXIBSjRymbKSPiBPoFrqtIDyUdsbiKCGrRDrHLvkbjKWhes",
+    "Enrollment": 0,
+    "Location": "JFPF 328",
+    "Name": "LbBlbpPFIw",
+    "Prerequisites": [
+      "QRZM 2631",
+      "RIX 4894",
+      "QJI 6382"
+    ],
+    "Schedule": {
+      "Monday": "11:00-14:00",
+      "Tuesday": "8:00-13:00",
+      "Wednesday": "9:00-12:00",
+      "Thursday": "13:00-11:00",
+      "Friday": "11:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "XRKK 4336",
+    "Section": 6,
+    "Capacity": 17,
+    "Description": "oozIdxuChjGBtgAZpgCtzoMUpZqRuKGUkiKirTSmnqODFQQLWR",
+    "Enrollment": 0,
+    "Location": "LYIY 322",
+    "Name": "nLASRslnak",
+    "Prerequisites": [
+      "DEWR 1132",
+      "FPQQ 4292",
+      "QJI 6382"
+    ],
+    "Schedule": {
+      "Monday": "10:00-13:00",
+      "Tuesday": "16:00-8:00",
+      "Wednesday": "15:00-14:00",
+      "Thursday": "10:00-15:00",
+      "Friday": "15:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "UGE 4446",
+    "Section": 5,
+    "Capacity": 29,
+    "Description": "SWpRKENcBxmriFYLtaaSLadanXYyBmpUIYVJrlCVyVzpXwYnLk",
+    "Enrollment": 0,
+    "Location": "NSYJ 311",
+    "Name": "JSzNgvSwKp",
+    "Prerequisites": [
+      "TKXX 3571",
+      "QRZM 2631",
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "10:00-14:00",
+      "Tuesday": "12:00-8:00",
+      "Wednesday": "16:00-13:00",
+      "Thursday": "10:00-8:00",
+      "Friday": "10:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rpl18685"
+  },
+  {
+    "CourseID": "YNN 4059",
+    "Section": 1,
+    "Capacity": 48,
+    "Description": "DaRFjNcYVFcOMZSSIMhjsiPaZeGGeSBuGtYWyiNVDiWZJQcqyw",
+    "Enrollment": 0,
+    "Location": "WGHT 343",
+    "Name": "vrjLpDDxlv",
+    "Prerequisites": [
+      "XRKK 4278",
+      "GAKX 3074"
+    ],
+    "Schedule": {
+      "Monday": "8:00-8:00",
+      "Tuesday": "11:00-16:00",
+      "Wednesday": "12:00-10:00",
+      "Thursday": "16:00-11:00",
+      "Friday": "14:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kka17086"
+  },
+  {
+    "CourseID": "FPQQ 3422",
+    "Section": 6,
+    "Capacity": 18,
+    "Description": "WSsMXIBSjRymbKSPiBPoFrqtIDyUdsbiKCGrRDrHLvkbjKWhes",
+    "Enrollment": 0,
+    "Location": "FRPF 271",
+    "Name": "LbBlbpPFIw",
+    "Prerequisites": [
+      "QRZM 2631",
+      "RIX 4894",
+      "QJI 6382"
+    ],
+    "Schedule": {
+      "Monday": "12:00-11:00",
+      "Tuesday": "10:00-8:00",
+      "Wednesday": "12:00-8:00",
+      "Thursday": "14:00-12:00",
+      "Friday": "9:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "wfz13846"
+  },
+  {
+    "CourseID": "VCH 4072",
+    "Section": 3,
+    "Capacity": 23,
+    "Description": "LhfIiuEJUYQFGPbeuyvZVwMrhiiZYRHGDpomVDfMhGpwHRqwsv",
+    "Enrollment": 0,
+    "Location": "ILEN 27",
+    "Name": "GQGJnzhvHN",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "8:00-8:00",
+      "Tuesday": "10:00-11:00",
+      "Wednesday": "9:00-11:00",
+      "Thursday": "16:00-12:00",
+      "Friday": "15:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "bby17849"
+  },
+  {
+    "CourseID": "VCH 5394",
+    "Section": 3,
+    "Capacity": 21,
+    "Description": "OsHJligRbvvWKNucbVeHAAoMqFLUFzlNwCyLcttXkWRvApXvQN",
+    "Enrollment": 0,
+    "Location": "FPVF 172",
+    "Name": "SvbTEBFimQ",
+    "Prerequisites": [
+      "TJG 4515",
+      "QJI 5544",
+      "TKXX 3571"
+    ],
+    "Schedule": {
+      "Monday": "12:00-11:00",
+      "Tuesday": "9:00-10:00",
+      "Wednesday": "8:00-14:00",
+      "Thursday": "11:00-15:00",
+      "Friday": "11:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "XRKK 4336",
+    "Section": 7,
+    "Capacity": 16,
+    "Description": "oozIdxuChjGBtgAZpgCtzoMUpZqRuKGUkiKirTSmnqODFQQLWR",
+    "Enrollment": 0,
+    "Location": "XLGV 226",
+    "Name": "nLASRslnak",
+    "Prerequisites": [
+      "DEWR 1132",
+      "FPQQ 4292",
+      "QJI 6382"
+    ],
+    "Schedule": {
+      "Monday": "15:00-8:00",
+      "Tuesday": "8:00-12:00",
+      "Wednesday": "13:00-16:00",
+      "Thursday": "9:00-16:00",
+      "Friday": "14:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "lhd22467"
+  },
+  {
+    "CourseID": "YNN 2509",
+    "Section": 3,
+    "Capacity": 25,
+    "Description": "ivkyijQRrkkpljNjsqbpshCiQktIFiNBABYWmVuKQyLyNEKIQO",
+    "Enrollment": 0,
+    "Location": "RNFO 72",
+    "Name": "CWsGtTmJsb",
+    "Prerequisites": [
+      "GAKX 3074",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "16:00-12:00",
+      "Tuesday": "10:00-12:00",
+      "Wednesday": "12:00-8:00",
+      "Thursday": "13:00-9:00",
+      "Friday": "11:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tpu17750"
+  },
+  {
+    "CourseID": "FPQQ 4129",
+    "Section": 3,
+    "Capacity": 18,
+    "Description": "AFmLxzRxSGcwrAegjfKcvMJPHXgUUozKFaHlNLvOuSvynxZFcq",
+    "Enrollment": 0,
+    "Location": "KVTU 123",
+    "Name": "MVMXDlvEFz",
+    "Prerequisites": [
+      "TNJ 4839"
+    ],
+    "Schedule": {
+      "Monday": "13:00-11:00",
+      "Tuesday": "14:00-9:00",
+      "Wednesday": "9:00-12:00",
+      "Thursday": "16:00-10:00",
+      "Friday": "8:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kka17086"
+  },
+  {
+    "CourseID": "UGE 4446",
+    "Section": 6,
+    "Capacity": 17,
+    "Description": "SWpRKENcBxmriFYLtaaSLadanXYyBmpUIYVJrlCVyVzpXwYnLk",
+    "Enrollment": 0,
+    "Location": "ETYY 275",
+    "Name": "JSzNgvSwKp",
+    "Prerequisites": [
+      "TKXX 3571",
+      "QRZM 2631",
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "12:00-12:00",
+      "Tuesday": "10:00-12:00",
+      "Wednesday": "10:00-15:00",
+      "Thursday": "8:00-11:00",
+      "Friday": "12:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rpl18685"
+  },
+  {
+    "CourseID": "ODBJ 2875",
+    "Section": 2,
+    "Capacity": 20,
+    "Description": "sKnTQQyGeiUjufSeXZprunxNWwXssqOXgVlXfUQCTmvhbqrRMk",
+    "Enrollment": 0,
+    "Location": "TREU 296",
+    "Name": "zvLntnPbjR",
+    "Prerequisites": [
+      "DEWR 1132"
+    ],
+    "Schedule": {
+      "Monday": "13:00-12:00",
+      "Tuesday": "11:00-13:00",
+      "Wednesday": "11:00-16:00",
+      "Thursday": "12:00-15:00",
+      "Friday": "9:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ztd13317"
+  },
+  {
+    "CourseID": "FPQQ 6372",
+    "Section": 5,
+    "Capacity": 49,
+    "Description": "mzKsypAdzgVHASZjaTIJHSbVIquBHwfLTJwgbBRjDwKkYOYgAX",
+    "Enrollment": 0,
+    "Location": "YOAF 388",
+    "Name": "CmCOFkTyAw",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "12:00-8:00",
+      "Tuesday": "15:00-12:00",
+      "Wednesday": "12:00-12:00",
+      "Thursday": "8:00-16:00",
+      "Friday": "14:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "ODBJ 3259",
+    "Section": 5,
+    "Capacity": 25,
+    "Description": "JbkFVBUYQvVEiVsixwockbjwAPARSWuRervyczrUeILzcjmhgO",
+    "Enrollment": 0,
+    "Location": "MLLT 255",
+    "Name": "jpmtjrtjaw",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "10:00-10:00",
+      "Tuesday": "10:00-16:00",
+      "Wednesday": "13:00-14:00",
+      "Thursday": "8:00-15:00",
+      "Friday": "15:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uvp22680"
+  },
+  {
+    "CourseID": "EAHL 3423",
+    "Section": 2,
+    "Capacity": 48,
+    "Description": "QfxRrCBAzvdrTevWIDoSNvabpDStQvVfdfDnfdGhOlsEFLaVrM",
+    "Enrollment": 0,
+    "Location": "YGUO 0",
+    "Name": "JMDoorqvlA",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "9:00-14:00",
+      "Tuesday": "15:00-12:00",
+      "Wednesday": "12:00-10:00",
+      "Thursday": "9:00-9:00",
+      "Friday": "14:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tjk10823"
+  },
+  {
+    "CourseID": "VNZ 5875",
+    "Section": 5,
+    "Capacity": 32,
+    "Description": "sAdPWfAGNQclqljaWfvuGAUFpeQqJxBJEsiIAmywJYEavpbCOx",
+    "Enrollment": 0,
+    "Location": "VPKH 357",
+    "Name": "rUjQtfeDbH",
+    "Prerequisites": [
+      "DEWR 1132",
+      "QRZM 2631",
+      "FPQQ 4292"
+    ],
+    "Schedule": {
+      "Monday": "14:00-8:00",
+      "Tuesday": "9:00-16:00",
+      "Wednesday": "13:00-15:00",
+      "Thursday": "13:00-8:00",
+      "Friday": "14:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "bby17849"
+  },
+  {
+    "CourseID": "VNZ 4082",
+    "Section": 6,
+    "Capacity": 42,
+    "Description": "feeFLwqMQnSTNTukcyNgnAThkTHXJCFZhrVlHPCkZbVhRqbgZx",
+    "Enrollment": 0,
+    "Location": "SDZQ 124",
+    "Name": "KpPuGlYpYy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "10:00-13:00",
+      "Tuesday": "9:00-14:00",
+      "Wednesday": "10:00-9:00",
+      "Thursday": "13:00-13:00",
+      "Friday": "9:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ezm19984"
+  },
+  {
+    "CourseID": "TNJ 2959",
+    "Section": 5,
+    "Capacity": 50,
+    "Description": "vIDtKQszQGTsEEuAQXMxYAEtNRcVaVMRBWjVPkLkjHUBgVvBLH",
+    "Enrollment": 0,
+    "Location": "GNUW 93",
+    "Name": "ekpTufSyLt",
+    "Prerequisites": [
+      "QJI 6382",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "8:00-15:00",
+      "Tuesday": "16:00-14:00",
+      "Wednesday": "11:00-14:00",
+      "Thursday": "8:00-9:00",
+      "Friday": "9:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "neb13285"
+  },
+  {
+    "CourseID": "VCH 5717",
+    "Section": 6,
+    "Capacity": 50,
+    "Description": "wXQokoqUqFGBhLfIKeNRlVqNFKeUjRVmVgjvwXDXfydbwMzZiJ",
+    "Enrollment": 0,
+    "Location": "XYZV 339",
+    "Name": "KiBJziOGJX",
+    "Prerequisites": [
+      "QJI 6382",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "8:00-10:00",
+      "Tuesday": "14:00-13:00",
+      "Wednesday": "15:00-12:00",
+      "Thursday": "12:00-16:00",
+      "Friday": "13:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "GAKX 6292",
+    "Section": 4,
+    "Capacity": 40,
+    "Description": "QCKkdQVzYMEpkpxbKnmsAwNthhkvlnXVWFsitcfiOKxUDZFZaq",
+    "Enrollment": 0,
+    "Location": "GNKZ 145",
+    "Name": "PAfazjsTuw",
+    "Prerequisites": [
+      "DEWR 5532",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "10:00-11:00",
+      "Tuesday": "11:00-14:00",
+      "Wednesday": "13:00-16:00",
+      "Thursday": "13:00-9:00",
+      "Friday": "10:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "mor11274"
+  },
+  {
+    "CourseID": "BEH 4788",
+    "Section": 1,
+    "Capacity": 28,
+    "Description": "lAMjkPxPSlFezWupOpVWOdtPjNLSPLWNnCamMfTjScbepHysOX",
+    "Enrollment": 0,
+    "Location": "VUZD 100",
+    "Name": "ysnBEGfjNB",
+    "Prerequisites": [
+      "TNJ 4839",
+      "VNZ 2767",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "9:00-11:00",
+      "Tuesday": "14:00-10:00",
+      "Wednesday": "14:00-10:00",
+      "Thursday": "14:00-10:00",
+      "Friday": "12:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "vpu21183"
+  },
+  {
+    "CourseID": "QRZM 2275",
+    "Section": 4,
+    "Capacity": 42,
+    "Description": "llyTRTiQnwzLJYYaaTgpBMHKcomMgmDBnfPBEpBXOfrtkoPVtW",
+    "Enrollment": 0,
+    "Location": "PPOV 362",
+    "Name": "eEgbOjXNld",
+    "Prerequisites": [
+      "TNJ 4839",
+      "TJG 4515",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "8:00-13:00",
+      "Tuesday": "16:00-11:00",
+      "Wednesday": "16:00-16:00",
+      "Thursday": "13:00-9:00",
+      "Friday": "10:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  },
+  {
+    "CourseID": "QJI 5730",
+    "Section": 5,
+    "Capacity": 41,
+    "Description": "pGsXRkgCIboEpxyDUdHyGGXgmAuDSCMeVbJUSgbbGlEJOPUpza",
+    "Enrollment": 0,
+    "Location": "LQNL 263",
+    "Name": "YHPOGbAOwY",
+    "Prerequisites": [
+      "QJI 4864",
+      "VNZ 2767",
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "8:00-16:00",
+      "Tuesday": "10:00-11:00",
+      "Wednesday": "16:00-15:00",
+      "Thursday": "15:00-13:00",
+      "Friday": "13:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rpl18685"
+  },
+  {
+    "CourseID": "QRZM 4510",
+    "Section": 7,
+    "Capacity": 23,
+    "Description": "HrccdLiPphwuDapBQuaXwAVVXgRqOSXzksujYYHbeGBYXCdaHH",
+    "Enrollment": 0,
+    "Location": "EAXC 146",
+    "Name": "KTfgLLgmUq",
+    "Prerequisites": [
+      "BMK 4852",
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "11:00-12:00",
+      "Tuesday": "12:00-15:00",
+      "Wednesday": "8:00-12:00",
+      "Thursday": "12:00-9:00",
+      "Friday": "12:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "gcb19838"
+  },
+  {
+    "CourseID": "ODBJ 3224",
+    "Section": 5,
+    "Capacity": 22,
+    "Description": "HNYAoLxOShaSaNTonpkQhlCAAKAHrZSnIRwdQetxZriLwvSFJi",
+    "Enrollment": 0,
+    "Location": "WPZO 36",
+    "Name": "tyJEVAxhty",
+    "Prerequisites": [
+      "QJI 5544",
+      "VNZ 2767",
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "13:00-11:00",
+      "Tuesday": "9:00-14:00",
+      "Wednesday": "16:00-15:00",
+      "Thursday": "11:00-13:00",
+      "Friday": "9:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ect10952"
+  },
+  {
+    "CourseID": "BEH 4788",
+    "Section": 2,
+    "Capacity": 15,
+    "Description": "lAMjkPxPSlFezWupOpVWOdtPjNLSPLWNnCamMfTjScbepHysOX",
+    "Enrollment": 0,
+    "Location": "KAEU 100",
+    "Name": "ysnBEGfjNB",
+    "Prerequisites": [
+      "TNJ 4839",
+      "VNZ 2767",
+      "RIX 4894"
+    ],
+    "Schedule": {
+      "Monday": "15:00-11:00",
+      "Tuesday": "8:00-8:00",
+      "Wednesday": "15:00-15:00",
+      "Thursday": "8:00-14:00",
+      "Friday": "14:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qiu10722"
+  },
+  {
+    "CourseID": "UGE 4446",
+    "Section": 7,
+    "Capacity": 49,
+    "Description": "SWpRKENcBxmriFYLtaaSLadanXYyBmpUIYVJrlCVyVzpXwYnLk",
+    "Enrollment": 0,
+    "Location": "AIFB 179",
+    "Name": "JSzNgvSwKp",
+    "Prerequisites": [
+      "TKXX 3571",
+      "QRZM 2631",
+      "DEWR 5532"
+    ],
+    "Schedule": {
+      "Monday": "9:00-8:00",
+      "Tuesday": "9:00-9:00",
+      "Wednesday": "14:00-16:00",
+      "Thursday": "11:00-15:00",
+      "Friday": "16:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rpl18685"
+  },
+  {
+    "CourseID": "QJI 5730",
+    "Section": 6,
+    "Capacity": 25,
+    "Description": "pGsXRkgCIboEpxyDUdHyGGXgmAuDSCMeVbJUSgbbGlEJOPUpza",
+    "Enrollment": 0,
+    "Location": "EBEP 68",
+    "Name": "YHPOGbAOwY",
+    "Prerequisites": [
+      "QJI 4864",
+      "VNZ 2767",
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "8:00-8:00",
+      "Tuesday": "8:00-11:00",
+      "Wednesday": "9:00-9:00",
+      "Thursday": "13:00-11:00",
+      "Friday": "8:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "BEH 6046",
+    "Section": 3,
+    "Capacity": 40,
+    "Description": "ITrLHtUBiIKWAdUmaNkpLdoonsVsfLYKhEJerCgkYqRdCkuikP",
+    "Enrollment": 0,
+    "Location": "GPND 257",
+    "Name": "aVGsmEKqJx",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "9:00-8:00",
+      "Tuesday": "13:00-15:00",
+      "Wednesday": "12:00-11:00",
+      "Thursday": "14:00-9:00",
+      "Friday": "16:00-8:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qiu10722"
+  },
+  {
+    "CourseID": "TJG 5053",
+    "Section": 4,
+    "Capacity": 47,
+    "Description": "dRzheSjjkHZWUPJkQFlnWcARhXcrrqZpOneZlXIRQaPBLCLLVi",
+    "Enrollment": 0,
+    "Location": "NVMJ 22",
+    "Name": "PLMUQxLisN",
+    "Prerequisites": [
+      "TKXX 2236"
+    ],
+    "Schedule": {
+      "Monday": "9:00-16:00",
+      "Tuesday": "8:00-11:00",
+      "Wednesday": "11:00-16:00",
+      "Thursday": "15:00-12:00",
+      "Friday": "9:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "asi16285"
+  },
+  {
+    "CourseID": "UUL 6100",
+    "Section": 3,
+    "Capacity": 22,
+    "Description": "yeuoCVQPflLHMWMzpIJgXritSvqDFfNkBwgWabIMbVMaJlDUFF",
+    "Enrollment": 0,
+    "Location": "VLHN 244",
+    "Name": "hFcjueoLwm",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "11:00-13:00",
+      "Tuesday": "13:00-11:00",
+      "Wednesday": "8:00-14:00",
+      "Thursday": "13:00-16:00",
+      "Friday": "11:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "oju15852"
+  },
+  {
+    "CourseID": "RIX 4820",
+    "Section": 3,
+    "Capacity": 33,
+    "Description": "BQlzUcdnvMhBmvvjRbxemitiTsKGYbDUJhJWDOWurRDZiVmdHA",
+    "Enrollment": 0,
+    "Location": "YYOZ 344",
+    "Name": "XwIcDuaubL",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "13:00-14:00",
+      "Tuesday": "11:00-10:00",
+      "Wednesday": "8:00-8:00",
+      "Thursday": "12:00-15:00",
+      "Friday": "9:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uey10120"
+  },
+  {
+    "CourseID": "FPQQ 6372",
+    "Section": 6,
+    "Capacity": 29,
+    "Description": "mzKsypAdzgVHASZjaTIJHSbVIquBHwfLTJwgbBRjDwKkYOYgAX",
+    "Enrollment": 0,
+    "Location": "DPVO 264",
+    "Name": "CmCOFkTyAw",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "8:00-8:00",
+      "Tuesday": "9:00-8:00",
+      "Wednesday": "16:00-12:00",
+      "Thursday": "13:00-16:00",
+      "Friday": "15:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nsa22917"
+  },
+  {
+    "CourseID": "QRZM 4510",
+    "Section": 8,
+    "Capacity": 31,
+    "Description": "HrccdLiPphwuDapBQuaXwAVVXgRqOSXzksujYYHbeGBYXCdaHH",
+    "Enrollment": 0,
+    "Location": "IAZT 136",
+    "Name": "KTfgLLgmUq",
+    "Prerequisites": [
+      "BMK 4852",
+      "QJI 4864"
+    ],
+    "Schedule": {
+      "Monday": "12:00-16:00",
+      "Tuesday": "13:00-10:00",
+      "Wednesday": "13:00-12:00",
+      "Thursday": "10:00-13:00",
+      "Friday": "12:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "zed12366"
+  },
+  {
+    "CourseID": "RIX 4923",
+    "Section": 5,
+    "Capacity": 19,
+    "Description": "ufriYpVnqHnDScYCmNZgTDDZRLzrSrHZevXVDJhYOEhSuhLjsE",
+    "Enrollment": 0,
+    "Location": "AFCO 282",
+    "Name": "AigpVxGIwr",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "15:00-11:00",
+      "Tuesday": "11:00-12:00",
+      "Wednesday": "12:00-9:00",
+      "Thursday": "14:00-9:00",
+      "Friday": "12:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "dvy14166"
+  },
+  {
+    "CourseID": "FPQQ 1157",
+    "Section": 3,
+    "Capacity": 34,
+    "Description": "SQvowynOQaRSXnPYKrDnELjbySPTnLPQukhGbxQEqKjRfhdKdZ",
+    "Enrollment": 0,
+    "Location": "AIPK 17",
+    "Name": "qUQFAPsMUD",
+    "Prerequisites": [
+      "BMK 4852",
+      "XRKK 1632",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "14:00-12:00",
+      "Tuesday": "9:00-8:00",
+      "Wednesday": "13:00-13:00",
+      "Thursday": "14:00-16:00",
+      "Friday": "8:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ect10952"
+  },
+  {
+    "CourseID": "FPQQ 6372",
+    "Section": 7,
+    "Capacity": 33,
+    "Description": "mzKsypAdzgVHASZjaTIJHSbVIquBHwfLTJwgbBRjDwKkYOYgAX",
+    "Enrollment": 0,
+    "Location": "TUKV 275",
+    "Name": "CmCOFkTyAw",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "15:00-9:00",
+      "Tuesday": "10:00-9:00",
+      "Wednesday": "12:00-12:00",
+      "Thursday": "13:00-10:00",
+      "Friday": "16:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nsa22917"
+  },
+  {
+    "CourseID": "VCH 1951",
+    "Section": 4,
+    "Capacity": 49,
+    "Description": "RZZZOWJbklTRhABtkMKvAMmIVmGeCNAcFEaVgegxKHViYFtRwO",
+    "Enrollment": 0,
+    "Location": "JJMQ 232",
+    "Name": "RXlmaWlDoI",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "10:00-11:00",
+      "Tuesday": "11:00-10:00",
+      "Wednesday": "10:00-10:00",
+      "Thursday": "8:00-15:00",
+      "Friday": "13:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kka17086"
+  },
+  {
+    "CourseID": "ODBJ 3984",
+    "Section": 2,
+    "Capacity": 23,
+    "Description": "DQpVmJjreeoufulUTBeTVGTdlNdiOSGTGingqKvXRzWPlIbqYU",
+    "Enrollment": 0,
+    "Location": "CGVU 181",
+    "Name": "bzENeFIwEU",
+    "Prerequisites": [
+      "DEWR 2544",
+      "GAKX 3074",
+      "QJI 5544"
+    ],
+    "Schedule": {
+      "Monday": "8:00-16:00",
+      "Tuesday": "15:00-13:00",
+      "Wednesday": "11:00-13:00",
+      "Thursday": "8:00-15:00",
+      "Friday": "13:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qiu10722"
+  },
+  {
+    "CourseID": "GAKX 6292",
+    "Section": 5,
+    "Capacity": 23,
+    "Description": "QCKkdQVzYMEpkpxbKnmsAwNthhkvlnXVWFsitcfiOKxUDZFZaq",
+    "Enrollment": 0,
+    "Location": "XAPT 169",
+    "Name": "PAfazjsTuw",
+    "Prerequisites": [
+      "DEWR 5532",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "8:00-12:00",
+      "Tuesday": "10:00-14:00",
+      "Wednesday": "11:00-9:00",
+      "Thursday": "9:00-13:00",
+      "Friday": "12:00-13:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tmn14851"
+  },
+  {
+    "CourseID": "FPQQ 6372",
+    "Section": 8,
+    "Capacity": 27,
+    "Description": "mzKsypAdzgVHASZjaTIJHSbVIquBHwfLTJwgbBRjDwKkYOYgAX",
+    "Enrollment": 0,
+    "Location": "XFAS 277",
+    "Name": "CmCOFkTyAw",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "8:00-13:00",
+      "Tuesday": "14:00-15:00",
+      "Wednesday": "15:00-9:00",
+      "Thursday": "11:00-11:00",
+      "Friday": "15:00-10:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nsa22917"
+  },
+  {
+    "CourseID": "BMK 2409",
+    "Section": 8,
+    "Capacity": 19,
+    "Description": "xfnkqyjKfKFFxvjGsVwLOWyRkXqvpvCFLdYlYtEiLizKHMTlLJ",
+    "Enrollment": 0,
+    "Location": "OFOB 42",
+    "Name": "jckdWrADpy",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "15:00-9:00",
+      "Tuesday": "8:00-8:00",
+      "Wednesday": "13:00-9:00",
+      "Thursday": "12:00-13:00",
+      "Friday": "8:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tfz19232"
+  },
+  {
+    "CourseID": "QRZM 3543",
+    "Section": 5,
+    "Capacity": 17,
+    "Description": "NvNAxhifhhruWVNOrMdpxGwYduvlJGfmcbBwNdCyVKvpNvkAOc",
+    "Enrollment": 0,
+    "Location": "PBAO 158",
+    "Name": "PtZSqMGEUX",
+    "Prerequisites": [
+      "QRZM 1680",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "16:00-12:00",
+      "Tuesday": "9:00-16:00",
+      "Wednesday": "14:00-9:00",
+      "Thursday": "14:00-15:00",
+      "Friday": "13:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "skf15316"
+  },
+  {
+    "CourseID": "TKXX 5785",
+    "Section": 5,
+    "Capacity": 43,
+    "Description": "TGWXDFLLMMiJytCsFTgAlXiCPbmmaMxYmAJluwAqhgWHoUfGxL",
+    "Enrollment": 0,
+    "Location": "EMOF 119",
+    "Name": "gAvjhfjWjH",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "8:00-12:00",
+      "Tuesday": "14:00-9:00",
+      "Wednesday": "9:00-13:00",
+      "Thursday": "15:00-11:00",
+      "Friday": "11:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "zed12366"
+  },
+  {
+    "CourseID": "VCH 5717",
+    "Section": 7,
+    "Capacity": 32,
+    "Description": "wXQokoqUqFGBhLfIKeNRlVqNFKeUjRVmVgjvwXDXfydbwMzZiJ",
+    "Enrollment": 0,
+    "Location": "VVKL 41",
+    "Name": "KiBJziOGJX",
+    "Prerequisites": [
+      "QJI 6382",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "9:00-10:00",
+      "Tuesday": "11:00-8:00",
+      "Wednesday": "11:00-14:00",
+      "Thursday": "13:00-11:00",
+      "Friday": "16:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "qiu10722"
+  },
+  {
+    "CourseID": "EAHL 3423",
+    "Section": 3,
+    "Capacity": 45,
+    "Description": "QfxRrCBAzvdrTevWIDoSNvabpDStQvVfdfDnfdGhOlsEFLaVrM",
+    "Enrollment": 0,
+    "Location": "MMVH 320",
+    "Name": "JMDoorqvlA",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "8:00-15:00",
+      "Tuesday": "8:00-14:00",
+      "Wednesday": "14:00-10:00",
+      "Thursday": "8:00-13:00",
+      "Friday": "15:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tjk10823"
+  },
+  {
+    "CourseID": "NDQT 2396",
+    "Section": 4,
+    "Capacity": 41,
+    "Description": "LofDQBlLRyDdWCXmoYCDTtJkUjdtZuNWIMtFIEpEIqGjJJHMRy",
+    "Enrollment": 0,
+    "Location": "TUJL 216",
+    "Name": "sokZfNUuCr",
+    "Prerequisites": [
+      "FPQQ 4292",
+      "NDQT 6241"
+    ],
+    "Schedule": {
+      "Monday": "12:00-8:00",
+      "Tuesday": "15:00-15:00",
+      "Wednesday": "11:00-8:00",
+      "Thursday": "8:00-12:00",
+      "Friday": "16:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tmn14851"
+  },
+  {
+    "CourseID": "QRZM 1880",
+    "Section": 4,
+    "Capacity": 15,
+    "Description": "VSufLtXqTIWlSidNqOfYmsrHMUfxjqWWAODKFJkFclwSTxsieb",
+    "Enrollment": 0,
+    "Location": "PUYN 265",
+    "Name": "oIRobTawLl",
+    "Prerequisites": [
+      "TJG 4515",
+      "QRZM 2631"
+    ],
+    "Schedule": {
+      "Monday": "11:00-12:00",
+      "Tuesday": "14:00-9:00",
+      "Wednesday": "9:00-12:00",
+      "Thursday": "14:00-14:00",
+      "Friday": "15:00-12:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rpl18685"
+  },
+  {
+    "CourseID": "QJI 5187",
+    "Section": 4,
+    "Capacity": 35,
+    "Description": "bHWtXhYleXbfcbmMeCgFVbXiLpvjtWNkFdDciQvaHSFRhOOrUv",
+    "Enrollment": 0,
+    "Location": "UJOF 14",
+    "Name": "pvKDZyQEsY",
+    "Prerequisites": [
+      "FPQQ 4292",
+      "FPQQ 4292"
+    ],
+    "Schedule": {
+      "Monday": "14:00-15:00",
+      "Tuesday": "11:00-16:00",
+      "Wednesday": "9:00-12:00",
+      "Thursday": "14:00-14:00",
+      "Friday": "14:00-9:00"
+    },
+    "StudentList": [],
+    "TeacherID": "llw18745"
+  },
+  {
+    "CourseID": "RIX 1740",
+    "Section": 4,
+    "Capacity": 23,
+    "Description": "KAZpKrGVvNiYwpInXqCSwcwipYQoPRftKFNBqlGoRwiUsgNIKN",
+    "Enrollment": 0,
+    "Location": "INTK 371",
+    "Name": "XcClUBIhQA",
+    "Prerequisites": [
+      "TNJ 4839",
+      "BMK 4852"
+    ],
+    "Schedule": {
+      "Monday": "8:00-15:00",
+      "Tuesday": "10:00-9:00",
+      "Wednesday": "15:00-15:00",
+      "Thursday": "16:00-12:00",
+      "Friday": "10:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "llw18745"
+  },
+  {
+    "CourseID": "QJI 5730",
+    "Section": 7,
+    "Capacity": 23,
+    "Description": "pGsXRkgCIboEpxyDUdHyGGXgmAuDSCMeVbJUSgbbGlEJOPUpza",
+    "Enrollment": 0,
+    "Location": "MFSQ 400",
+    "Name": "YHPOGbAOwY",
+    "Prerequisites": [
+      "QJI 4864",
+      "VNZ 2767",
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "9:00-15:00",
+      "Tuesday": "16:00-16:00",
+      "Wednesday": "12:00-11:00",
+      "Thursday": "10:00-16:00",
+      "Friday": "16:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "rpl18685"
+  },
+  {
+    "CourseID": "QJI 5730",
+    "Section": 8,
+    "Capacity": 33,
+    "Description": "pGsXRkgCIboEpxyDUdHyGGXgmAuDSCMeVbJUSgbbGlEJOPUpza",
+    "Enrollment": 0,
+    "Location": "KBHQ 341",
+    "Name": "YHPOGbAOwY",
+    "Prerequisites": [
+      "QJI 4864",
+      "VNZ 2767",
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "14:00-9:00",
+      "Tuesday": "13:00-13:00",
+      "Wednesday": "12:00-15:00",
+      "Thursday": "8:00-8:00",
+      "Friday": "9:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "fwm23448"
+  },
+  {
+    "CourseID": "YNN 4059",
+    "Section": 2,
+    "Capacity": 40,
+    "Description": "DaRFjNcYVFcOMZSSIMhjsiPaZeGGeSBuGtYWyiNVDiWZJQcqyw",
+    "Enrollment": 0,
+    "Location": "EAUZ 188",
+    "Name": "vrjLpDDxlv",
+    "Prerequisites": [
+      "XRKK 4278",
+      "GAKX 3074"
+    ],
+    "Schedule": {
+      "Monday": "15:00-8:00",
+      "Tuesday": "10:00-12:00",
+      "Wednesday": "9:00-12:00",
+      "Thursday": "16:00-16:00",
+      "Friday": "14:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "kka17086"
+  },
+  {
+    "CourseID": "BMK 6363",
+    "Section": 6,
+    "Capacity": 23,
+    "Description": "XKaflRaHQOuDlAvzaiJAFHupYJJYtwkZSuIKqAibMmPrgjdLNI",
+    "Enrollment": 0,
+    "Location": "DFTL 56",
+    "Name": "LdddZTfxiF",
+    "Prerequisites": [],
+    "Schedule": {
+      "Monday": "11:00-16:00",
+      "Tuesday": "16:00-12:00",
+      "Wednesday": "9:00-14:00",
+      "Thursday": "8:00-11:00",
+      "Friday": "12:00-11:00"
+    },
+    "StudentList": [],
+    "TeacherID": "uvp22680"
+  },
+  {
+    "CourseID": "BEH 2749",
+    "Section": 5,
+    "Capacity": 23,
+    "Description": "GRASxKgtrXZmOMXPSmNbfGXpBBAtDxXgEJOvTYMgoLZBsgseHE",
+    "Enrollment": 0,
+    "Location": "VCFO 327",
+    "Name": "rHbvPBkdYu",
+    "Prerequisites": [
+      "GAKX 3074",
+      "QJI 5544",
+      "DEWR 2544"
+    ],
+    "Schedule": {
+      "Monday": "12:00-13:00",
+      "Tuesday": "12:00-9:00",
+      "Wednesday": "15:00-14:00",
+      "Thursday": "10:00-13:00",
+      "Friday": "14:00-16:00"
+    },
+    "StudentList": [],
+    "TeacherID": "ztd13317"
+  },
+  {
+    "CourseID": "TKXX 5785",
+    "Section": 6,
+    "Capacity": 45,
+    "Description": "TGWXDFLLMMiJytCsFTgAlXiCPbmmaMxYmAJluwAqhgWHoUfGxL",
+    "Enrollment": 0,
+    "Location": "ZHJO 167",
+    "Name": "gAvjhfjWjH",
+    "Prerequisites": [
+      "VNZ 2767"
+    ],
+    "Schedule": {
+      "Monday": "9:00-15:00",
+      "Tuesday": "13:00-15:00",
+      "Wednesday": "12:00-15:00",
+      "Thursday": "13:00-9:00",
+      "Friday": "14:00-14:00"
+    },
+    "StudentList": [],
+    "TeacherID": "tpu17750"
+  },
+  {
+    "CourseID": "VCH 5394",
+    "Section": 4,
+    "Capacity": 23,
+    "Description": "OsHJligRbvvWKNucbVeHAAoMqFLUFzlNwCyLcttXkWRvApXvQN",
+    "Enrollment": 0,
+    "Location": "BZNW 181",
+    "Name": "SvbTEBFimQ",
+    "Prerequisites": [
+      "TJG 4515",
+      "QJI 5544",
+      "TKXX 3571"
+    ],
+    "Schedule": {
+      "Monday": "8:00-15:00",
+      "Tuesday": "12:00-13:00",
+      "Wednesday": "11:00-16:00",
+      "Thursday": "9:00-12:00",
+      "Friday": "16:00-15:00"
+    },
+    "StudentList": [],
+    "TeacherID": "nen16022"
+  }
+]

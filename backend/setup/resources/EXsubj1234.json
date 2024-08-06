@@ -1,0 +1,16 @@
+[
+{
+  "CourseID": "SUBJ 1234",
+  "Section": 1,
+  "Capacity": 40,
+  "Enrollment": 0,
+  "Location": "TEST 104",
+  "Schedule": {
+      "Friday": "8:00-9:00",
+      "Monday": "8:00-9:00",
+      "Wednesday": "8:00-9:00"
+  },
+  "StudentList": [],
+  "TeacherID": "unassigned"
+}
+]

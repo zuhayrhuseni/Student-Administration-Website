@@ -1,20 +1,16 @@
 import json
 import boto3
 
-# Initialize a session using Amazon DynamoDB.
+
 dynamodb = boto3.resource('dynamodb')
 
-# Define the table name.
-table_name = 'Users'
+table = dynamodb.Table('Users')
 
-# Get a reference to the DynamoDB table.
-table = dynamodb.Table(table_name)
-
-# Load data from the "courses.json" file
+#Load data from users
 with open('users.json', 'r') as file:
     data = json.load(file)
 
-# Batch update the DynamoDB table with items from the JSON file
+#Batch update
 with table.batch_writer() as batch:
     for item in data:
         try:
@@ -23,4 +19,4 @@ with table.batch_writer() as batch:
         except Exception as e:
             print(f"Error adding item: {e}")
 
-print(f'Batch update completed for table {table_name}.')
+print(f'Batch update completed for Users.')

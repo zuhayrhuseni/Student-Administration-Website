@@ -66,7 +66,7 @@ def lambda_handler(event, context):
     sectionsList = response.get('Items', [])
     for section in sectionsList:
         section['CourseID'] = section.get('CourseID', '').get('S', '')
-        section['Section'] = section.get('Section', '').get('N', '')
+        section['Section'] = section.get('Section', '').get('S', '')
         section['Enrollment'] = section.get('Enrollment', '').get('N', '')
         section['Capacity'] = section.get('Capacity', '').get('N', '')
         section['Location'] = section.get('Location', '').get('S', '')

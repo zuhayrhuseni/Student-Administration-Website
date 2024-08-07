@@ -47,7 +47,7 @@ def lambda_handler(event, context):
                 'S': courseid,
             },
             'Section': {
-                'N': section
+                'S': section
             }
         }
     )

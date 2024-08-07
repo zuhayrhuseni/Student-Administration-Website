@@ -9,14 +9,14 @@
         Return a list of unique subj/courses
     Response to 200: Dictionary of subjects, with lists of courses
         {
-            'SUBJ':  [{
-                'subject': 'SUBJ',
-                'courseid': 'SUBJ 1001',
-                'Description': 'Of course'
-                'Name': 'Intro to Subjects',
-                'Prereqs': ['SUBJ 1234'],       list of courseids
+            'subj':  [{
+                'subject': 'subj',
+                'courseid': 'subj 1001',
+                'description': 'Of course',
+                'name': 'Intro to Subjects',
+                'prereqs': ['subj 1234'],       list of courseids
             }]
-            'MATH': []
+            'math': []
         }
     Response otherwise:
         None
@@ -37,22 +37,22 @@ def lambda_handler(event, context):
         Select='SPECIFIC_ATTRIBUTES',
         AttributesToGet=['subject']
     )
-    #list of subjects
+    # list of subjects
     unique_subj = [item['subject']['S'] for item in response['Items']]
-    #make unique
+    # make unique
     unique_subj = list(set(unique_subj))
     
-    #build dictionary to return
+    # build dictionary to return
     subjdict = {}
     for subj in unique_subj:
         subjdict[subj] = []
         
-    #get all of the courses
+    # get all of the courses
     all_courses = []
     response = client.scan(
         TableName = "Subjects"
     )
-    #go through whole table
+    # go through whole table
     all_courses.extend(response.get('Items', []))
     while 'LastEvaluatedKey' in response:
         response = client.scan(
@@ -60,8 +60,9 @@ def lambda_handler(event, context):
             ExclusiveStartKey=response['LastEvaluatedKey']
         )
         all_courses.extend(response.get('Items', []))
+
         
-    #want to add all of the courses to the dictionary, unless empty
+    # want to add all of the courses to the dictionary, unless empty
     for course in all_courses:
         subject = course.get('subject', {'S': ''}).get('S', '')
         courseid = course.get('courseid', {'S': ''}).get('S', '')

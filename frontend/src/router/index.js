@@ -6,6 +6,10 @@ import HomeView from "../views/HomeView.vue";
 import StudentHomeView from "../views/Student/StudentHomeView.vue"
 import StudentCourseSearchView from "../views/Student/CourseSearchStudentView.vue" 
 import TeacherView from "../views/Teacher/TeacherView.vue"
+import callback from "../views/callback.vue"
+import NotAuthorized from "../views/NotAuthorized.vue"
+import AdminView from "../views/Admin/AdminView.vue"
+import AddCourseAdmin from "../views/Admin/AddCourseAdmin.vue"
 
 
 const router = createRouter({
@@ -33,15 +37,35 @@ const router = createRouter({
       component: StudentHomeView,
     },
     {
-      path: "/studentcs/:user",
+      path: "/studentcs",///:user",
       name: "studentcs",
       component: StudentCourseSearchView,
-      props: true,
+      //props: true,
     },
     {
       path: "/teacherhome",
       name: "teacherhome",
       component: TeacherView
+    },
+    {
+      path: "/adminhome",
+      name: "adminhome",
+      component: AdminView
+    },
+    {
+      path: "/addcourseadmin",
+      name: "/addcourseadmin",
+      component: AddCourseAdmin
+    },
+    {
+      path: "/callback",
+      name: "callback",
+      component: callback
+    },
+    {
+      path: '/not-authorized',
+      name: 'NotAuthorized',
+      component: NotAuthorized,
     },
     {
       path: '/:pathMatch(.*)*', // This will catch all routes that don't match the above ones

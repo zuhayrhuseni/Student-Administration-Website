@@ -18,7 +18,6 @@
         Send success or failure message
     Response:
         String - message (check status code to see if logged in)
-
 """
 
 import json

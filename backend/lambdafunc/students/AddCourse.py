@@ -7,7 +7,7 @@
         {
             "CourseID": '',
             "UserID": '',
-            "Section": N
+            "Section": ''
         }
     TODO:
         CHECKS: capacity, prereqs, enrollment, completed
@@ -126,7 +126,7 @@ def lambda_handler(event, context):
                 'S': course,
             },
             'Section': {
-                'N': section        
+                'S': section        
             }
         }
     )
@@ -134,7 +134,7 @@ def lambda_handler(event, context):
         #capacity and current enrollment
         cap = course_item1['Item'].get('Capacity', {}).get('N', '0')
         enrollcount = course_item1['Item'].get('Enrollment', {}).get('N', '0')
-        if cap == enrollcount:
+        if int(enrollcount) >= int(cap):
             #course is full
             return {
                 'statusCode': 400,
@@ -159,7 +159,7 @@ def lambda_handler(event, context):
                 'S': course
             },
             'Section': {
-                'N': str(section) 
+                'S': section
             }
         },
         UpdateExpression='SET Enrollment = Enrollment + :enrollment, StudentList = list_append(StudentList, :userId)',

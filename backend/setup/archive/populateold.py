@@ -36,7 +36,7 @@ def generate_random_stringL(length):
 def generate_random_stringU(length):
     return ''.join(random.choice(string.ascii_uppercase) for _ in range(length))
 
-# Function to generate random schedule data
+#Function to generate random schedule data
 def generate_random_schedule():
     days_of_week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
     schedule = {}
@@ -97,7 +97,7 @@ for user in userlist:
     }
     userpopulation.append(toadd)
 
-# Save the course data to a JSON file
+#Save the course data
 """with open('courses.json', 'w') as json_file:
     json.dump(coursepopulation, json_file, indent=2)"""
 

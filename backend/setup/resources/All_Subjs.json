@@ -1,0 +1,2152 @@
+[
+  {
+    "subject": "AAAS",
+    "courseid": "AAAS 1000",
+    "Name": "Paths Asian American Studies"
+  },
+  {
+    "subject": "AAAS",
+    "courseid": "AAAS 2101",
+    "Name": "The Pacific in World History"
+  },
+  {
+    "subject": "AAAS",
+    "courseid": "AAAS 3212",
+    "Name": "Asian American Literature"
+  },
+  {
+    "subject": "AAAS",
+    "courseid": "AAAS 3282",
+    "Name": "Women in Chinese Lit and Film"
+  },
+  {
+    "subject": "AAAS",
+    "courseid": "AAAS 3375",
+    "Name": "Indian Art&Pop Cult:Indep Pres"
+  },
+  {
+    "subject": "AAAS",
+    "courseid": "AAAS 3531",
+    "Name": "Japanese Americans and WW II"
+  },
+  {
+    "subject": "AAAS",
+    "courseid": "AAAS 3823",
+    "Name": "Hist People's Republic China"
+  },
+  {
+    "subject": "AAAS",
+    "courseid": "AAAS 3998",
+    "Name": "Variable Topics"
+  },
+  {
+    "subject": "ACCT",
+    "courseid": "ACCT 2001",
+    "Name": "Prin. of Financial Accounting"
+  },
+  {
+    "subject": "ACCT",
+    "courseid": "ACCT 2101",
+    "Name": "Prin. of Managerial Accounting"
+  },
+  {
+    "subject": "AIRF",
+    "courseid": "AIRF 2200",
+    "Name": "Team + Leadership Fundamentals"
+  },
+  {
+    "subject": "AIRF",
+    "courseid": "AIRF 3200",
+    "Name": "Leading and Effective Comm."
+  },
+  {
+    "subject": "AIRF",
+    "courseid": "AIRF 3500",
+    "Name": "Aviation Ground School"
+  },
+  {
+    "subject": "AIRF",
+    "courseid": "AIRF 4200",
+    "Name": "Ntnl Sec Affrs/Prep Act Duty"
+  },
+  {
+    "subject": "ALDS",
+    "courseid": "ALDS 5070",
+    "Name": "Applied Cognitive Linguistics"
+  },
+  {
+    "subject": "AMST",
+    "courseid": "AMST 1201",
+    "Name": "Intro to American Studies"
+  },
+  {
+    "subject": "AMST",
+    "courseid": "AMST 2200",
+    "Name": "Literature and Culture of N Am"
+  },
+  {
+    "subject": "AMST",
+    "courseid": "AMST 2204",
+    "Name": "Jewish Culture American Film"
+  },
+  {
+    "subject": "AMST",
+    "courseid": "AMST 2274W",
+    "Name": "Disability Amer Lit & Culture"
+  },
+  {
+    "subject": "AMST",
+    "courseid": "AMST 2276W",
+    "Name": "American Utopias and Dystopias"
+  },
+  {
+    "subject": "AMST",
+    "courseid": "AMST 3082",
+    "Name": "Crit Race Theory as Pol Theory"
+  },
+  {
+    "subject": "AMST",
+    "courseid": "AMST 3265W",
+    "Name": "American Studies Methods"
+  },
+  {
+    "subject": "AMST",
+    "courseid": "AMST 3531",
+    "Name": "Japanese Americans and WW II"
+  },
+  {
+    "subject": "AMST",
+    "courseid": "AMST 3568",
+    "Name": "Hip Hop,Poltc&Youth Cult Amer"
+  },
+  {
+    "subject": "AMST",
+    "courseid": "AMST 3570",
+    "Name": "History &Theory of Digital Art"
+  },
+  {
+    "subject": "AMST",
+    "courseid": "AMST 3822",
+    "Name": "Law and Popular Culture"
+  },
+  {
+    "subject": "AMST",
+    "courseid": "AMST 6000",
+    "Name": "Am Stds: Methods & Major Texts"
+  },
+  {
+    "subject": "ANTH",
+    "courseid": "ANTH 1000",
+    "Name": "Peoples and Cultures of the Wo"
+  },
+  {
+    "subject": "ANTH",
+    "courseid": "ANTH 1000W",
+    "Name": "Peoples and Cultures of the Wo"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 2155",
+    "Name": "Imperfect Competition Behavior"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 2215",
+    "Name": "Business Management"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 2260",
+    "Name": "Food Policy"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 2261W",
+    "Name": "Writing in Food Policy"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 3221",
+    "Name": "Managerial Economics and Bus"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 3225",
+    "Name": "Price Analysis Futures Trading"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 3333",
+    "Name": "Comp Analysis in Applied Econ"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 3437E",
+    "Name": "Marine Fisheries Econ&Policy"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 4217",
+    "Name": "Bus Fnce and Investment Manage"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 4305",
+    "Name": "Sustainable Econ Development"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 4438E",
+    "Name": "Valuing the Environment"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 4462E",
+    "Name": "Environ and Resource Economics"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 5305",
+    "Name": "Sustainable Econ Development"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 5353",
+    "Name": "Data Ethics and Equity in the"
+  },
+  {
+    "subject": "ARE",
+    "courseid": "ARE 5462",
+    "Name": "Envirnmntl and Resource Econ"
+  },
+  {
+    "subject": "BADM",
+    "courseid": "BADM 2101",
+    "Name": "Prin. of Managerial Accounting"
+  },
+  {
+    "subject": "BADM",
+    "courseid": "BADM 2234",
+    "Name": "The Entrepreneurial Journey"
+  },
+  {
+    "subject": "BADM",
+    "courseid": "BADM 2235",
+    "Name": "Personal Financial Literacy"
+  },
+  {
+    "subject": "BADM",
+    "courseid": "BADM 2236",
+    "Name": "Content Entrepreneurship"
+  },
+  {
+    "subject": "BADM",
+    "courseid": "BADM 2237",
+    "Name": "Personal Brand Management"
+  },
+  {
+    "subject": "BADM",
+    "courseid": "BADM 2238",
+    "Name": "Legal Aspects of NIL Rep"
+  },
+  {
+    "subject": "BADM",
+    "courseid": "BADM 3103",
+    "Name": "Business Information Systems"
+  },
+  {
+    "subject": "BIOL",
+    "courseid": "BIOL 1107",
+    "Name": "Principles of Biology I"
+  },
+  {
+    "subject": "BME",
+    "courseid": "BME 4120",
+    "Name": "Neural Info Proc & Sens Coding"
+  },
+  {
+    "subject": "BME",
+    "courseid": "BME 4130",
+    "Name": "Neural Prostheses"
+  },
+  {
+    "subject": "BME",
+    "courseid": "BME 4201",
+    "Name": "Introduction Medical Imaging"
+  },
+  {
+    "subject": "BME",
+    "courseid": "BME 4410",
+    "Name": "Systems Bio Cells and Tissues"
+  },
+  {
+    "subject": "BME",
+    "courseid": "BME 4500",
+    "Name": "Bioinstrumentation"
+  },
+  {
+    "subject": "BME",
+    "courseid": "BME 4810",
+    "Name": "Machine Learning Methods Biome"
+  },
+  {
+    "subject": "BME",
+    "courseid": "BME 4910W",
+    "Name": "Biomed Engineering Design II"
+  },
+  {
+    "subject": "BME",
+    "courseid": "BME 4985",
+    "Name": "Special Topics in BME"
+  },
+  {
+    "subject": "CE",
+    "courseid": "CE 2710",
+    "Name": "Transportation Engr&Planning"
+  },
+  {
+    "subject": "CE",
+    "courseid": "CE 3110",
+    "Name": "Mechanics of Materials"
+  },
+  {
+    "subject": "CE",
+    "courseid": "CE 3251",
+    "Name": "CE & ENVE App of Prob & Stats"
+  },
+  {
+    "subject": "CE",
+    "courseid": "CE 3520",
+    "Name": "Civil Engineering Material Lab"
+  },
+  {
+    "subject": "CE",
+    "courseid": "CE 3630",
+    "Name": "Design of Steel Structures"
+  },
+  {
+    "subject": "CE",
+    "courseid": "CE 4220",
+    "Name": "Principles of Construction II"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 1122",
+    "Name": "Chemical Principles and Appls"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 1124Q",
+    "Name": "Fundamentals General Chem I"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 1128Q",
+    "Name": "General Chemistry II"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 1194",
+    "Name": "The Science of Chemistry"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 2241",
+    "Name": "Organic Chemistry"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 2242",
+    "Name": "Organic Chemistry Laboratory"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 2443",
+    "Name": "Organic Chemistry"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 2444",
+    "Name": "Organic Chemistry"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 5310",
+    "Name": "Seminar"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 5325",
+    "Name": "Adv Inorganic Chemistry II"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 5336",
+    "Name": "Electroanalytical Chemistry"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 5341",
+    "Name": "Adv Organic Chemistry"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 5344",
+    "Name": "Concepts in Organic Chemistry"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 5345",
+    "Name": "Determ of Organic Structures"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 5382",
+    "Name": "Polymer Characterization I"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 5384",
+    "Name": "Polymer Characterization II"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 5393",
+    "Name": "Spec Topics in Physical Chem"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 5395",
+    "Name": "Spec Topics in Analytical Chem"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 5398",
+    "Name": "Variable Topics in Chemistry"
+  },
+  {
+    "subject": "CHEM",
+    "courseid": "CHEM 5695",
+    "Name": "Special Topics Biological Chem"
+  },
+  {
+    "subject": "CHIN",
+    "courseid": "CHIN 1111",
+    "Name": "Elementary Chinese I"
+  },
+  {
+    "subject": "CHIN",
+    "courseid": "CHIN 1112",
+    "Name": "Elementary Chinese II"
+  },
+  {
+    "subject": "CHIN",
+    "courseid": "CHIN 1114",
+    "Name": "Intermediate Chinese II"
+  },
+  {
+    "subject": "CHIN",
+    "courseid": "CHIN 1122",
+    "Name": "Modern Chinese Culture"
+  },
+  {
+    "subject": "CHIN",
+    "courseid": "CHIN 2800",
+    "Name": "Chinese Calligraphy"
+  },
+  {
+    "subject": "COGS",
+    "courseid": "COGS 5120",
+    "Name": "Struc, Acqui and Proc of Lang"
+  },
+  {
+    "subject": "COMM",
+    "courseid": "COMM 1000",
+    "Name": "The Process of Communication"
+  },
+  {
+    "subject": "CSE",
+    "courseid": "CSE 1010",
+    "Name": "Intro Computing for Engineers"
+  },
+  {
+    "subject": "CSE",
+    "courseid": "CSE 2050",
+    "Name": "Data Struc and Obj-Orient Des"
+  },
+  {
+    "subject": "CSE",
+    "courseid": "CSE 5095",
+    "Name": "Spec Topics in Comp Sci Engr"
+  },
+  {
+    "subject": "CSE",
+    "courseid": "CSE 5097",
+    "Name": "Seminar"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 3998",
+    "Name": "Variable Topics"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 4025",
+    "Name": "Portfolio and Professional Dev"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 4040",
+    "Name": "Agency"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 4045",
+    "Name": "Digital Content Design Studio"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 4075",
+    "Name": "Senior Project"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 4200",
+    "Name": "Advanced Motion Media"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 4310",
+    "Name": "3D Rigging"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 4350",
+    "Name": "Adv 3D Research and Production"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 4470",
+    "Name": "Web 3: Expert Topics Web Dev"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 4500",
+    "Name": "Adv Digital Game Design & Dev"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 4725",
+    "Name": "Advanced Digital Analytics"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 4835",
+    "Name": "Narrative Short Film Product"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 5015",
+    "Name": "MFA Studio Critique"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 5035",
+    "Name": "Interaction Design"
+  },
+  {
+    "subject": "DMD",
+    "courseid": "DMD 5040",
+    "Name": "UConn Student Agency"
+  },
+  {
+    "subject": "DRAM",
+    "courseid": "DRAM 5500",
+    "Name": "Studies in Lighting Design"
+  },
+  {
+    "subject": "DRAM",
+    "courseid": "DRAM 5513",
+    "Name": "Lighting Computer Applications"
+  },
+  {
+    "subject": "DRAM",
+    "courseid": "DRAM 5597",
+    "Name": "Spcl Tpcs in Lighting Design"
+  },
+  {
+    "subject": "DRAM",
+    "courseid": "DRAM 5604",
+    "Name": "Advanced Rod Puppet Theatre"
+  },
+  {
+    "subject": "DRAM",
+    "courseid": "DRAM 5609",
+    "Name": "Marionette Construction"
+  },
+  {
+    "subject": "DRAM",
+    "courseid": "DRAM 5613",
+    "Name": "Advanced Shadow Theatre"
+  },
+  {
+    "subject": "DRAM",
+    "courseid": "DRAM 5617",
+    "Name": "World Puppet Theatre"
+  },
+  {
+    "subject": "DRAM",
+    "courseid": "DRAM 5619",
+    "Name": "Movement-Based Performance"
+  },
+  {
+    "subject": "DRAM",
+    "courseid": "DRAM 5721",
+    "Name": "Performance Techniques"
+  },
+  {
+    "subject": "DSEL",
+    "courseid": "DSEL 5320",
+    "Name": "Direct Practice in School"
+  },
+  {
+    "subject": "ECE",
+    "courseid": "ECE 1401",
+    "Name": "Programming for Electrical Eng"
+  },
+  {
+    "subject": "ECE",
+    "courseid": "ECE 2001",
+    "Name": "Electrical Circuits"
+  },
+  {
+    "subject": "ECON",
+    "courseid": "ECON 1201",
+    "Name": "Principles of Microeconomics"
+  },
+  {
+    "subject": "ECON",
+    "courseid": "ECON 1202",
+    "Name": "Principles of Macroeconomics"
+  },
+  {
+    "subject": "ECON",
+    "courseid": "ECON 5501",
+    "Name": "Writ & Comm Econ and Busn I"
+  },
+  {
+    "subject": "ECON",
+    "courseid": "ECON 6211",
+    "Name": "Microeconomic Theory II"
+  },
+  {
+    "subject": "ECON",
+    "courseid": "ECON 6212",
+    "Name": "Macroeconomic Theory II"
+  },
+  {
+    "subject": "ECON",
+    "courseid": "ECON 6310",
+    "Name": "Econometrics I"
+  },
+  {
+    "subject": "ECON",
+    "courseid": "ECON 6312",
+    "Name": "Econometrics III"
+  },
+  {
+    "subject": "ECON",
+    "courseid": "ECON 6412",
+    "Name": "Advanced Macroeconomics II"
+  },
+  {
+    "subject": "ECON",
+    "courseid": "ECON 6441",
+    "Name": "Advanced Labor Economics I"
+  },
+  {
+    "subject": "ECON",
+    "courseid": "ECON 6462",
+    "Name": "Empirical Industrial Org"
+  },
+  {
+    "subject": "ECON",
+    "courseid": "ECON 6494",
+    "Name": "Graduate Seminar"
+  },
+  {
+    "subject": "EDCI",
+    "courseid": "EDCI 2100",
+    "Name": "Power, Privilege & Public Edu"
+  },
+  {
+    "subject": "EDCI",
+    "courseid": "EDCI 3211",
+    "Name": "Intro Sec Meth&Clin: English"
+  },
+  {
+    "subject": "EDCI",
+    "courseid": "EDCI 3212",
+    "Name": "Intro Sec Meth&Clin: Math"
+  },
+  {
+    "subject": "EDCI",
+    "courseid": "EDCI 3213",
+    "Name": "Intro Sec Meth&Clin: Science"
+  },
+  {
+    "subject": "EDCI",
+    "courseid": "EDCI 3214",
+    "Name": "Intro Sec Meth&Clin: Soci Stud"
+  },
+  {
+    "subject": "EDCI",
+    "courseid": "EDCI 3215",
+    "Name": "Intro Sec Meth&Clin: World Lng"
+  },
+  {
+    "subject": "EDCI",
+    "courseid": "EDCI 3305",
+    "Name": "Methods&Clinic in Elem Music"
+  },
+  {
+    "subject": "EDCI",
+    "courseid": "EDCI 4010",
+    "Name": "Tch Read & Writ in Cntnt Areas"
+  },
+  {
+    "subject": "EDCI",
+    "courseid": "EDCI 4110W",
+    "Name": "Teach Read & Writ in Elem Sch"
+  },
+  {
+    "subject": "EEB",
+    "courseid": "EEB 3220",
+    "Name": "Evolution of Green Plants"
+  },
+  {
+    "subject": "EEB",
+    "courseid": "EEB 3244W",
+    "Name": "Writing in Ecology"
+  },
+  {
+    "subject": "EEB",
+    "courseid": "EEB 3245",
+    "Name": "Evolutionary Medicine"
+  },
+  {
+    "subject": "EEB",
+    "courseid": "EEB 3894",
+    "Name": "Undergraduate Seminar"
+  },
+  {
+    "subject": "EEB",
+    "courseid": "EEB 4100",
+    "Name": "Big Data Science for Biologist"
+  },
+  {
+    "subject": "EEB",
+    "courseid": "EEB 4200",
+    "Name": "Biology of Fishes"
+  },
+  {
+    "subject": "EEB",
+    "courseid": "EEB 5050",
+    "Name": "Fundamentals Ecological Model"
+  },
+  {
+    "subject": "EEB",
+    "courseid": "EEB 5200",
+    "Name": "Biology of Fishes"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 1007",
+    "Name": "Seminar and Studio in Writing"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 1103W",
+    "Name": "Renais and Modern Western Lit"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 1201",
+    "Name": "Intro to American Studies"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 1301",
+    "Name": "Major Works of Eastern Lit"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 1401",
+    "Name": "Horror"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 1503",
+    "Name": "Introduction to Shakespeare"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 1616",
+    "Name": "Major Works of Eng & Amer Lit"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 1616W",
+    "Name": "Major Works Eng and Amer Lit"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 2013W",
+    "Name": "Intro to Writing Studies"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 2020W",
+    "Name": "Technical Writing and Design"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 2100",
+    "Name": "British Literature I"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 2101",
+    "Name": "British Literature II"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 2107",
+    "Name": "The British Empire, Slavery"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 2200",
+    "Name": "Literature and Culture of N Am"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 2201",
+    "Name": "American Literature to 1880"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 2201W",
+    "Name": "American Literature to 1880"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 2203",
+    "Name": "American Literature Since 1880"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 2214W",
+    "Name": "African American Literature"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 2274W",
+    "Name": "Disability Amer Lit & Culture"
+  },
+  {
+    "subject": "ENGL",
+    "courseid": "ENGL 2276W",
+    "Name": "American Utopias and Dystopias"
+  },
+  {
+    "subject": "ENVE",
+    "courseid": "ENVE 4310",
+    "Name": "Environmental Modeling"
+  },
+  {
+    "subject": "ENVE",
+    "courseid": "ENVE 4320",
+    "Name": "Eco Principles and Engineering"
+  },
+  {
+    "subject": "ENVE",
+    "courseid": "ENVE 4540",
+    "Name": "Design of Groundwater Systems"
+  },
+  {
+    "subject": "ENVE",
+    "courseid": "ENVE 4920W",
+    "Name": "Environ Engineering Design II"
+  },
+  {
+    "subject": "ERTH",
+    "courseid": "ERTH 1000E",
+    "Name": "The Human Epoch: Anthropocene"
+  },
+  {
+    "subject": "ERTH",
+    "courseid": "ERTH 1010",
+    "Name": "Dinos,Extnctns,&Env Catstrphes"
+  },
+  {
+    "subject": "ERTH",
+    "courseid": "ERTH 1050",
+    "Name": "Earth's Dynamic Environment"
+  },
+  {
+    "subject": "ERTH",
+    "courseid": "ERTH 1051",
+    "Name": "Earth's Dyn Environment (Lec)"
+  },
+  {
+    "subject": "ERTH",
+    "courseid": "ERTH 1052",
+    "Name": "Earth's Dyn Environment (Lab)"
+  },
+  {
+    "subject": "FNCE",
+    "courseid": "FNCE 3101",
+    "Name": "Financial Management"
+  },
+  {
+    "subject": "GEOG",
+    "courseid": "GEOG 5519",
+    "Name": "Spatial Big Data Analytics"
+  },
+  {
+    "subject": "GEOG",
+    "courseid": "GEOG 5540",
+    "Name": "Social Dimensions Renewable E"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 1001",
+    "Name": "Elementary German I"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 1002",
+    "Name": "Elementary German II"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 1003",
+    "Name": "Intermediate German I"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 1004",
+    "Name": "Intermediate German II"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 1140W",
+    "Name": "German Literature in English"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 1169",
+    "Name": "Contemporary Germany in Europe"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 1171",
+    "Name": "The German Film"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 3221",
+    "Name": "Intro to Sciences in German"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 3234",
+    "Name": "Bldg Lang Skill Thr Culture II"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 3251",
+    "Name": "German Culture & Civilization"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 3264W",
+    "Name": "German Cinema"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 4246",
+    "Name": "Capstone Project German"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 5345",
+    "Name": "Studies in German Lit III"
+  },
+  {
+    "subject": "GERM",
+    "courseid": "GERM 6460",
+    "Name": "Sem in Twentieth-Century Lit"
+  },
+  {
+    "subject": "HEJS",
+    "courseid": "HEJS 3419",
+    "Name": "Jewish Response to Holocaust"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 1100W",
+    "Name": "The Historian as Detective"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 1200",
+    "Name": "World History, 1200-1800"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 1201",
+    "Name": "Modern World History"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 1203",
+    "Name": "Women in History"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 1206",
+    "Name": "Lvng Thr War Wrld Hist 1500"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 1300",
+    "Name": "Western Traditions Before 1500"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 2205",
+    "Name": "Personality and Power in Hist."
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 2206",
+    "Name": "History of Science"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 2210E",
+    "Name": "History of the Ocean"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 2222E",
+    "Name": "Global Environmental History"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 2401W",
+    "Name": "Europe in the 19th Century"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 2402",
+    "Name": "Europe in the 20th Century"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 2421",
+    "Name": "History of Modern England"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 2541W",
+    "Name": "The History of Urban America"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 2570",
+    "Name": "American Indian History"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 2832",
+    "Name": "Modern Japan"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 3098",
+    "Name": "Variable Topics"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 3101W",
+    "Name": "History through Fiction"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 3102",
+    "Name": "Topics in Public History"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 3104",
+    "Name": "Collaborating Cultural Org II"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 3105",
+    "Name": "History through Film"
+  },
+  {
+    "subject": "HIST",
+    "courseid": "HIST 3206",
+    "Name": "Black Experience in Americas"
+  },
+  {
+    "subject": "ILCS",
+    "courseid": "ILCS 1002",
+    "Name": "Elementary Italian II"
+  },
+  {
+    "subject": "ILCS",
+    "courseid": "ILCS 1004",
+    "Name": "Intermediate Italian II"
+  },
+  {
+    "subject": "ILCS",
+    "courseid": "ILCS 1149",
+    "Name": "Cinema & Soci in Contemp Italy"
+  },
+  {
+    "subject": "ILCS",
+    "courseid": "ILCS 1160",
+    "Name": "Culture of Fascist Italy"
+  },
+  {
+    "subject": "ILCS",
+    "courseid": "ILCS 1170",
+    "Name": "Intro Italy thr Its Regions"
+  },
+  {
+    "subject": "ILCS",
+    "courseid": "ILCS 3240",
+    "Name": "Composition & Conversation II"
+  },
+  {
+    "subject": "KINS",
+    "courseid": "KINS 3212",
+    "Name": "Exp. in Athletic Training"
+  },
+  {
+    "subject": "KINS",
+    "courseid": "KINS 3320",
+    "Name": "Exercise Psychology"
+  },
+  {
+    "subject": "KINS",
+    "courseid": "KINS 3530",
+    "Name": "Aerobic Training Health Perfor"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7723",
+    "Name": "Real Estate Transactions"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7730",
+    "Name": "Legislation/Statutory Interp"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7735",
+    "Name": "Patent Law, Adv: Prac/Proc"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7739",
+    "Name": "Antitrust and Trade Regulation"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7741",
+    "Name": "Trial Advocacy, Intensive"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7744",
+    "Name": "Clinic: Child Advocacy"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7759",
+    "Name": "The Nuremberg Trials"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7766",
+    "Name": "Labor Law: Union Org/NLR Act"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7774",
+    "Name": "Surety Law"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7812",
+    "Name": "Energy Regulation and Policy"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7857",
+    "Name": "Public Litigation Pract, Adv"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7858",
+    "Name": "Contemp Leg Theory/Philosophy"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7872",
+    "Name": "Comparative Law and Rights"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7877",
+    "Name": "Clinic: Intellectual Property"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7894",
+    "Name": "Law and Economics"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7895",
+    "Name": "Law and Cognition"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7898",
+    "Name": "Clinic: Transactional"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7901",
+    "Name": "Elder Law"
+  },
+  {
+    "subject": "LAW",
+    "courseid": "LAW 7902",
+    "Name": "Adv. Legal Research"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 3002",
+    "Name": "Foundations of Marine Sciences"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 3014",
+    "Name": "Marine Biology"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 3995",
+    "Name": "Special Topics"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 4002",
+    "Name": "Science & Coastal Environment"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 4010",
+    "Name": "Biological Oceanography"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 4050",
+    "Name": "Geological Oceanography"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 4202Q",
+    "Name": "Models of the Ocean Carbon Cyc"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 5010",
+    "Name": "Biological Oceanography"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 5050",
+    "Name": "Geological Oceanography"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 5064",
+    "Name": "Air-Sea Interaction"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 5202",
+    "Name": "Models of Ocean Carbon Cycle"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 6001",
+    "Name": "Math Models in Marine Sciences"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 6002",
+    "Name": "Math Models in Marine Sci: Pra"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 6012",
+    "Name": "Marine Genomics"
+  },
+  {
+    "subject": "MARN",
+    "courseid": "MARN 6031",
+    "Name": "Stable Isotope Biogeochemistry"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 1132Q",
+    "Name": "Calculus II"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 3631",
+    "Name": "Long-Term Actuarial Math II"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 3636",
+    "Name": "Actuarial Statistical Model I"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 3637",
+    "Name": "Actuarial Statistical Modeling"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 3639",
+    "Name": "Actuarial Loss Models"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 3640",
+    "Name": "Short-Trm Insurance Ratemaking"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 3641",
+    "Name": "Short-Term Insurance Reserving"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 3650",
+    "Name": "Financial Mathematics II"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 3660",
+    "Name": "Advanced Financial Mathematics"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 3670W",
+    "Name": "Technical Writing Actuaries"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 3710",
+    "Name": "Intro to Mathematical Modeling"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5020",
+    "Name": "Topics in Algebra"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5026",
+    "Name": "Topics in Mathematical Logic"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5030",
+    "Name": "Topics in Geometry & Topol I"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5040",
+    "Name": "Topics in Applied Analysis I"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5111",
+    "Name": "Measure & Integration"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5120",
+    "Name": "Complex Function Theory I"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5131",
+    "Name": "Functional Analysis II"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5161",
+    "Name": "Probab Theor & Stochastic II"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5211",
+    "Name": "Abstract Algebra II"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5360",
+    "Name": "Differential Geometry"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5410",
+    "Name": "Intro to Applied Math I"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5631",
+    "Name": "Long-Term Actuarial Math II"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5638",
+    "Name": "Predictive Analytics Actuaries"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5641",
+    "Name": "Short-Term Insurance Reserving"
+  },
+  {
+    "subject": "MATH",
+    "courseid": "MATH 5650",
+    "Name": "Financial Mathematics II"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 2610",
+    "Name": "Fundamentals of Microbiology"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 3022W",
+    "Name": "Human Disease"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 3100",
+    "Name": "Intro Translational Research"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 3189",
+    "Name": "Clinical Research Laboratory"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 3201",
+    "Name": "Gene Expression"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 3211",
+    "Name": "Cancer Cell Biology &Genetics"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 3219",
+    "Name": "Developmental & Regen Biology"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 3246",
+    "Name": "Virology"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 3400",
+    "Name": "Human Evolutionary Genomics"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 3413",
+    "Name": "Concepts of Genetic Analysis"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 5427",
+    "Name": "Lab Techniques Funct Genomics"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 5445",
+    "Name": "Genome Dynam. and Epigenetics"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 5484",
+    "Name": "Current Genetics and Genomics"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 5490",
+    "Name": "Industrial Insights"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 5491",
+    "Name": "Professional Dev Seminar"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 5616",
+    "Name": "Experiments Bacterial Genetics"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 5679",
+    "Name": "Microbial Physiology"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 5699",
+    "Name": "Seminar in Microbiology"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 5801",
+    "Name": "Scientific Writing and Project"
+  },
+  {
+    "subject": "MCB",
+    "courseid": "MCB 5884",
+    "Name": "MCB Research in Progress"
+  },
+  {
+    "subject": "MENT",
+    "courseid": "MENT 3234",
+    "Name": "Opportun Gener, Assess&Promot"
+  },
+  {
+    "subject": "MENT",
+    "courseid": "MENT 3235",
+    "Name": "Venture Planning, Mgmt,&Growth"
+  },
+  {
+    "subject": "MENT",
+    "courseid": "MENT 3239",
+    "Name": "Managing a Diverse Workforce"
+  },
+  {
+    "subject": "MENT",
+    "courseid": "MENT 3501",
+    "Name": "Tech Innovation & Entrep II"
+  },
+  {
+    "subject": "MENT",
+    "courseid": "MENT 3741",
+    "Name": "Foundations of Venture Capital"
+  },
+  {
+    "subject": "MENT",
+    "courseid": "MENT 3742",
+    "Name": "Vent Invest Sourcing Analysis"
+  },
+  {
+    "subject": "MENT",
+    "courseid": "MENT 3982",
+    "Name": "Pro Pract Entrepren Bus Dev"
+  },
+  {
+    "subject": "MENT",
+    "courseid": "MENT 4741",
+    "Name": "Advanced Venture Investing"
+  },
+  {
+    "subject": "MENT",
+    "courseid": "MENT 4895",
+    "Name": "Special Topics"
+  },
+  {
+    "subject": "MENT",
+    "courseid": "MENT 4900",
+    "Name": "Strategy, Policy and Planning"
+  },
+  {
+    "subject": "MSE",
+    "courseid": "MSE 4240",
+    "Name": "Nanomaterials Syn & Dsgn"
+  },
+  {
+    "subject": "MSE",
+    "courseid": "MSE 4902W",
+    "Name": "Capstone Design Project II"
+  },
+  {
+    "subject": "MSE",
+    "courseid": "MSE 5095",
+    "Name": "Special Topics in MSE"
+  },
+  {
+    "subject": "MUSI",
+    "courseid": "MUSI 1231",
+    "Name": "Class Instruction in Piano"
+  },
+  {
+    "subject": "MUSI",
+    "courseid": "MUSI 1241",
+    "Name": "Applied Accompanying"
+  },
+  {
+    "subject": "MUSI",
+    "courseid": "MUSI 1252",
+    "Name": "Italian Diction for Singers"
+  },
+  {
+    "subject": "MUSI",
+    "courseid": "MUSI 1312",
+    "Name": "Ear Training,  Musicianship II"
+  },
+  {
+    "subject": "MUSI",
+    "courseid": "MUSI 1314",
+    "Name": "Harmony II"
+  },
+  {
+    "subject": "MUSI",
+    "courseid": "MUSI 1501",
+    "Name": "Applied Music Techniques"
+  },
+  {
+    "subject": "MUSI",
+    "courseid": "MUSI 1601",
+    "Name": "Intro to Jazz Improvisation"
+  },
+  {
+    "subject": "MUSI",
+    "courseid": "MUSI 2254",
+    "Name": "French Diction for Singers"
+  },
+  {
+    "subject": "NRE",
+    "courseid": "NRE 1000E",
+    "Name": "Environmental Science"
+  },
+  {
+    "subject": "NRE",
+    "courseid": "NRE 1235E",
+    "Name": "Environmental Conservation"
+  },
+  {
+    "subject": "NRE",
+    "courseid": "NRE 2000",
+    "Name": "Introduction to Geomatics"
+  },
+  {
+    "subject": "NRE",
+    "courseid": "NRE 2600E",
+    "Name": "Global Sust Natural Resources"
+  },
+  {
+    "subject": "NRE",
+    "courseid": "NRE 3105",
+    "Name": "Wetlands Biol & Conservation"
+  },
+  {
+    "subject": "NRE",
+    "courseid": "NRE 3115",
+    "Name": "Air Pollution"
+  },
+  {
+    "subject": "NRE",
+    "courseid": "NRE 3150",
+    "Name": "Green Stormwater Infrast Pract"
+  },
+  {
+    "subject": "NRE",
+    "courseid": "NRE 3305",
+    "Name": "African Field Ecology"
+  },
+  {
+    "subject": "NRE",
+    "courseid": "NRE 3335",
+    "Name": "Wildlife Management"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3104",
+    "Name": "Operations Management"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3203",
+    "Name": "Analytics for Business Intelli"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3204",
+    "Name": "Database Design and Management"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3207",
+    "Name": "Information Security"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3211",
+    "Name": "Systems Analysis and Design"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3301",
+    "Name": "Spreadsheet Modeling"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3302",
+    "Name": "Data Visualization"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3401",
+    "Name": "Business Software Development"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3402",
+    "Name": "Mobile Application Development"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3403",
+    "Name": "UX / UI Design"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3505",
+    "Name": "Business Database Managment"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3601",
+    "Name": "Managerial Supply Chain Mgmt"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3602",
+    "Name": "Supply Chain Logistics"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3603",
+    "Name": "Project Mgmt and Planning"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3701",
+    "Name": "Network Design and Application"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3702",
+    "Name": "Risk, Trust, Modern Security"
+  },
+  {
+    "subject": "OPIM",
+    "courseid": "OPIM 3806",
+    "Name": "Intro Cryptocurrency and Block"
+  },
+  {
+    "subject": "PHRX",
+    "courseid": "PHRX 3065",
+    "Name": "Pharmacy Skills Development II"
+  },
+  {
+    "subject": "PHYS",
+    "courseid": "PHYS 1202Q",
+    "Name": "General Physics II"
+  },
+  {
+    "subject": "PHYS",
+    "courseid": "PHYS 1230",
+    "Name": "General Physics Problems"
+  },
+  {
+    "subject": "PHYS",
+    "courseid": "PHYS 1401Q",
+    "Name": "General Physics w Calculus I"
+  },
+  {
+    "subject": "PHYS",
+    "courseid": "PHYS 1402Q",
+    "Name": "General Physics w Calculus II"
+  },
+  {
+    "subject": "PHYS",
+    "courseid": "PHYS 4730",
+    "Name": "General Relativity & Cosmology"
+  },
+  {
+    "subject": "PNB",
+    "courseid": "PNB 3251",
+    "Name": "Biology of the Brain"
+  },
+  {
+    "subject": "PNB",
+    "courseid": "PNB 3255",
+    "Name": "Human Neuroanatomy"
+  },
+  {
+    "subject": "PNB",
+    "courseid": "PNB 3260",
+    "Name": "Stem Cell Biology"
+  },
+  {
+    "subject": "PNB",
+    "courseid": "PNB 3264W",
+    "Name": "Molecular Prin Physiology"
+  },
+  {
+    "subject": "PNB",
+    "courseid": "PNB 3265",
+    "Name": "Comparative Endocrinology"
+  },
+  {
+    "subject": "PNB",
+    "courseid": "PNB 3275",
+    "Name": "Biology Synaptic Transmission"
+  },
+  {
+    "subject": "PNB",
+    "courseid": "PNB 3278",
+    "Name": "Patient and the Healer"
+  },
+  {
+    "subject": "PNB",
+    "courseid": "PNB 3294",
+    "Name": "Undergraduate Seminar"
+  },
+  {
+    "subject": "POLS",
+    "courseid": "POLS 1202",
+    "Name": "Intro to Comparative Politics"
+  },
+  {
+    "subject": "POLS",
+    "courseid": "POLS 1402",
+    "Name": "Intro International Relations"
+  },
+  {
+    "subject": "POLS",
+    "courseid": "POLS 1602",
+    "Name": "Introduction to Amer Politics"
+  },
+  {
+    "subject": "POLS",
+    "courseid": "POLS 2023",
+    "Name": "Political Theory in Film"
+  },
+  {
+    "subject": "POLS",
+    "courseid": "POLS 2072Q",
+    "Name": "Quant Analys in Poli Sci"
+  },
+  {
+    "subject": "POLS",
+    "courseid": "POLS 2221",
+    "Name": "Intro to Gov. in Middle East"
+  },
+  {
+    "subject": "POLS",
+    "courseid": "POLS 2622",
+    "Name": "State and Local Government"
+  },
+  {
+    "subject": "POLS",
+    "courseid": "POLS 2998",
+    "Name": "Variable Topics Cont Pol Iss"
+  },
+  {
+    "subject": "POLS",
+    "courseid": "POLS 2998W",
+    "Name": "Variable Topics Cont Pol Iss"
+  },
+  {
+    "subject": "POLS",
+    "courseid": "POLS 3025",
+    "Name": "Political Theory and Pop Music"
+  },
+  {
+    "subject": "POLS",
+    "courseid": "POLS 3082",
+    "Name": "Crit Race Theory as Pol Theory"
+  },
+  {
+    "subject": "POLS",
+    "courseid": "POLS 3209",
+    "Name": "Sustainable Energy 21st Cent"
+  },
+  {
+    "subject": "POLS",
+    "courseid": "POLS 3250W",
+    "Name": "Political Economy of East Asia"
+  },
+  {
+    "subject": "PSYC",
+    "courseid": "PSYC 1100",
+    "Name": "General Psychology I"
+  },
+  {
+    "subject": "RSCH",
+    "courseid": "RSCH 5341",
+    "Name": "Adv Research: Program Eval"
+  },
+  {
+    "subject": "RSCH",
+    "courseid": "RSCH 5342",
+    "Name": "Adv Research Topics: Vari Top"
+  },
+  {
+    "subject": "SAAS",
+    "courseid": "SAAS 112",
+    "Name": "Anat&Physiolgy Domestic Animal"
+  },
+  {
+    "subject": "SAAS",
+    "courseid": "SAAS 113",
+    "Name": "Prin Animal Nutrition&Feeding"
+  },
+  {
+    "subject": "SAAS",
+    "courseid": "SAAS 121",
+    "Name": "Animal Breeding and Genetics"
+  },
+  {
+    "subject": "SAAS",
+    "courseid": "SAAS 202",
+    "Name": "Behav&Train of Domestic Animal"
+  },
+  {
+    "subject": "SAAS",
+    "courseid": "SAAS 251",
+    "Name": "Horse Science"
+  },
+  {
+    "subject": "SAAS",
+    "courseid": "SAAS 252",
+    "Name": "Mgmt of Horse Breeding Farm"
+  },
+  {
+    "subject": "SAAS",
+    "courseid": "SAAS 257",
+    "Name": "Meth of Equitation Instruction"
+  },
+  {
+    "subject": "SAAS",
+    "courseid": "SAAS 271",
+    "Name": "Intro to Poultry Industry"
+  },
+  {
+    "subject": "SAAS",
+    "courseid": "SAAS 274",
+    "Name": "Livestock & Carcass Evaluation"
+  },
+  {
+    "subject": "SAAS",
+    "courseid": "SAAS 276",
+    "Name": "Intro to Companion Animals"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 1251",
+    "Name": "Social Problems"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 1251W",
+    "Name": "Social Problems"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 1501",
+    "Name": "Race, Class, and Gender"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 1501W",
+    "Name": "Race, Class, and Gender"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 1701W",
+    "Name": "Society in Global Perspective"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 2110W",
+    "Name": "Sociology of Education"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 2240W",
+    "Name": "Sociology of Race and Religion"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 2275",
+    "Name": "Social Well-Being"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 2301",
+    "Name": "Criminology"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 2305",
+    "Name": "Deviant Behavior"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 2320W",
+    "Name": "Drugs and Society"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 2461",
+    "Name": "Race, Gender, and U.S. Health"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 2501",
+    "Name": "Soci Intolerance & Injustice"
+  },
+  {
+    "subject": "SOCI",
+    "courseid": "SOCI 2510",
+    "Name": "Ethnicity and Race"
+  },
+  {
+    "subject": "SPAN",
+    "courseid": "SPAN 3179",
+    "Name": "Spanish Conv: Cultural Topics"
+  },
+  {
+    "subject": "STAT",
+    "courseid": "STAT 1000Q",
+    "Name": "Intro to Statistics I"
+  },
+  {
+    "subject": "STAT",
+    "courseid": "STAT 1100Q",
+    "Name": "Elem Concepts of Stats"
+  },
+  {
+    "subject": "UNIV",
+    "courseid": "UNIV 1800",
+    "Name": "FYE University Learning Skills"
+  },
+  {
+    "subject": "UNIV",
+    "courseid": "UNIV 1810",
+    "Name": "FYE Learning Community Seminar"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 2250",
+    "Name": "Critical Approaches to WGSS"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 2263",
+    "Name": "Women, Gender, and Violence"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 2680W",
+    "Name": "Sociology of Sexualities"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 3052",
+    "Name": "Women and Politics"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 3105W",
+    "Name": "The Politics of Reproduction"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 3252",
+    "Name": "Genders and Sexualities"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 3253W",
+    "Name": "Gender Rep US Popular Culture"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 3254",
+    "Name": "Women&Gender in the Deaf World"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 3269W",
+    "Name": "Gender, Sexuality, and Social"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 3271",
+    "Name": "Sem on Rape Ed & Awareness I"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 3718W",
+    "Name": "Feminism and Science Fiction"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 4994W",
+    "Name": "Senior Seminar"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 5333",
+    "Name": "Top in Hist of American Women"
+  },
+  {
+    "subject": "WGSS",
+    "courseid": "WGSS 5614",
+    "Name": "Sexual Citizenship"
+  }
+]

@@ -12,17 +12,14 @@ import boto3
 """
 
 def batchfunction(tname, fname):
-    # Initialize a session using Amazon DynamoDB.
     dynamodb = boto3.resource('dynamodb')
-
-    # Get a reference to the DynamoDB table.
     table = dynamodb.Table(tname)
 
-    # Load data from the "courses.json" file
+    #Load data from fname
     with open(fname, 'r') as file:
         data = json.load(file)
 
-    # Batch update the DynamoDB table with items from the JSON file
+    #Batch update
     with table.batch_writer() as batch:
         for item in data:
             try:
@@ -113,8 +110,8 @@ with open('resources/subjects.json', 'w') as json_file:
 
 print("subjects.json file created with starter subjects.")"""
 
-batchfunction("Subjects", "resources/EXsubjects.json")
-batchfunction("Subjects", "resources/subjects.json")
+#batchfunction("Subjects", "resources/EXsubjects.json")
+#batchfunction("Subjects", "resources/subjects.json")
 batchfunction("Courses", "resources/EXsubj1234.json")
-batchfunction("Users", "resources/EXusers.json")
-batchfunction("Users", "resources/users.json")
+#batchfunction("Users", "resources/EXusers.json")
+#batchfunction("Users", "resources/users.json")

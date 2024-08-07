@@ -1,0 +1,552 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "For CSE 2102 Course Registration project.",
+    "version" : "2023-12-03T05:20:17Z",
+    "title" : "Team 17 REST API"
+  },
+  "host" : "74ym2fsc17.execute-api.us-east-1.amazonaws.com",
+  "basePath" : "/ProjAPI",
+  "schemes" : [ "https" ],
+  "paths" : {
+    "/adminhomepage" : {
+      "get" : {
+        "description": "This function will list all of the courses available. The associated lambda function is GetSubjectTableAdmin.",
+        "produces" : [ "application/json" ],
+        "responses" : {
+          "200" : {
+            "description" : "200 response",
+            "schema" : {
+              "$ref" : "#/definitions/Empty"
+            },
+            "headers" : {
+              "Access-Control-Allow-Origin" : {
+                "type" : "string"
+              }
+            }
+          }
+        },
+        "x-amazon-apigateway-integration" : {
+          "httpMethod" : "POST",
+          "uri" : "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:849493832594:function:GetSubjectTableAdmin/invocations",
+          "responses" : {
+            "default" : {
+              "statusCode" : "200",
+              "responseParameters" : {
+                "method.response.header.Access-Control-Allow-Origin" : "'*'"
+              }
+            }
+          },
+          "passthroughBehavior" : "when_no_match",
+          "timeoutInMillis" : 5000,
+          "contentHandling" : "CONVERT_TO_TEXT",
+          "type" : "aws"
+        }
+      }
+    },
+    "/adminhomepage/section" : {
+      "post" : {
+        "description": "This function will add a course section to the database. The associated lambda function is AddSection.",
+        "produces" : [ "application/json" ],
+        "parameters": [
+          {
+            "name": "body",
+            "in": "body",
+            "description": "Pass in the following fields to create a new section.",
+            "required": true,
+            "type": "map",
+            "example": {
+              "CourseID": "SUBJ 1236",
+              "Section": "000",
+              "Capacity": 40,
+              "Location": "Library",
+              "Schedule": {
+                "Monday": {
+                  "S": "8:00-9:00"
+                },
+                "Tuesday": {
+                  "S": "8:00-9:00"
+                }
+              },
+              "TeacherID": "pro12003",
+              "TeacherName": "Ben Teechin"
+            }
+          }
+        ],
+        "responses" : {
+          "200" : {
+            "description" : "200 response",
+            "schema" : {
+              "$ref" : "#/definitions/Empty"
+            },
+            "headers" : {
+              "Access-Control-Allow-Origin" : {
+                "type" : "string"
+              }
+            }
+          }
+        },
+        "x-amazon-apigateway-integration" : {
+          "httpMethod" : "POST",
+          "uri" : "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:849493832594:function:AddSection/invocations",
+          "responses" : {
+            "default" : {
+              "statusCode" : "200",
+              "responseParameters" : {
+                "method.response.header.Access-Control-Allow-Origin" : "'*'"
+              }
+            }
+          },
+          "passthroughBehavior" : "when_no_match",
+          "timeoutInMillis" : 3000,
+          "contentHandling" : "CONVERT_TO_TEXT",
+          "type" : "aws"
+        }
+      }
+    },
+    "/auth0Login" : {
+      "post" : {
+        "description": "After login, this function should update DynamoDB with new users. The associated lambda function is auth0Login.",
+        "produces" : [ "application/json" ],
+        "parameters": [
+          {
+            "name": "body",
+            "in": "body",
+            "description": "Requires: UserID, Type, Name",
+            "required": true,
+            "type": "map",
+            "example": {
+              "UserID": "std20001",
+              "Type": "Student",
+              "Name": "Stu Dent"
+            }
+          }
+        ],
+        "responses" : {
+          "200" : {
+            "description" : "200 response",
+            "schema" : {
+              "$ref" : "#/definitions/Empty"
+            },
+            "headers" : {
+              "Access-Control-Allow-Origin" : {
+                "type" : "string"
+              }
+            }
+          }
+        },
+        "x-amazon-apigateway-integration" : {
+          "httpMethod" : "POST",
+          "uri" : "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:849493832594:function:auth0Login/invocations",
+          "responses" : {
+            "default" : {
+              "statusCode" : "200",
+              "responseParameters" : {
+                "method.response.header.Access-Control-Allow-Origin" : "'*'"
+              }
+            }
+          },
+          "passthroughBehavior" : "when_no_match",
+          "timeoutInMillis" : 3000,
+          "contentHandling" : "CONVERT_TO_TEXT",
+          "type" : "aws"
+        }
+      }
+    },
+    "/studenthomepage/enrollment" : {
+      "get" : {
+        "description": "List the courses a student is enrolled in. The associated lambda function is GetEnrolledList.",
+        "consumes" : [ "application/json" ],
+        "produces" : [ "application/json" ],
+        "parameters": [
+          {
+            "name": "UserID",
+            "in": "query",
+            "description": "Requires: UserID",
+            "required": true,
+            "type": "string",
+            "example": "std20001"
+          }
+        ],
+        "responses" : {
+          "200" : {
+            "description" : "200 response",
+            "schema" : {
+              "$ref" : "#/definitions/Empty"
+            },
+            "headers" : {
+              "Access-Control-Allow-Origin" : {
+                "type" : "string"
+              }
+            }
+          }
+        },
+        "x-amazon-apigateway-integration" : {
+          "httpMethod" : "POST",
+          "uri" : "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:849493832594:function:GetEnrolledList/invocations",
+          "responses" : {
+            "default" : {
+              "statusCode" : "200",
+              "responseParameters" : {
+                "method.response.header.Access-Control-Allow-Origin" : "'*'"
+              }
+            }
+          },
+          "requestTemplates" : {
+            "application/json" : "{\r\n  \"UserID\": \"$input.params('UserID')\"\r\n}"
+          },
+          "passthroughBehavior" : "when_no_match",
+          "timeoutInMillis" : 3000,
+          "contentHandling" : "CONVERT_TO_TEXT",
+          "type" : "aws"
+        }
+      },
+      "post" : {
+        "description": "Drop a course. The associated lambda function is DropCourse.",
+        "produces" : [ "application/json" ],
+        "parameters": [
+          {
+            "name": "body",
+            "in": "body",
+            "description": "Required: UserID, course_id_section",
+            "required": true,
+            "type": "map",
+            "example": {
+              "course_id_section": "SUBJ 1234-1",
+              "UserID": "std20001"
+            }
+          }
+        ],
+        "responses" : {
+          "200" : {
+            "description" : "200 response",
+            "schema" : {
+              "$ref" : "#/definitions/Empty"
+            },
+            "headers" : {
+              "Access-Control-Allow-Origin" : {
+                "type" : "string"
+              }
+            }
+          }
+        },
+        "x-amazon-apigateway-integration" : {
+          "httpMethod" : "POST",
+          "uri" : "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:849493832594:function:DropCourse/invocations",
+          "responses" : {
+            "default" : {
+              "statusCode" : "200",
+              "responseParameters" : {
+                "method.response.header.Access-Control-Allow-Origin" : "'*'"
+              }
+            }
+          },
+          "passthroughBehavior" : "when_no_match",
+          "timeoutInMillis" : 5000,
+          "contentHandling" : "CONVERT_TO_TEXT",
+          "type" : "aws"
+        }
+      }
+    },
+    "/studenthomepage/enrollment/courseinfo" : {
+      "get" : {
+        "description": "Display additional information about a course to a student. The associated lambda function is GetCourseInformation.",
+        "consumes" : [ "application/json" ],
+        "produces" : [ "application/json" ],
+        "parameters": [
+          {
+            "name": "course-id-section",
+            "in": "query",
+            "description": "Requires: course-id-section",
+            "required": true,
+            "type": "string",
+            "example": "SUBJ 1234-1"
+          }
+        ],
+        "responses" : {
+          "200" : {
+            "description" : "200 response",
+            "schema" : {
+              "$ref" : "#/definitions/Empty"
+            },
+            "headers" : {
+              "Access-Control-Allow-Origin" : {
+                "type" : "string"
+              }
+            }
+          }
+        },
+        "x-amazon-apigateway-integration" : {
+          "httpMethod" : "POST",
+          "uri" : "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:849493832594:function:GetCourseInformation/invocations",
+          "responses" : {
+            "default" : {
+              "statusCode" : "200",
+              "responseParameters" : {
+                "method.response.header.Access-Control-Allow-Origin" : "'*'"
+              }
+            }
+          },
+          "requestTemplates" : {
+            "application/json" : "{\n  \"course-id-section\": \"$input.params('course-id-section')\"\n}"
+          },
+          "passthroughBehavior" : "when_no_match",
+          "timeoutInMillis" : 3000,
+          "contentHandling" : "CONVERT_TO_TEXT",
+          "type" : "aws"
+        }
+      }
+    },
+    "/studenthomepage/search" : {
+      "get" : {
+        "description": "Load a dictionary of subjects mapped to course lists. The associated lambda function is GetSubjectTable.",
+        "produces" : [ "application/json" ],
+        "responses" : {
+          "200" : {
+            "description" : "200 response",
+            "schema" : {
+              "$ref" : "#/definitions/Empty"
+            },
+            "headers" : {
+              "Access-Control-Allow-Origin" : {
+                "type" : "string"
+              }
+            }
+          }
+        },
+        "x-amazon-apigateway-integration" : {
+          "httpMethod" : "POST",
+          "uri" : "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:849493832594:function:GetSubjectTable/invocations",
+          "responses" : {
+            "default" : {
+              "statusCode" : "200",
+              "responseParameters" : {
+                "method.response.header.Access-Control-Allow-Origin" : "'*'"
+              }
+            }
+          },
+          "passthroughBehavior" : "when_no_match",
+          "timeoutInMillis" : 3000,
+          "contentHandling" : "CONVERT_TO_TEXT",
+          "type" : "aws"
+        }
+      }
+    },
+    "/studenthomepage/search/courses/sections" : {
+      "get" : {
+        "description": "List the available sections for a selected course. The associated lambda function is GetCourseSections.",
+        "consumes" : [ "application/json" ],
+        "produces" : [ "application/json" ],
+        "parameters": [
+          {
+            "name": "CourseID",
+            "in": "query",
+            "description": "Required: CourseID",
+            "required": true,
+            "type": "string",
+            "example": "SUBJ 1234"
+          }
+        ],
+        "responses" : {
+          "200" : {
+            "description" : "200 response",
+            "schema" : {
+              "$ref" : "#/definitions/Empty"
+            },
+            "headers" : {
+              "Access-Control-Allow-Origin" : {
+                "type" : "string"
+              }
+            }
+          }
+        },
+        "x-amazon-apigateway-integration" : {
+          "httpMethod" : "POST",
+          "uri" : "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:849493832594:function:GetCourseSections/invocations",
+          "responses" : {
+            "default" : {
+              "statusCode" : "200",
+              "responseParameters" : {
+                "method.response.header.Access-Control-Allow-Origin" : "'*'"
+              }
+            }
+          },
+          "requestTemplates" : {
+            "application/json" : "{\n  \"CourseID\": \"$input.params('CourseID')\"\n}"
+          },
+          "passthroughBehavior" : "when_no_match",
+          "timeoutInMillis" : 3000,
+          "contentHandling" : "CONVERT_TO_TEXT",
+          "type" : "aws"
+        }
+      },
+      "post" : {
+        "description": "Enroll in a course. The associated lambda function is AddCourse.",
+        "produces" : [ "application/json" ],
+        "parameters": [
+          {
+            "name": "body",
+            "in": "body",
+            "description": "Required: CourseID, UserID, Secion",
+            "required": true,
+            "type": "map",
+            "example": {
+              "CourseID": "SUBJ 1234",
+              "UserID": "std20001",
+              "Section": "1"
+            }
+          }
+        ],
+        "responses" : {
+          "200" : {
+            "description" : "200 response",
+            "schema" : {
+              "$ref" : "#/definitions/Empty"
+            },
+            "headers" : {
+              "Access-Control-Allow-Origin" : {
+                "type" : "string"
+              }
+            }
+          }
+        },
+        "x-amazon-apigateway-integration" : {
+          "httpMethod" : "POST",
+          "uri" : "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:849493832594:function:AddCourse/invocations",
+          "responses" : {
+            "default" : {
+              "statusCode" : "200",
+              "responseParameters" : {
+                "method.response.header.Access-Control-Allow-Origin" : "'*'"
+              }
+            }
+          },
+          "passthroughBehavior" : "when_no_match",
+          "timeoutInMillis" : 5000,
+          "contentHandling" : "CONVERT_TO_TEXT",
+          "type" : "aws"
+        }
+      }
+    },
+    "/teacherhomepage/enrollment" : {
+      "get" : {
+        "description": "Get list of courses a teacher is assigned to. The associated lambda function is GetEnrolledListTeacher.",
+        "consumes" : [ "application/json" ],
+        "produces" : [ "application/json" ],
+        "parameters": [
+          {
+            "name": "UserID",
+            "in": "query",
+            "description": "Required: UserID",
+            "required": true,
+            "type": "string",
+            "example": "pro12003"
+          }
+        ],
+        "responses" : {
+          "200" : {
+            "description" : "200 response",
+            "schema" : {
+              "$ref" : "#/definitions/Empty"
+            },
+            "headers" : {
+              "Access-Control-Allow-Origin" : {
+                "type" : "string"
+              }
+            }
+          }
+        },
+        "x-amazon-apigateway-integration" : {
+          "httpMethod" : "POST",
+          "uri" : "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:849493832594:function:GetEnrolledListTeacher/invocations",
+          "responses" : {
+            "default" : {
+              "statusCode" : "200",
+              "responseParameters" : {
+                "method.response.header.Access-Control-Allow-Origin" : "'*'"
+              }
+            }
+          },
+          "requestTemplates" : {
+            "application/json" : "{\r\n  \"UserID\": \"$input.params('UserID')\"\r\n}"
+          },
+          "passthroughBehavior" : "when_no_match",
+          "timeoutInMillis" : 3000,
+          "contentHandling" : "CONVERT_TO_TEXT",
+          "type" : "aws"
+        }
+      }
+    },
+    "/teacherhomepage/enrollment/courseinfo" : {
+      "get" : {
+        "description": "Get additional information about a course. The associated lambda function is GetCourseInfoTeacher.",
+        "consumes" : [ "application/json" ],
+        "produces" : [ "application/json" ],
+        "parameters": [
+          {
+            "name": "course-id-section",
+            "in": "query",
+            "description": "Required: course-id-section",
+            "required": true,
+            "type": "string",
+            "example": "SUBJ 1234-1"
+          }
+        ],
+        "responses" : {
+          "200" : {
+            "description" : "200 response",
+            "schema" : {
+              "$ref" : "#/definitions/Empty"
+            },
+            "headers" : {
+              "Access-Control-Allow-Origin" : {
+                "type" : "string"
+              }
+            }
+          }
+        },
+        "x-amazon-apigateway-integration" : {
+          "httpMethod" : "POST",
+          "uri" : "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:849493832594:function:GetCourseInfoTeacher/invocations",
+          "responses" : {
+            "default" : {
+              "statusCode" : "200",
+              "responseParameters" : {
+                "method.response.header.Access-Control-Allow-Origin" : "'*'"
+              }
+            }
+          },
+          "requestTemplates" : {
+            "application/json" : "{\r\n  \"course-id-section\": \"$input.params('course-id-section')\"\r\n}"
+          },
+          "passthroughBehavior" : "when_no_match",
+          "timeoutInMillis" : 3000,
+          "contentHandling" : "CONVERT_TO_TEXT",
+          "type" : "aws"
+        }
+      }
+    }
+  },
+  "definitions" : {
+    "Empty" : {
+      "type" : "object",
+      "title" : "Empty Schema"
+    }
+  },
+  "x-amazon-apigateway-gateway-responses" : {
+    "DEFAULT_5XX" : {
+      "responseParameters" : {
+        "gatewayresponse.header.Access-Control-Allow-Methods" : "'OPTIONS'",
+        "gatewayresponse.header.Access-Control-Allow-Origin" : "'*'",
+        "gatewayresponse.header.Access-Control-Allow-Headers" : "'Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token'"
+      }
+    },
+    "DEFAULT_4XX" : {
+      "responseParameters" : {
+        "gatewayresponse.header.Access-Control-Allow-Methods" : "'OPTIONS'",
+        "gatewayresponse.header.Access-Control-Allow-Origin" : "'*'",
+        "gatewayresponse.header.Access-Control-Allow-Headers" : "'Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token'"
+      }
+    }
+  }
+}

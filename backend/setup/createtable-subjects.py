@@ -1,11 +1,10 @@
 import boto3
 
-# Initialize the DynamoDB client
-dynamodb = boto3.client('dynamodb', region_name="us-east-1")
+dynamodb = boto3.client('dynamodb')
 
 def createtable():
 
-    # Define the table name and schema for the Courses table.
+    #Define the table name and schema for Courses
     courses_table_name = 'Subjects'
     courses_table = dynamodb.create_table(
         TableName=courses_table_name,
@@ -23,7 +22,7 @@ def createtable():
         }
     )
 
-    # Wait for the table to be created.
+    #Wait for the table to be created
     courses_table.wait_until_exists()
 
     print(f'Table {courses_table_name} created successfully.')

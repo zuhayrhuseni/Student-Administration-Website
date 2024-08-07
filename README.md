@@ -8,6 +8,7 @@ This repository contains the code for a student administration system designed t
 - Student Enrollment
 - Data Management using DynamoDB
 - RESTful API Endpoints
+- Integration with Auth0 for user authentication
 
 ## Setup Instructions
 
